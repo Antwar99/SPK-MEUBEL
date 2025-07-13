@@ -1,0 +1,8 @@
+#header {
+    transition: top 0.3s;
+    z-index: 999;
+}
+
+.header-hidden {
+    top: -100px; /* sembunyikan ke atas */
+}
