@@ -22,7 +22,7 @@ RUN composer install --no-dev --optimize-autoloader
 RUN chmod -R 775 storage bootstrap/cache
 
 # Expose port (Railway expects 8080)
-EXPOSE 8080
+EXPOSE 8000
 
 # Run Laravel server
-CMD ["php", "artisan", "serve", "--host=0.0.0.0", "--port=8080"]
+CMD ["php", "artisan", "serve", "--host=0.0.0.0", "--port=8000"]
