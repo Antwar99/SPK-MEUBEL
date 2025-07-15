@@ -30,7 +30,7 @@
 
         {{-- Tombol kanan --}}
         @auth
-            <a class="btn-dashborad-dark scrollto " href="{{ route('dashboard.index') }}">Dashboard</a>
+            <a class="btn-dashborad-dark scrollto " href="{{ route('dashboard.index') }}">Beranda</a>
         @else
             <a class="btn-getstarted scrollto" href="{{ route('login.index') }}">Mulai</a>
         @endauth

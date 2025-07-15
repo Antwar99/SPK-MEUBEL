@@ -50,3 +50,143 @@
 [2025-07-13 20:43:13] local.DEBUG: Model Criteria pakai tabel: criterias  
 [2025-07-13 20:43:13] local.DEBUG: Model Criteria pakai tabel: criterias  
 [2025-07-13 20:43:13] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-14 17:27:50] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-14 17:27:50] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-14 17:27:50] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-14 17:27:50] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-14 17:27:50] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-14 17:27:50] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-14 17:31:01] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-14 17:31:01] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-14 17:31:01] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-14 17:31:01] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-14 17:31:01] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-14 17:31:01] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-14 17:31:04] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-14 17:31:04] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-14 17:31:04] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-14 17:31:04] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-14 17:31:04] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-14 17:31:04] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-14 17:31:04] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-14 17:31:04] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-14 17:31:04] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-14 17:31:04] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-14 17:31:04] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-14 17:31:04] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-14 17:31:17] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-14 17:31:17] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-14 17:31:17] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-14 17:31:17] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-14 17:31:17] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-14 17:31:17] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-14 17:31:17] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-14 17:31:17] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-14 17:31:17] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-14 17:31:17] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-14 17:31:17] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-14 17:31:17] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-14 17:52:21] local.DEBUG: QUERY: select * from `criterias` where `criterias`.`created_by` = ?  
+[2025-07-14 17:52:21] local.DEBUG: BINDINGS: [1]  
+[2025-07-14 17:52:21] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-14 17:52:21] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-14 17:52:21] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-14 17:52:21] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-14 17:52:21] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-14 17:52:21] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-14 17:52:21] local.DEBUG: QUERY: select * from `priority_values` where `criteria_id` = ? limit 1  
+[2025-07-14 17:52:21] local.DEBUG: BINDINGS: [34]  
+[2025-07-14 17:52:21] local.DEBUG: QUERY: select * from `priority_values` where `criteria_id` = ? limit 1  
+[2025-07-14 17:52:21] local.DEBUG: BINDINGS: [35]  
+[2025-07-14 17:52:21] local.DEBUG: QUERY: select * from `priority_values` where `criteria_id` = ? limit 1  
+[2025-07-14 17:52:21] local.DEBUG: BINDINGS: [36]  
+[2025-07-14 17:52:21] local.DEBUG: QUERY: select * from `priority_values` where `criteria_id` = ? limit 1  
+[2025-07-14 17:52:21] local.DEBUG: BINDINGS: [37]  
+[2025-07-14 17:52:21] local.DEBUG: QUERY: select * from `priority_values` where `criteria_id` = ? limit 1  
+[2025-07-14 17:52:21] local.DEBUG: BINDINGS: [38]  
+[2025-07-14 17:52:21] local.DEBUG: QUERY: select * from `priority_values` where `criteria_id` = ? limit 1  
+[2025-07-14 17:52:21] local.DEBUG: BINDINGS: [39]  
+[2025-07-14 17:52:24] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-14 17:52:24] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-14 17:52:24] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-14 17:52:24] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-14 17:52:24] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-14 17:52:24] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-14 17:57:47] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-14 17:57:47] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-14 17:57:47] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-14 17:57:47] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-14 17:57:47] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-14 17:57:47] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-14 17:57:50] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-14 17:57:50] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-14 17:57:50] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-14 17:57:50] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-14 17:57:50] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-14 17:57:50] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-14 17:57:50] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-14 17:57:50] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-14 17:57:50] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-14 17:57:50] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-14 17:57:50] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-14 17:57:50] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-14 17:57:54] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-14 17:57:54] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-14 17:57:54] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-14 17:57:54] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-14 17:57:54] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-14 17:57:54] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-14 17:57:54] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-14 17:57:54] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-14 17:57:54] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-14 17:57:54] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-14 17:57:54] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-14 17:57:54] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-14 17:58:31] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-14 17:58:31] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-14 17:58:31] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-14 17:58:31] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-14 17:58:31] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-14 17:58:31] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-14 18:01:02] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-14 18:01:02] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-14 18:01:02] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-14 18:01:02] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-14 18:01:02] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-14 18:01:02] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-14 18:01:06] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-14 18:01:06] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-14 18:01:06] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-14 18:01:06] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-14 18:01:06] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-14 18:01:06] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-14 18:01:06] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-14 18:01:06] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-14 18:01:06] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-14 18:01:06] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-14 18:01:06] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-14 18:01:06] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-14 18:01:09] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-14 18:01:09] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-14 18:01:09] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-14 18:01:09] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-14 18:01:09] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-14 18:01:09] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-14 18:01:09] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-14 18:01:09] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-14 18:01:09] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-14 18:01:09] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-14 18:01:09] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-14 18:01:09] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-14 18:01:13] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-14 18:01:13] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-14 18:01:13] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-14 18:01:13] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-14 18:01:13] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-14 18:01:13] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-14 18:02:03] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-14 18:02:03] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-14 18:02:03] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-14 18:02:03] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-14 18:02:03] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-14 18:02:03] local.DEBUG: Model Criteria pakai tabel: criterias  
