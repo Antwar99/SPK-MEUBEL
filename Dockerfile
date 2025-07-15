@@ -1,45 +1,29 @@
-FROM php:8.2-fpm
+# Gunakan PHP 8.2 dengan FPM
+FROM php:8.2-cli
 
-# Install dependencies
+# Install ekstensi yang dibutuhkan Laravel
 RUN apt-get update && apt-get install -y \
-    build-essential \
-    libpng-dev \
-    libjpeg-dev \
-    libonig-dev \
-    libxml2-dev \
-    zip \
-    unzip \
-    curl \
-    git \
-    libzip-dev \
-    libpq-dev \
-    libfreetype6-dev \
-    libjpeg62-turbo-dev \
-    libpng-dev \
-    libmcrypt-dev \
-    && docker-php-ext-install pdo_mysql mbstring exif pcntl bcmath gd zip
+    unzip zip curl git libzip-dev libpng-dev libjpeg-dev libfreetype6-dev libonig-dev libxml2-dev \
+    && docker-php-ext-install pdo pdo_mysql mbstring zip exif bcmath gd
 
 # Install Composer
 COPY --from=composer:2 /usr/bin/composer /usr/bin/composer
 
 # Set working directory
-WORKDIR /var/www
+WORKDIR /app
 
 # Copy project files
 COPY . .
 
-# Install dependencies
-RUN composer install --optimize-autoloader --no-dev
+# Install dependensi Laravel
+RUN composer install --no-dev --optimize-autoloader
 
-# Clear and cache config/routes/views
-RUN php artisan config:clear && php artisan view:clear
-RUN php artisan config:cache && php artisan view:cache
-
-# Fix permissions
+# Izin folder Laravel
 RUN chmod -R 775 storage bootstrap/cache
 
-# Expose Railway port
-EXPOSE 8080
+# Cache konfigurasi
+RUN php artisan config:clear && php artisan view:clear && php artisan config:cache && php artisan view:cache
 
-# Start Laravel server
+# Jalankan Laravel dev server di Railway port 8080
+EXPOSE 8080
 CMD php artisan serve --host=0.0.0.0 --port=8080
