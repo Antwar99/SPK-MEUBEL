@@ -25,14 +25,21 @@ COPY --from=composer:2 /usr/bin/composer /usr/bin/composer
 # Set working directory
 WORKDIR /var/www
 
+# Copy project files
 COPY . .
 
+# Install dependencies
 RUN composer install --optimize-autoloader --no-dev
 
+# Clear and cache config/routes/views
 RUN php artisan config:clear && php artisan route:clear && php artisan view:clear
+RUN php artisan config:cache && php artisan route:cache && php artisan view:cache
 
-RUN php artisan config:cache
+# Fix permissions
+RUN chmod -R 775 storage bootstrap/cache
 
-EXPOSE 8000
+# Expose Railway port
+EXPOSE 8080
 
-CMD php artisan serve --host=0.0.0.0 --port=8000
+# Start Laravel server
+CMD php artisan serve --host=0.0.0.0 --port=8080

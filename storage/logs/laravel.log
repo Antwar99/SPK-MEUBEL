@@ -190,3 +190,33 @@
 [2025-07-14 18:02:03] local.DEBUG: Model Criteria pakai tabel: criterias  
 [2025-07-14 18:02:03] local.DEBUG: Model Criteria pakai tabel: criterias  
 [2025-07-14 18:02:03] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-15 20:00:09] local.ERROR: The "--v" option does not exist. {"exception":"[object] (Symfony\\Component\\Console\\Exception\\RuntimeException(code: 0): The \"--v\" option does not exist. at D:\\PROJECT AKHHIR\\SPK\\vendor\\symfony\\console\\Input\\ArgvInput.php:223)
+[stacktrace]
+#0 D:\\PROJECT AKHHIR\\SPK\\vendor\\symfony\\console\\Input\\ArgvInput.php(152): Symfony\\Component\\Console\\Input\\ArgvInput->addLongOption('v', NULL)
+#1 D:\\PROJECT AKHHIR\\SPK\\vendor\\symfony\\console\\Input\\ArgvInput.php(85): Symfony\\Component\\Console\\Input\\ArgvInput->parseLongOption('--v')
+#2 D:\\PROJECT AKHHIR\\SPK\\vendor\\symfony\\console\\Input\\ArgvInput.php(74): Symfony\\Component\\Console\\Input\\ArgvInput->parseToken('--v', true)
+#3 D:\\PROJECT AKHHIR\\SPK\\vendor\\symfony\\console\\Input\\Input.php(56): Symfony\\Component\\Console\\Input\\ArgvInput->parse()
+#4 D:\\PROJECT AKHHIR\\SPK\\vendor\\symfony\\console\\Command\\Command.php(285): Symfony\\Component\\Console\\Input\\Input->bind(Object(Symfony\\Component\\Console\\Input\\InputDefinition))
+#5 D:\\PROJECT AKHHIR\\SPK\\vendor\\symfony\\console\\Application.php(1078): Symfony\\Component\\Console\\Command\\Command->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#6 D:\\PROJECT AKHHIR\\SPK\\vendor\\symfony\\console\\Application.php(324): Symfony\\Component\\Console\\Application->doRunCommand(Object(Symfony\\Component\\Console\\Command\\ListCommand), Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#7 D:\\PROJECT AKHHIR\\SPK\\vendor\\symfony\\console\\Application.php(175): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#8 D:\\PROJECT AKHHIR\\SPK\\vendor\\laravel\\framework\\src\\Illuminate\\Console\\Application.php(102): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#9 D:\\PROJECT AKHHIR\\SPK\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(155): Illuminate\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#10 D:\\PROJECT AKHHIR\\SPK\\artisan(35): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#11 {main}
+"} 
+[2025-07-15 20:00:51] local.ERROR: The "-e" option does not exist. {"exception":"[object] (Symfony\\Component\\Console\\Exception\\RuntimeException(code: 0): The \"-e\" option does not exist. at D:\\PROJECT AKHHIR\\SPK\\vendor\\symfony\\console\\Input\\ArgvInput.php:125)
+[stacktrace]
+#0 D:\\PROJECT AKHHIR\\SPK\\vendor\\symfony\\console\\Input\\ArgvInput.php(107): Symfony\\Component\\Console\\Input\\ArgvInput->parseShortOptionSet('version')
+#1 D:\\PROJECT AKHHIR\\SPK\\vendor\\symfony\\console\\Input\\ArgvInput.php(87): Symfony\\Component\\Console\\Input\\ArgvInput->parseShortOption('-version')
+#2 D:\\PROJECT AKHHIR\\SPK\\vendor\\symfony\\console\\Input\\ArgvInput.php(74): Symfony\\Component\\Console\\Input\\ArgvInput->parseToken('-version', true)
+#3 D:\\PROJECT AKHHIR\\SPK\\vendor\\symfony\\console\\Input\\Input.php(56): Symfony\\Component\\Console\\Input\\ArgvInput->parse()
+#4 D:\\PROJECT AKHHIR\\SPK\\vendor\\symfony\\console\\Command\\Command.php(285): Symfony\\Component\\Console\\Input\\Input->bind(Object(Symfony\\Component\\Console\\Input\\InputDefinition))
+#5 D:\\PROJECT AKHHIR\\SPK\\vendor\\symfony\\console\\Application.php(1078): Symfony\\Component\\Console\\Command\\Command->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#6 D:\\PROJECT AKHHIR\\SPK\\vendor\\symfony\\console\\Application.php(324): Symfony\\Component\\Console\\Application->doRunCommand(Object(Symfony\\Component\\Console\\Command\\ListCommand), Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#7 D:\\PROJECT AKHHIR\\SPK\\vendor\\symfony\\console\\Application.php(175): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#8 D:\\PROJECT AKHHIR\\SPK\\vendor\\laravel\\framework\\src\\Illuminate\\Console\\Application.php(102): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#9 D:\\PROJECT AKHHIR\\SPK\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(155): Illuminate\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#10 D:\\PROJECT AKHHIR\\SPK\\artisan(35): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#11 {main}
+"} 
