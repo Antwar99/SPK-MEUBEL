@@ -32,8 +32,8 @@ COPY . .
 RUN composer install --optimize-autoloader --no-dev
 
 # Clear and cache config/routes/views
-RUN php artisan config:clear && php artisan route:clear && php artisan view:clear
-RUN php artisan config:cache && php artisan route:cache && php artisan view:cache
+RUN php artisan config:clear && php artisan view:clear
+RUN php artisan config:cache && php artisan view:cache
 
 # Fix permissions
 RUN chmod -R 775 storage bootstrap/cache
