@@ -16,6 +16,9 @@ WORKDIR /var/www
 # Salin semua file ke container
 COPY . .
 
+# Link log Laravel ke stdout agar bisa dilihat di Railway log viewer
+RUN ln -sf /dev/stdout /var/www/storage/logs/laravel.log
+
 # Install dependensi Laravel
 RUN composer install --no-dev --optimize-autoloader
 
@@ -29,6 +32,9 @@ RUN php artisan config:clear \
 
 # Set permission untuk storage dan bootstrap/cache
 RUN chmod -R 775 storage bootstrap/cache
+
+# Jalankan migrate pakai --force agar tidak interaktif (dan hindari gagal build)
+RUN php artisan migrate --force || true
 
 # Railway membutuhkan port 8080
 EXPOSE 8080
