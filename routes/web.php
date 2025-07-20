@@ -28,8 +28,7 @@ Route::prefix('dashboard')->middleware('auth')->group(function () {
         Route::resources([
             'kriteria' => CriteriaController::class,
             'wood' => WoodController::class,
-            'wood/category' => CategoryController::class,
-            'users' => UserController::class,
+              'users' => UserController::class,
         ], ['except' => 'show']);
     });
     Route::delete('/dashboard/kriteria/destroy-all', [CriteriaController::class, 'destroyAll'])->name('kriteria.destroyAll');
