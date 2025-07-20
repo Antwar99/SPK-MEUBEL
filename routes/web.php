@@ -57,7 +57,7 @@ Route::prefix('dashboard')->middleware('auth')->group(function () {
 
     // Tambahan: route untuk menampilkan data kayu berdasarkan kategori
     Route::get('category/{category:slug}/woods', [CategoryController::class, 'woods'])->name('category.woods');
-    Route::put('/dashboard/wood/category/{id}', [CategoryController::class, 'update'])->name('category.update');
+
 
 });
     // Alternative (Alternatif) Routes
