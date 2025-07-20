@@ -1667,3 +1667,1482 @@ Did you mean one of these?
 [2025-07-20 21:35:34] local.DEBUG: Model Criteria pakai tabel: criterias  
 [2025-07-20 21:35:34] local.DEBUG: Model Criteria pakai tabel: criterias  
 [2025-07-20 21:35:34] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-20 21:40:08] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-20 21:40:08] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-20 21:40:08] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-20 21:40:08] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-20 21:40:08] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-20 21:40:08] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-20 21:40:14] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-20 21:40:14] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-20 21:40:14] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-20 21:40:14] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-20 21:40:14] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-20 21:40:14] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-20 21:40:17] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-20 21:40:17] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-20 21:40:17] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-20 21:40:17] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-20 21:40:17] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-20 21:40:17] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-20 21:40:17] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-20 21:40:17] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-20 21:40:17] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-20 21:40:17] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-20 21:40:17] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-20 21:40:17] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-20 21:40:20] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-20 21:40:20] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-20 21:40:20] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-20 21:40:20] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-20 21:40:20] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-20 21:40:20] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-20 21:40:20] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-20 21:40:20] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-20 21:40:20] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-20 21:40:20] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-20 21:40:20] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-20 21:40:20] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-20 21:40:23] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-20 21:40:23] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-20 21:40:23] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-20 21:40:23] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-20 21:40:23] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-20 21:40:23] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-20 21:45:11] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-20 21:45:11] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-20 21:45:11] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-20 21:45:11] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-20 21:45:11] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-20 21:45:11] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-20 21:45:11] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-20 21:45:11] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-20 21:45:11] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-20 21:45:11] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-20 21:45:11] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-20 21:45:11] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-20 21:45:11] local.ERROR: Route [kriteria.index] not defined. {"view":{"view":"D:\\PROJECT AKHHIR\\SPK\\resources\\views\\includes\\admin\\sidenav.blade.php","data":{"errors":"<pre class=sf-dump id=sf-dump-1231698831 data-indent-pad=\"  \"><span class=sf-dump-note>Illuminate\\Support\\ViewErrorBag</span> {<a class=sf-dump-ref>#1382</a><samp data-depth=1 class=sf-dump-expanded>
+  #<span class=sf-dump-protected title=\"Protected property\">bags</span>: []
+</samp>}
+</pre><script>Sfdump(\"sf-dump-1231698831\", {\"maxDepth\":3,\"maxStringLength\":160})</script>
+","title":"<pre class=sf-dump id=sf-dump-1833518219 data-indent-pad=\"  \">\"<span class=sf-dump-str title=\"23 characters\">Ranking Bahan Baku Kayu</span>\"
+</pre><script>Sfdump(\"sf-dump-1833518219\", {\"maxDepth\":3,\"maxStringLength\":160})</script>
+","criteria_analysis":"<pre class=sf-dump id=sf-dump-1794925427 data-indent-pad=\"  \"><span class=sf-dump-note>App\\Models\\CriteriaAnalysis</span> {<a class=sf-dump-ref>#1422</a><samp data-depth=1 class=sf-dump-expanded>
+  #<span class=sf-dump-protected title=\"Protected property\">connection</span>: \"<span class=sf-dump-str title=\"5 characters\">mysql</span>\"
+  #<span class=sf-dump-protected title=\"Protected property\">table</span>: \"<span class=sf-dump-str title=\"17 characters\">criteria_analyses</span>\"
+  #<span class=sf-dump-protected title=\"Protected property\">primaryKey</span>: \"<span class=sf-dump-str title=\"2 characters\">id</span>\"
+  #<span class=sf-dump-protected title=\"Protected property\">keyType</span>: \"<span class=sf-dump-str title=\"3 characters\">int</span>\"
+  +<span class=sf-dump-public title=\"Public property\">incrementing</span>: <span class=sf-dump-const>true</span>
+  #<span class=sf-dump-protected title=\"Protected property\">with</span>: []
+  #<span class=sf-dump-protected title=\"Protected property\">withCount</span>: []
+  +<span class=sf-dump-public title=\"Public property\">preventsLazyLoading</span>: <span class=sf-dump-const>false</span>
+  #<span class=sf-dump-protected title=\"Protected property\">perPage</span>: <span class=sf-dump-num>15</span>
+  +<span class=sf-dump-public title=\"Public property\">exists</span>: <span class=sf-dump-const>true</span>
+  +<span class=sf-dump-public title=\"Public property\">wasRecentlyCreated</span>: <span class=sf-dump-const>false</span>
+  #<span class=sf-dump-protected title=\"Protected property\">escapeWhenCastingToString</span>: <span class=sf-dump-const>false</span>
+  #<span class=sf-dump-protected title=\"Protected property\">attributes</span>: <span class=sf-dump-note>array:5</span> [<samp data-depth=2 class=sf-dump-compact>
+    \"<span class=sf-dump-key>id</span>\" => <span class=sf-dump-num>4</span>
+    \"<span class=sf-dump-key>created_by</span>\" => <span class=sf-dump-num>1</span>
+    \"<span class=sf-dump-key>user_id</span>\" => <span class=sf-dump-num>1</span>
+    \"<span class=sf-dump-key>created_at</span>\" => \"<span class=sf-dump-str title=\"19 characters\">2025-06-24 09:17:07</span>\"
+    \"<span class=sf-dump-key>updated_at</span>\" => \"<span class=sf-dump-str title=\"19 characters\">2025-06-24 09:17:07</span>\"
+  </samp>]
+  #<span class=sf-dump-protected title=\"Protected property\">original</span>: <span class=sf-dump-note>array:5</span> [<samp data-depth=2 class=sf-dump-compact>
+    \"<span class=sf-dump-key>id</span>\" => <span class=sf-dump-num>4</span>
+    \"<span class=sf-dump-key>created_by</span>\" => <span class=sf-dump-num>1</span>
+    \"<span class=sf-dump-key>user_id</span>\" => <span class=sf-dump-num>1</span>
+    \"<span class=sf-dump-key>created_at</span>\" => \"<span class=sf-dump-str title=\"19 characters\">2025-06-24 09:17:07</span>\"
+    \"<span class=sf-dump-key>updated_at</span>\" => \"<span class=sf-dump-str title=\"19 characters\">2025-06-24 09:17:07</span>\"
+  </samp>]
+  #<span class=sf-dump-protected title=\"Protected property\">changes</span>: []
+  #<span class=sf-dump-protected title=\"Protected property\">casts</span>: []
+  #<span class=sf-dump-protected title=\"Protected property\">classCastCache</span>: []
+  #<span class=sf-dump-protected title=\"Protected property\">attributeCastCache</span>: []
+  #<span class=sf-dump-protected title=\"Protected property\">dates</span>: []
+  #<span class=sf-dump-protected title=\"Protected property\">dateFormat</span>: <span class=sf-dump-const>null</span>
+  #<span class=sf-dump-protected title=\"Protected property\">appends</span>: []
+  #<span class=sf-dump-protected title=\"Protected property\">dispatchesEvents</span>: []
+  #<span class=sf-dump-protected title=\"Protected property\">observables</span>: []
+  #<span class=sf-dump-protected title=\"Protected property\">relations</span>: <span class=sf-dump-note>array:1</span> [<samp data-depth=2 class=sf-dump-compact>
+    \"<span class=sf-dump-key>priorityValues</span>\" => <span class=\"sf-dump-note sf-dump-ellipsization\" title=\"Illuminate\\Database\\Eloquent\\Collection
+\"><span class=\"sf-dump-ellipsis sf-dump-ellipsis-note\">Illuminate\\Database\\Eloquent</span><span class=\"sf-dump-ellipsis sf-dump-ellipsis-note\">\\</span><span class=\"sf-dump-ellipsis-tail\">Collection</span></span> {<a class=sf-dump-ref>#1434</a><samp data-depth=3 class=sf-dump-compact>
+      #<span class=sf-dump-protected title=\"Protected property\">items</span>: <span class=sf-dump-note>array:6</span> [ &#8230;6]
+      #<span class=sf-dump-protected title=\"Protected property\">escapeWhenCastingToString</span>: <span class=sf-dump-const>false</span>
+    </samp>}
+  </samp>]
+  #<span class=sf-dump-protected title=\"Protected property\">touches</span>: []
+  +<span class=sf-dump-public title=\"Public property\">timestamps</span>: <span class=sf-dump-const>true</span>
+  #<span class=sf-dump-protected title=\"Protected property\">hidden</span>: []
+  #<span class=sf-dump-protected title=\"Protected property\">visible</span>: []
+  #<span class=sf-dump-protected title=\"Protected property\">fillable</span>: <span class=sf-dump-note>array:2</span> [<samp data-depth=2 class=sf-dump-compact>
+    <span class=sf-dump-index>0</span> => \"<span class=sf-dump-str title=\"7 characters\">user_id</span>\"
+    <span class=sf-dump-index>1</span> => \"<span class=sf-dump-str title=\"10 characters\">created_by</span>\"
+  </samp>]
+  #<span class=sf-dump-protected title=\"Protected property\">guarded</span>: <span class=sf-dump-note>array:1</span> [<samp data-depth=2 class=sf-dump-compact>
+    <span class=sf-dump-index>0</span> => \"<span class=sf-dump-str>*</span>\"
+  </samp>]
+</samp>}
+</pre><script>Sfdump(\"sf-dump-1794925427\", {\"maxDepth\":3,\"maxStringLength\":160})</script>
+","dividers":"<pre class=sf-dump id=sf-dump-803801161 data-indent-pad=\"  \"><span class=sf-dump-note>array:6</span> [<samp data-depth=1 class=sf-dump-expanded>
+  <span class=sf-dump-index>0</span> => <span class=sf-dump-note>array:4</span> [<samp data-depth=2 class=sf-dump-compact>
+    \"<span class=sf-dump-key>criteria_id</span>\" => <span class=sf-dump-num>34</span>
+    \"<span class=sf-dump-key>name</span>\" => \"<span class=sf-dump-str title=\"8 characters\">Kekuatan</span>\"
+    \"<span class=sf-dump-key>kategori</span>\" => \"<span class=sf-dump-str title=\"7 characters\">BENEFIT</span>\"
+    \"<span class=sf-dump-key>divider_value</span>\" => <span class=sf-dump-num>4.0</span>
+  </samp>]
+  <span class=sf-dump-index>1</span> => <span class=sf-dump-note>array:4</span> [<samp data-depth=2 class=sf-dump-compact>
+    \"<span class=sf-dump-key>criteria_id</span>\" => <span class=sf-dump-num>35</span>
+    \"<span class=sf-dump-key>name</span>\" => \"<span class=sf-dump-str title=\"8 characters\">Keawetan</span>\"
+    \"<span class=sf-dump-key>kategori</span>\" => \"<span class=sf-dump-str title=\"7 characters\">BENEFIT</span>\"
+    \"<span class=sf-dump-key>divider_value</span>\" => <span class=sf-dump-num>4.0</span>
+  </samp>]
+  <span class=sf-dump-index>2</span> => <span class=sf-dump-note>array:4</span> [<samp data-depth=2 class=sf-dump-compact>
+    \"<span class=sf-dump-key>criteria_id</span>\" => <span class=sf-dump-num>36</span>
+    \"<span class=sf-dump-key>name</span>\" => \"<span class=sf-dump-str title=\"20 characters\">Kandungan Kelembaban</span>\"
+    \"<span class=sf-dump-key>kategori</span>\" => \"<span class=sf-dump-str title=\"4 characters\">COST</span>\"
+    \"<span class=sf-dump-key>divider_value</span>\" => <span class=sf-dump-num>2.0</span>
+  </samp>]
+  <span class=sf-dump-index>3</span> => <span class=sf-dump-note>array:4</span> [<samp data-depth=2 class=sf-dump-compact>
+    \"<span class=sf-dump-key>criteria_id</span>\" => <span class=sf-dump-num>37</span>
+    \"<span class=sf-dump-key>name</span>\" => \"<span class=sf-dump-str title=\"8 characters\">Estetika</span>\"
+    \"<span class=sf-dump-key>kategori</span>\" => \"<span class=sf-dump-str title=\"7 characters\">BENEFIT</span>\"
+    \"<span class=sf-dump-key>divider_value</span>\" => <span class=sf-dump-num>4.0</span>
+  </samp>]
+  <span class=sf-dump-index>4</span> => <span class=sf-dump-note>array:4</span> [<samp data-depth=2 class=sf-dump-compact>
+    \"<span class=sf-dump-key>criteria_id</span>\" => <span class=sf-dump-num>38</span>
+    \"<span class=sf-dump-key>name</span>\" => \"<span class=sf-dump-str title=\"20 characters\">Kemudahan Pengolahan</span>\"
+    \"<span class=sf-dump-key>kategori</span>\" => \"<span class=sf-dump-str title=\"7 characters\">BENEFIT</span>\"
+    \"<span class=sf-dump-key>divider_value</span>\" => <span class=sf-dump-num>4.0</span>
+  </samp>]
+  <span class=sf-dump-index>5</span> => <span class=sf-dump-note>array:4</span> [<samp data-depth=2 class=sf-dump-compact>
+    \"<span class=sf-dump-key>criteria_id</span>\" => <span class=sf-dump-num>39</span>
+    \"<span class=sf-dump-key>name</span>\" => \"<span class=sf-dump-str title=\"22 characters\">Harga dan Ketersediaan</span>\"
+    \"<span class=sf-dump-key>kategori</span>\" => \"<span class=sf-dump-str title=\"4 characters\">COST</span>\"
+    \"<span class=sf-dump-key>divider_value</span>\" => <span class=sf-dump-num>2.0</span>
+  </samp>]
+</samp>]
+</pre><script>Sfdump(\"sf-dump-803801161\", {\"maxDepth\":3,\"maxStringLength\":160})</script>
+","criterias":"<pre class=sf-dump id=sf-dump-1950438554 data-indent-pad=\"  \"><span class=sf-dump-note>Illuminate\\Database\\Eloquent\\Collection</span> {<a class=sf-dump-ref>#1540</a><samp data-depth=1 class=sf-dump-expanded>
+  #<span class=sf-dump-protected title=\"Protected property\">items</span>: <span class=sf-dump-note>array:6</span> [<samp data-depth=2 class=sf-dump-compact>
+    <span class=sf-dump-index>0</span> => <span class=\"sf-dump-note sf-dump-ellipsization\" title=\"App\\Models\\Criteria
+\"><span class=\"sf-dump-ellipsis sf-dump-ellipsis-note\">App\\Models</span><span class=\"sf-dump-ellipsis sf-dump-ellipsis-note\">\\</span><span class=\"sf-dump-ellipsis-tail\">Criteria</span></span> {<a class=sf-dump-ref>#1539</a><samp data-depth=3 class=sf-dump-compact>
+      #<span class=sf-dump-protected title=\"Protected property\">connection</span>: \"<span class=sf-dump-str title=\"5 characters\">mysql</span>\"
+      #<span class=sf-dump-protected title=\"Protected property\">table</span>: \"<span class=sf-dump-str title=\"9 characters\">criterias</span>\"
+      #<span class=sf-dump-protected title=\"Protected property\">primaryKey</span>: \"<span class=sf-dump-str title=\"2 characters\">id</span>\"
+      #<span class=sf-dump-protected title=\"Protected property\">keyType</span>: \"<span class=sf-dump-str title=\"3 characters\">int</span>\"
+      +<span class=sf-dump-public title=\"Public property\">incrementing</span>: <span class=sf-dump-const>true</span>
+      #<span class=sf-dump-protected title=\"Protected property\">with</span>: []
+      #<span class=sf-dump-protected title=\"Protected property\">withCount</span>: []
+      +<span class=sf-dump-public title=\"Public property\">preventsLazyLoading</span>: <span class=sf-dump-const>false</span>
+      #<span class=sf-dump-protected title=\"Protected property\">perPage</span>: <span class=sf-dump-num>15</span>
+      +<span class=sf-dump-public title=\"Public property\">exists</span>: <span class=sf-dump-const>true</span>
+      +<span class=sf-dump-public title=\"Public property\">wasRecentlyCreated</span>: <span class=sf-dump-const>false</span>
+      #<span class=sf-dump-protected title=\"Protected property\">escapeWhenCastingToString</span>: <span class=sf-dump-const>false</span>
+      #<span class=sf-dump-protected title=\"Protected property\">attributes</span>: <span class=sf-dump-note>array:10</span> [ &#8230;10]
+      #<span class=sf-dump-protected title=\"Protected property\">original</span>: <span class=sf-dump-note>array:10</span> [ &#8230;10]
+      #<span class=sf-dump-protected title=\"Protected property\">changes</span>: []
+      #<span class=sf-dump-protected title=\"Protected property\">casts</span>: []
+      #<span class=sf-dump-protected title=\"Protected property\">classCastCache</span>: []
+      #<span class=sf-dump-protected title=\"Protected property\">attributeCastCache</span>: []
+      #<span class=sf-dump-protected title=\"Protected property\">dates</span>: []
+      #<span class=sf-dump-protected title=\"Protected property\">dateFormat</span>: <span class=sf-dump-const>null</span>
+      #<span class=sf-dump-protected title=\"Protected property\">appends</span>: []
+      #<span class=sf-dump-protected title=\"Protected property\">dispatchesEvents</span>: []
+      #<span class=sf-dump-protected title=\"Protected property\">observables</span>: []
+      #<span class=sf-dump-protected title=\"Protected property\">relations</span>: []
+      #<span class=sf-dump-protected title=\"Protected property\">touches</span>: []
+      +<span class=sf-dump-public title=\"Public property\">timestamps</span>: <span class=sf-dump-const>true</span>
+      #<span class=sf-dump-protected title=\"Protected property\">hidden</span>: []
+      #<span class=sf-dump-protected title=\"Protected property\">visible</span>: []
+      #<span class=sf-dump-protected title=\"Protected property\">fillable</span>: <span class=sf-dump-note>array:7</span> [ &#8230;7]
+      #<span class=sf-dump-protected title=\"Protected property\">guarded</span>: <span class=sf-dump-note>array:1</span> [ &#8230;1]
+    </samp>}
+    <span class=sf-dump-index>1</span> => <span class=\"sf-dump-note sf-dump-ellipsization\" title=\"App\\Models\\Criteria
+\"><span class=\"sf-dump-ellipsis sf-dump-ellipsis-note\">App\\Models</span><span class=\"sf-dump-ellipsis sf-dump-ellipsis-note\">\\</span><span class=\"sf-dump-ellipsis-tail\">Criteria</span></span> {<a class=sf-dump-ref>#1538</a><samp data-depth=3 class=sf-dump-compact>
+      #<span class=sf-dump-protected title=\"Protected property\">connection</span>: \"<span class=sf-dump-str title=\"5 characters\">mysql</span>\"
+      #<span class=sf-dump-protected title=\"Protected property\">table</span>: \"<span class=sf-dump-str title=\"9 characters\">criterias</span>\"
+      #<span class=sf-dump-protected title=\"Protected property\">primaryKey</span>: \"<span class=sf-dump-str title=\"2 characters\">id</span>\"
+      #<span class=sf-dump-protected title=\"Protected property\">keyType</span>: \"<span class=sf-dump-str title=\"3 characters\">int</span>\"
+      +<span class=sf-dump-public title=\"Public property\">incrementing</span>: <span class=sf-dump-const>true</span>
+      #<span class=sf-dump-protected title=\"Protected property\">with</span>: []
+      #<span class=sf-dump-protected title=\"Protected property\">withCount</span>: []
+      +<span class=sf-dump-public title=\"Public property\">preventsLazyLoading</span>: <span class=sf-dump-const>false</span>
+      #<span class=sf-dump-protected title=\"Protected property\">perPage</span>: <span class=sf-dump-num>15</span>
+      +<span class=sf-dump-public title=\"Public property\">exists</span>: <span class=sf-dump-const>true</span>
+      +<span class=sf-dump-public title=\"Public property\">wasRecentlyCreated</span>: <span class=sf-dump-const>false</span>
+      #<span class=sf-dump-protected title=\"Protected property\">escapeWhenCastingToString</span>: <span class=sf-dump-const>false</span>
+      #<span class=sf-dump-protected title=\"Protected property\">attributes</span>: <span class=sf-dump-note>array:10</span> [ &#8230;10]
+      #<span class=sf-dump-protected title=\"Protected property\">original</span>: <span class=sf-dump-note>array:10</span> [ &#8230;10]
+      #<span class=sf-dump-protected title=\"Protected property\">changes</span>: []
+      #<span class=sf-dump-protected title=\"Protected property\">casts</span>: []
+      #<span class=sf-dump-protected title=\"Protected property\">classCastCache</span>: []
+      #<span class=sf-dump-protected title=\"Protected property\">attributeCastCache</span>: []
+      #<span class=sf-dump-protected title=\"Protected property\">dates</span>: []
+      #<span class=sf-dump-protected title=\"Protected property\">dateFormat</span>: <span class=sf-dump-const>null</span>
+      #<span class=sf-dump-protected title=\"Protected property\">appends</span>: []
+      #<span class=sf-dump-protected title=\"Protected property\">dispatchesEvents</span>: []
+      #<span class=sf-dump-protected title=\"Protected property\">observables</span>: []
+      #<span class=sf-dump-protected title=\"Protected property\">relations</span>: []
+      #<span class=sf-dump-protected title=\"Protected property\">touches</span>: []
+      +<span class=sf-dump-public title=\"Public property\">timestamps</span>: <span class=sf-dump-const>true</span>
+      #<span class=sf-dump-protected title=\"Protected property\">hidden</span>: []
+      #<span class=sf-dump-protected title=\"Protected property\">visible</span>: []
+      #<span class=sf-dump-protected title=\"Protected property\">fillable</span>: <span class=sf-dump-note>array:7</span> [ &#8230;7]
+      #<span class=sf-dump-protected title=\"Protected property\">guarded</span>: <span class=sf-dump-note>array:1</span> [ &#8230;1]
+    </samp>}
+    <span class=sf-dump-index>2</span> => <span class=\"sf-dump-note sf-dump-ellipsization\" title=\"App\\Models\\Criteria
+\"><span class=\"sf-dump-ellipsis sf-dump-ellipsis-note\">App\\Models</span><span class=\"sf-dump-ellipsis sf-dump-ellipsis-note\">\\</span><span class=\"sf-dump-ellipsis-tail\">Criteria</span></span> {<a class=sf-dump-ref>#1537</a><samp data-depth=3 class=sf-dump-compact>
+      #<span class=sf-dump-protected title=\"Protected property\">connection</span>: \"<span class=sf-dump-str title=\"5 characters\">mysql</span>\"
+      #<span class=sf-dump-protected title=\"Protected property\">table</span>: \"<span class=sf-dump-str title=\"9 characters\">criterias</span>\"
+      #<span class=sf-dump-protected title=\"Protected property\">primaryKey</span>: \"<span class=sf-dump-str title=\"2 characters\">id</span>\"
+      #<span class=sf-dump-protected title=\"Protected property\">keyType</span>: \"<span class=sf-dump-str title=\"3 characters\">int</span>\"
+      +<span class=sf-dump-public title=\"Public property\">incrementing</span>: <span class=sf-dump-const>true</span>
+      #<span class=sf-dump-protected title=\"Protected property\">with</span>: []
+      #<span class=sf-dump-protected title=\"Protected property\">withCount</span>: []
+      +<span class=sf-dump-public title=\"Public property\">preventsLazyLoading</span>: <span class=sf-dump-const>false</span>
+      #<span class=sf-dump-protected title=\"Protected property\">perPage</span>: <span class=sf-dump-num>15</span>
+      +<span class=sf-dump-public title=\"Public property\">exists</span>: <span class=sf-dump-const>true</span>
+      +<span class=sf-dump-public title=\"Public property\">wasRecentlyCreated</span>: <span class=sf-dump-const>false</span>
+      #<span class=sf-dump-protected title=\"Protected property\">escapeWhenCastingToString</span>: <span class=sf-dump-const>false</span>
+      #<span class=sf-dump-protected title=\"Protected property\">attributes</span>: <span class=sf-dump-note>array:10</span> [ &#8230;10]
+      #<span class=sf-dump-protected title=\"Protected property\">original</span>: <span class=sf-dump-note>array:10</span> [ &#8230;10]
+      #<span class=sf-dump-protected title=\"Protected property\">changes</span>: []
+      #<span class=sf-dump-protected title=\"Protected property\">casts</span>: []
+      #<span class=sf-dump-protected title=\"Protected property\">classCastCache</span>: []
+      #<span class=sf-dump-protected title=\"Protected property\">attributeCastCache</span>: []
+      #<span class=sf-dump-protected title=\"Protected property\">dates</span>: []
+      #<span class=sf-dump-protected title=\"Protected property\">dateFormat</span>: <span class=sf-dump-const>null</span>
+      #<span class=sf-dump-protected title=\"Protected property\">appends</span>: []
+      #<span class=sf-dump-protected title=\"Protected property\">dispatchesEvents</span>: []
+      #<span class=sf-dump-protected title=\"Protected property\">observables</span>: []
+      #<span class=sf-dump-protected title=\"Protected property\">relations</span>: []
+      #<span class=sf-dump-protected title=\"Protected property\">touches</span>: []
+      +<span class=sf-dump-public title=\"Public property\">timestamps</span>: <span class=sf-dump-const>true</span>
+      #<span class=sf-dump-protected title=\"Protected property\">hidden</span>: []
+      #<span class=sf-dump-protected title=\"Protected property\">visible</span>: []
+      #<span class=sf-dump-protected title=\"Protected property\">fillable</span>: <span class=sf-dump-note>array:7</span> [ &#8230;7]
+      #<span class=sf-dump-protected title=\"Protected property\">guarded</span>: <span class=sf-dump-note>array:1</span> [ &#8230;1]
+    </samp>}
+    <span class=sf-dump-index>3</span> => <span class=\"sf-dump-note sf-dump-ellipsization\" title=\"App\\Models\\Criteria
+\"><span class=\"sf-dump-ellipsis sf-dump-ellipsis-note\">App\\Models</span><span class=\"sf-dump-ellipsis sf-dump-ellipsis-note\">\\</span><span class=\"sf-dump-ellipsis-tail\">Criteria</span></span> {<a class=sf-dump-ref>#1535</a><samp data-depth=3 class=sf-dump-compact>
+      #<span class=sf-dump-protected title=\"Protected property\">connection</span>: \"<span class=sf-dump-str title=\"5 characters\">mysql</span>\"
+      #<span class=sf-dump-protected title=\"Protected property\">table</span>: \"<span class=sf-dump-str title=\"9 characters\">criterias</span>\"
+      #<span class=sf-dump-protected title=\"Protected property\">primaryKey</span>: \"<span class=sf-dump-str title=\"2 characters\">id</span>\"
+      #<span class=sf-dump-protected title=\"Protected property\">keyType</span>: \"<span class=sf-dump-str title=\"3 characters\">int</span>\"
+      +<span class=sf-dump-public title=\"Public property\">incrementing</span>: <span class=sf-dump-const>true</span>
+      #<span class=sf-dump-protected title=\"Protected property\">with</span>: []
+      #<span class=sf-dump-protected title=\"Protected property\">withCount</span>: []
+      +<span class=sf-dump-public title=\"Public property\">preventsLazyLoading</span>: <span class=sf-dump-const>false</span>
+      #<span class=sf-dump-protected title=\"Protected property\">perPage</span>: <span class=sf-dump-num>15</span>
+      +<span class=sf-dump-public title=\"Public property\">exists</span>: <span class=sf-dump-const>true</span>
+      +<span class=sf-dump-public title=\"Public property\">wasRecentlyCreated</span>: <span class=sf-dump-const>false</span>
+      #<span class=sf-dump-protected title=\"Protected property\">escapeWhenCastingToString</span>: <span class=sf-dump-const>false</span>
+      #<span class=sf-dump-protected title=\"Protected property\">attributes</span>: <span class=sf-dump-note>array:10</span> [ &#8230;10]
+      #<span class=sf-dump-protected title=\"Protected property\">original</span>: <span class=sf-dump-note>array:10</span> [ &#8230;10]
+      #<span class=sf-dump-protected title=\"Protected property\">changes</span>: []
+      #<span class=sf-dump-protected title=\"Protected property\">casts</span>: []
+      #<span class=sf-dump-protected title=\"Protected property\">classCastCache</span>: []
+      #<span class=sf-dump-protected title=\"Protected property\">attributeCastCache</span>: []
+      #<span class=sf-dump-protected title=\"Protected property\">dates</span>: []
+      #<span class=sf-dump-protected title=\"Protected property\">dateFormat</span>: <span class=sf-dump-const>null</span>
+      #<span class=sf-dump-protected title=\"Protected property\">appends</span>: []
+      #<span class=sf-dump-protected title=\"Protected property\">dispatchesEvents</span>: []
+      #<span class=sf-dump-protected title=\"Protected property\">observables</span>: []
+      #<span class=sf-dump-protected title=\"Protected property\">relations</span>: []
+      #<span class=sf-dump-protected title=\"Protected property\">touches</span>: []
+      +<span class=sf-dump-public title=\"Public property\">timestamps</span>: <span class=sf-dump-const>true</span>
+      #<span class=sf-dump-protected title=\"Protected property\">hidden</span>: []
+      #<span class=sf-dump-protected title=\"Protected property\">visible</span>: []
+      #<span class=sf-dump-protected title=\"Protected property\">fillable</span>: <span class=sf-dump-note>array:7</span> [ &#8230;7]
+      #<span class=sf-dump-protected title=\"Protected property\">guarded</span>: <span class=sf-dump-note>array:1</span> [ &#8230;1]
+    </samp>}
+    <span class=sf-dump-index>4</span> => <span class=\"sf-dump-note sf-dump-ellipsization\" title=\"App\\Models\\Criteria
+\"><span class=\"sf-dump-ellipsis sf-dump-ellipsis-note\">App\\Models</span><span class=\"sf-dump-ellipsis sf-dump-ellipsis-note\">\\</span><span class=\"sf-dump-ellipsis-tail\">Criteria</span></span> {<a class=sf-dump-ref>#1533</a><samp data-depth=3 class=sf-dump-compact>
+      #<span class=sf-dump-protected title=\"Protected property\">connection</span>: \"<span class=sf-dump-str title=\"5 characters\">mysql</span>\"
+      #<span class=sf-dump-protected title=\"Protected property\">table</span>: \"<span class=sf-dump-str title=\"9 characters\">criterias</span>\"
+      #<span class=sf-dump-protected title=\"Protected property\">primaryKey</span>: \"<span class=sf-dump-str title=\"2 characters\">id</span>\"
+      #<span class=sf-dump-protected title=\"Protected property\">keyType</span>: \"<span class=sf-dump-str title=\"3 characters\">int</span>\"
+      +<span class=sf-dump-public title=\"Public property\">incrementing</span>: <span class=sf-dump-const>true</span>
+      #<span class=sf-dump-protected title=\"Protected property\">with</span>: []
+      #<span class=sf-dump-protected title=\"Protected property\">withCount</span>: []
+      +<span class=sf-dump-public title=\"Public property\">preventsLazyLoading</span>: <span class=sf-dump-const>false</span>
+      #<span class=sf-dump-protected title=\"Protected property\">perPage</span>: <span class=sf-dump-num>15</span>
+      +<span class=sf-dump-public title=\"Public property\">exists</span>: <span class=sf-dump-const>true</span>
+      +<span class=sf-dump-public title=\"Public property\">wasRecentlyCreated</span>: <span class=sf-dump-const>false</span>
+      #<span class=sf-dump-protected title=\"Protected property\">escapeWhenCastingToString</span>: <span class=sf-dump-const>false</span>
+      #<span class=sf-dump-protected title=\"Protected property\">attributes</span>: <span class=sf-dump-note>array:10</span> [ &#8230;10]
+      #<span class=sf-dump-protected title=\"Protected property\">original</span>: <span class=sf-dump-note>array:10</span> [ &#8230;10]
+      #<span class=sf-dump-protected title=\"Protected property\">changes</span>: []
+      #<span class=sf-dump-protected title=\"Protected property\">casts</span>: []
+      #<span class=sf-dump-protected title=\"Protected property\">classCastCache</span>: []
+      #<span class=sf-dump-protected title=\"Protected property\">attributeCastCache</span>: []
+      #<span class=sf-dump-protected title=\"Protected property\">dates</span>: []
+      #<span class=sf-dump-protected title=\"Protected property\">dateFormat</span>: <span class=sf-dump-const>null</span>
+      #<span class=sf-dump-protected title=\"Protected property\">appends</span>: []
+      #<span class=sf-dump-protected title=\"Protected property\">dispatchesEvents</span>: []
+      #<span class=sf-dump-protected title=\"Protected property\">observables</span>: []
+      #<span class=sf-dump-protected title=\"Protected property\">relations</span>: []
+      #<span class=sf-dump-protected title=\"Protected property\">touches</span>: []
+      +<span class=sf-dump-public title=\"Public property\">timestamps</span>: <span class=sf-dump-const>true</span>
+      #<span class=sf-dump-protected title=\"Protected property\">hidden</span>: []
+      #<span class=sf-dump-protected title=\"Protected property\">visible</span>: []
+      #<span class=sf-dump-protected title=\"Protected property\">fillable</span>: <span class=sf-dump-note>array:7</span> [ &#8230;7]
+      #<span class=sf-dump-protected title=\"Protected property\">guarded</span>: <span class=sf-dump-note>array:1</span> [ &#8230;1]
+    </samp>}
+    <span class=sf-dump-index>5</span> => <span class=\"sf-dump-note sf-dump-ellipsization\" title=\"App\\Models\\Criteria
+\"><span class=\"sf-dump-ellipsis sf-dump-ellipsis-note\">App\\Models</span><span class=\"sf-dump-ellipsis sf-dump-ellipsis-note\">\\</span><span class=\"sf-dump-ellipsis-tail\">Criteria</span></span> {<a class=sf-dump-ref>#1467</a><samp data-depth=3 class=sf-dump-compact>
+      #<span class=sf-dump-protected title=\"Protected property\">connection</span>: \"<span class=sf-dump-str title=\"5 characters\">mysql</span>\"
+      #<span class=sf-dump-protected title=\"Protected property\">table</span>: \"<span class=sf-dump-str title=\"9 characters\">criterias</span>\"
+      #<span class=sf-dump-protected title=\"Protected property\">primaryKey</span>: \"<span class=sf-dump-str title=\"2 characters\">id</span>\"
+      #<span class=sf-dump-protected title=\"Protected property\">keyType</span>: \"<span class=sf-dump-str title=\"3 characters\">int</span>\"
+      +<span class=sf-dump-public title=\"Public property\">incrementing</span>: <span class=sf-dump-const>true</span>
+      #<span class=sf-dump-protected title=\"Protected property\">with</span>: []
+      #<span class=sf-dump-protected title=\"Protected property\">withCount</span>: []
+      +<span class=sf-dump-public title=\"Public property\">preventsLazyLoading</span>: <span class=sf-dump-const>false</span>
+      #<span class=sf-dump-protected title=\"Protected property\">perPage</span>: <span class=sf-dump-num>15</span>
+      +<span class=sf-dump-public title=\"Public property\">exists</span>: <span class=sf-dump-const>true</span>
+      +<span class=sf-dump-public title=\"Public property\">wasRecentlyCreated</span>: <span class=sf-dump-const>false</span>
+      #<span class=sf-dump-protected title=\"Protected property\">escapeWhenCastingToString</span>: <span class=sf-dump-const>false</span>
+      #<span class=sf-dump-protected title=\"Protected property\">attributes</span>: <span class=sf-dump-note>array:10</span> [ &#8230;10]
+      #<span class=sf-dump-protected title=\"Protected property\">original</span>: <span class=sf-dump-note>array:10</span> [ &#8230;10]
+      #<span class=sf-dump-protected title=\"Protected property\">changes</span>: []
+      #<span class=sf-dump-protected title=\"Protected property\">casts</span>: []
+      #<span class=sf-dump-protected title=\"Protected property\">classCastCache</span>: []
+      #<span class=sf-dump-protected title=\"Protected property\">attributeCastCache</span>: []
+      #<span class=sf-dump-protected title=\"Protected property\">dates</span>: []
+      #<span class=sf-dump-protected title=\"Protected property\">dateFormat</span>: <span class=sf-dump-const>null</span>
+      #<span class=sf-dump-protected title=\"Protected property\">appends</span>: []
+      #<span class=sf-dump-protected title=\"Protected property\">dispatchesEvents</span>: []
+      #<span class=sf-dump-protected title=\"Protected property\">observables</span>: []
+      #<span class=sf-dump-protected title=\"Protected property\">relations</span>: []
+      #<span class=sf-dump-protected title=\"Protected property\">touches</span>: []
+      +<span class=sf-dump-public title=\"Public property\">timestamps</span>: <span class=sf-dump-const>true</span>
+      #<span class=sf-dump-protected title=\"Protected property\">hidden</span>: []
+      #<span class=sf-dump-protected title=\"Protected property\">visible</span>: []
+      #<span class=sf-dump-protected title=\"Protected property\">fillable</span>: <span class=sf-dump-note>array:7</span> [ &#8230;7]
+      #<span class=sf-dump-protected title=\"Protected property\">guarded</span>: <span class=sf-dump-note>array:1</span> [ &#8230;1]
+    </samp>}
+  </samp>]
+  #<span class=sf-dump-protected title=\"Protected property\">escapeWhenCastingToString</span>: <span class=sf-dump-const>false</span>
+</samp>}
+</pre><script>Sfdump(\"sf-dump-1950438554\", {\"maxDepth\":3,\"maxStringLength\":160})</script>
+","normalizations":"<pre class=sf-dump id=sf-dump-1398129936 data-indent-pad=\"  \"><span class=sf-dump-note>array:8</span> [<samp data-depth=1 class=sf-dump-expanded>
+  <span class=sf-dump-index>0</span> => <span class=sf-dump-note>array:7</span> [<samp data-depth=2 class=sf-dump-compact>
+    \"<span class=sf-dump-key>wood_id</span>\" => <span class=sf-dump-num>126</span>
+    \"<span class=sf-dump-key>wood_name</span>\" => \"<span class=sf-dump-str title=\"10 characters\">KAYU PINUS</span>\"
+    \"<span class=sf-dump-key>category_name</span>\" => \"<span class=sf-dump-str title=\"8 characters\">EKONOMIS</span>\"
+    \"<span class=sf-dump-key>criteria_name</span>\" => <span class=sf-dump-note>array:6</span> [<samp data-depth=3 class=sf-dump-compact>
+      <span class=sf-dump-index>0</span> => \"<span class=sf-dump-str title=\"8 characters\">Kekuatan</span>\"
+      <span class=sf-dump-index>1</span> => \"<span class=sf-dump-str title=\"8 characters\">Keawetan</span>\"
+      <span class=sf-dump-index>2</span> => \"<span class=sf-dump-str title=\"20 characters\">Kandungan Kelembaban</span>\"
+      <span class=sf-dump-index>3</span> => \"<span class=sf-dump-str title=\"8 characters\">Estetika</span>\"
+      <span class=sf-dump-index>4</span> => \"<span class=sf-dump-str title=\"20 characters\">Kemudahan Pengolahan</span>\"
+      <span class=sf-dump-index>5</span> => \"<span class=sf-dump-str title=\"22 characters\">Harga dan Ketersediaan</span>\"
+    </samp>]
+    \"<span class=sf-dump-key>criteria_id</span>\" => <span class=sf-dump-note>array:6</span> [<samp data-depth=3 class=sf-dump-compact>
+      <span class=sf-dump-index>0</span> => <span class=sf-dump-num>34</span>
+      <span class=sf-dump-index>1</span> => <span class=sf-dump-num>35</span>
+      <span class=sf-dump-index>2</span> => <span class=sf-dump-num>36</span>
+      <span class=sf-dump-index>3</span> => <span class=sf-dump-num>37</span>
+      <span class=sf-dump-index>4</span> => <span class=sf-dump-num>38</span>
+      <span class=sf-dump-index>5</span> => <span class=sf-dump-num>39</span>
+    </samp>]
+    \"<span class=sf-dump-key>alternative_val</span>\" => <span class=sf-dump-note>array:6</span> [<samp data-depth=3 class=sf-dump-compact>
+      <span class=sf-dump-index>0</span> => \"<span class=sf-dump-str title=\"3 characters\">2.0</span>\"
+      <span class=sf-dump-index>1</span> => \"<span class=sf-dump-str title=\"3 characters\">2.0</span>\"
+      <span class=sf-dump-index>2</span> => \"<span class=sf-dump-str title=\"3 characters\">2.0</span>\"
+      <span class=sf-dump-index>3</span> => \"<span class=sf-dump-str title=\"3 characters\">3.0</span>\"
+      <span class=sf-dump-index>4</span> => \"<span class=sf-dump-str title=\"3 characters\">3.0</span>\"
+      <span class=sf-dump-index>5</span> => \"<span class=sf-dump-str title=\"3 characters\">3.0</span>\"
+    </samp>]
+    \"<span class=sf-dump-key>results</span>\" => <span class=sf-dump-note>array:6</span> [<samp data-depth=3 class=sf-dump-compact>
+      <span class=sf-dump-index>0</span> => <span class=sf-dump-num>0.5</span>
+      <span class=sf-dump-index>1</span> => <span class=sf-dump-num>0.5</span>
+      <span class=sf-dump-index>2</span> => <span class=sf-dump-num>1.0</span>
+      <span class=sf-dump-index>3</span> => <span class=sf-dump-num>0.75</span>
+      <span class=sf-dump-index>4</span> => <span class=sf-dump-num>0.75</span>
+      <span class=sf-dump-index>5</span> => <span class=sf-dump-num>0.666667</span>
+    </samp>]
+  </samp>]
+  <span class=sf-dump-index>1</span> => <span class=sf-dump-note>array:7</span> [<samp data-depth=2 class=sf-dump-compact>
+    \"<span class=sf-dump-key>wood_id</span>\" => <span class=sf-dump-num>127</span>
+    \"<span class=sf-dump-key>wood_name</span>\" => \"<span class=sf-dump-str title=\"10 characters\">KAYU RANDU</span>\"
+    \"<span class=sf-dump-key>category_name</span>\" => \"<span class=sf-dump-str title=\"8 characters\">EKONOMIS</span>\"
+    \"<span class=sf-dump-key>criteria_name</span>\" => <span class=sf-dump-note>array:6</span> [<samp data-depth=3 class=sf-dump-compact>
+      <span class=sf-dump-index>0</span> => \"<span class=sf-dump-str title=\"8 characters\">Kekuatan</span>\"
+      <span class=sf-dump-index>1</span> => \"<span class=sf-dump-str title=\"8 characters\">Keawetan</span>\"
+      <span class=sf-dump-index>2</span> => \"<span class=sf-dump-str title=\"20 characters\">Kandungan Kelembaban</span>\"
+      <span class=sf-dump-index>3</span> => \"<span class=sf-dump-str title=\"8 characters\">Estetika</span>\"
+      <span class=sf-dump-index>4</span> => \"<span class=sf-dump-str title=\"20 characters\">Kemudahan Pengolahan</span>\"
+      <span class=sf-dump-index>5</span> => \"<span class=sf-dump-str title=\"22 characters\">Harga dan Ketersediaan</span>\"
+    </samp>]
+    \"<span class=sf-dump-key>criteria_id</span>\" => <span class=sf-dump-note>array:6</span> [<samp data-depth=3 class=sf-dump-compact>
+      <span class=sf-dump-index>0</span> => <span class=sf-dump-num>34</span>
+      <span class=sf-dump-index>1</span> => <span class=sf-dump-num>35</span>
+      <span class=sf-dump-index>2</span> => <span class=sf-dump-num>36</span>
+      <span class=sf-dump-index>3</span> => <span class=sf-dump-num>37</span>
+      <span class=sf-dump-index>4</span> => <span class=sf-dump-num>38</span>
+      <span class=sf-dump-index>5</span> => <span class=sf-dump-num>39</span>
+    </samp>]
+    \"<span class=sf-dump-key>alternative_val</span>\" => <span class=sf-dump-note>array:6</span> [<samp data-depth=3 class=sf-dump-compact>
+      <span class=sf-dump-index>0</span> => \"<span class=sf-dump-str title=\"3 characters\">1.0</span>\"
+      <span class=sf-dump-index>1</span> => \"<span class=sf-dump-str title=\"3 characters\">1.0</span>\"
+      <span class=sf-dump-index>2</span> => \"<span class=sf-dump-str title=\"3 characters\">2.0</span>\"
+      <span class=sf-dump-index>3</span> => \"<span class=sf-dump-str title=\"3 characters\">1.0</span>\"
+      <span class=sf-dump-index>4</span> => \"<span class=sf-dump-str title=\"3 characters\">3.0</span>\"
+      <span class=sf-dump-index>5</span> => \"<span class=sf-dump-str title=\"3 characters\">4.0</span>\"
+    </samp>]
+    \"<span class=sf-dump-key>results</span>\" => <span class=sf-dump-note>array:6</span> [<samp data-depth=3 class=sf-dump-compact>
+      <span class=sf-dump-index>0</span> => <span class=sf-dump-num>0.25</span>
+      <span class=sf-dump-index>1</span> => <span class=sf-dump-num>0.25</span>
+      <span class=sf-dump-index>2</span> => <span class=sf-dump-num>1.0</span>
+      <span class=sf-dump-index>3</span> => <span class=sf-dump-num>0.25</span>
+      <span class=sf-dump-index>4</span> => <span class=sf-dump-num>0.75</span>
+      <span class=sf-dump-index>5</span> => <span class=sf-dump-num>0.5</span>
+    </samp>]
+  </samp>]
+  <span class=sf-dump-index>2</span> => <span class=sf-dump-note>array:7</span> [<samp data-depth=2 class=sf-dump-compact>
+    \"<span class=sf-dump-key>wood_id</span>\" => <span class=sf-dump-num>128</span>
+    \"<span class=sf-dump-key>wood_name</span>\" => \"<span class=sf-dump-str title=\"11 characters\">KAYU SENGON</span>\"
+    \"<span class=sf-dump-key>category_name</span>\" => \"<span class=sf-dump-str title=\"8 characters\">EKONOMIS</span>\"
+    \"<span class=sf-dump-key>criteria_name</span>\" => <span class=sf-dump-note>array:6</span> [<samp data-depth=3 class=sf-dump-compact>
+      <span class=sf-dump-index>0</span> => \"<span class=sf-dump-str title=\"8 characters\">Kekuatan</span>\"
+      <span class=sf-dump-index>1</span> => \"<span class=sf-dump-str title=\"8 characters\">Keawetan</span>\"
+      <span class=sf-dump-index>2</span> => \"<span class=sf-dump-str title=\"20 characters\">Kandungan Kelembaban</span>\"
+      <span class=sf-dump-index>3</span> => \"<span class=sf-dump-str title=\"8 characters\">Estetika</span>\"
+      <span class=sf-dump-index>4</span> => \"<span class=sf-dump-str title=\"20 characters\">Kemudahan Pengolahan</span>\"
+      <span class=sf-dump-index>5</span> => \"<span class=sf-dump-str title=\"22 characters\">Harga dan Ketersediaan</span>\"
+    </samp>]
+    \"<span class=sf-dump-key>criteria_id</span>\" => <span class=sf-dump-note>array:6</span> [<samp data-depth=3 class=sf-dump-compact>
+      <span class=sf-dump-index>0</span> => <span class=sf-dump-num>34</span>
+      <span class=sf-dump-index>1</span> => <span class=sf-dump-num>35</span>
+      <span class=sf-dump-index>2</span> => <span class=sf-dump-num>36</span>
+      <span class=sf-dump-index>3</span> => <span class=sf-dump-num>37</span>
+      <span class=sf-dump-index>4</span> => <span class=sf-dump-num>38</span>
+      <span class=sf-dump-index>5</span> => <span class=sf-dump-num>39</span>
+    </samp>]
+    \"<span class=sf-dump-key>alternative_val</span>\" => <span class=sf-dump-note>array:6</span> [<samp data-depth=3 class=sf-dump-compact>
+      <span class=sf-dump-index>0</span> => \"<span class=sf-dump-str title=\"3 characters\">1.0</span>\"
+      <span class=sf-dump-index>1</span> => \"<span class=sf-dump-str title=\"3 characters\">1.0</span>\"
+      <span class=sf-dump-index>2</span> => \"<span class=sf-dump-str title=\"3 characters\">2.0</span>\"
+      <span class=sf-dump-index>3</span> => \"<span class=sf-dump-str title=\"3 characters\">2.0</span>\"
+      <span class=sf-dump-index>4</span> => \"<span class=sf-dump-str title=\"3 characters\">4.0</span>\"
+      <span class=sf-dump-index>5</span> => \"<span class=sf-dump-str title=\"3 characters\">4.0</span>\"
+    </samp>]
+    \"<span class=sf-dump-key>results</span>\" => <span class=sf-dump-note>array:6</span> [<samp data-depth=3 class=sf-dump-compact>
+      <span class=sf-dump-index>0</span> => <span class=sf-dump-num>0.25</span>
+      <span class=sf-dump-index>1</span> => <span class=sf-dump-num>0.25</span>
+      <span class=sf-dump-index>2</span> => <span class=sf-dump-num>1.0</span>
+      <span class=sf-dump-index>3</span> => <span class=sf-dump-num>0.5</span>
+      <span class=sf-dump-index>4</span> => <span class=sf-dump-num>1.0</span>
+      <span class=sf-dump-index>5</span> => <span class=sf-dump-num>0.5</span>
+    </samp>]
+  </samp>]
+  <span class=sf-dump-index>3</span> => <span class=sf-dump-note>array:7</span> [<samp data-depth=2 class=sf-dump-compact>
+    \"<span class=sf-dump-key>wood_id</span>\" => <span class=sf-dump-num>129</span>
+    \"<span class=sf-dump-key>wood_name</span>\" => \"<span class=sf-dump-str title=\"10 characters\">KAYU GLUGU</span>\"
+    \"<span class=sf-dump-key>category_name</span>\" => \"<span class=sf-dump-str title=\"8 characters\">MENENGAH</span>\"
+    \"<span class=sf-dump-key>criteria_name</span>\" => <span class=sf-dump-note>array:6</span> [<samp data-depth=3 class=sf-dump-compact>
+      <span class=sf-dump-index>0</span> => \"<span class=sf-dump-str title=\"8 characters\">Kekuatan</span>\"
+      <span class=sf-dump-index>1</span> => \"<span class=sf-dump-str title=\"8 characters\">Keawetan</span>\"
+      <span class=sf-dump-index>2</span> => \"<span class=sf-dump-str title=\"20 characters\">Kandungan Kelembaban</span>\"
+      <span class=sf-dump-index>3</span> => \"<span class=sf-dump-str title=\"8 characters\">Estetika</span>\"
+      <span class=sf-dump-index>4</span> => \"<span class=sf-dump-str title=\"20 characters\">Kemudahan Pengolahan</span>\"
+      <span class=sf-dump-index>5</span> => \"<span class=sf-dump-str title=\"22 characters\">Harga dan Ketersediaan</span>\"
+    </samp>]
+    \"<span class=sf-dump-key>criteria_id</span>\" => <span class=sf-dump-note>array:6</span> [<samp data-depth=3 class=sf-dump-compact>
+      <span class=sf-dump-index>0</span> => <span class=sf-dump-num>34</span>
+      <span class=sf-dump-index>1</span> => <span class=sf-dump-num>35</span>
+      <span class=sf-dump-index>2</span> => <span class=sf-dump-num>36</span>
+      <span class=sf-dump-index>3</span> => <span class=sf-dump-num>37</span>
+      <span class=sf-dump-index>4</span> => <span class=sf-dump-num>38</span>
+      <span class=sf-dump-index>5</span> => <span class=sf-dump-num>39</span>
+    </samp>]
+    \"<span class=sf-dump-key>alternative_val</span>\" => <span class=sf-dump-note>array:6</span> [<samp data-depth=3 class=sf-dump-compact>
+      <span class=sf-dump-index>0</span> => \"<span class=sf-dump-str title=\"3 characters\">2.0</span>\"
+      <span class=sf-dump-index>1</span> => \"<span class=sf-dump-str title=\"3 characters\">2.0</span>\"
+      <span class=sf-dump-index>2</span> => \"<span class=sf-dump-str title=\"3 characters\">2.0</span>\"
+      <span class=sf-dump-index>3</span> => \"<span class=sf-dump-str title=\"3 characters\">2.0</span>\"
+      <span class=sf-dump-index>4</span> => \"<span class=sf-dump-str title=\"3 characters\">3.0</span>\"
+      <span class=sf-dump-index>5</span> => \"<span class=sf-dump-str title=\"3 characters\">4.0</span>\"
+    </samp>]
+    \"<span class=sf-dump-key>results</span>\" => <span class=sf-dump-note>array:6</span> [<samp data-depth=3 class=sf-dump-compact>
+      <span class=sf-dump-index>0</span> => <span class=sf-dump-num>0.5</span>
+      <span class=sf-dump-index>1</span> => <span class=sf-dump-num>0.5</span>
+      <span class=sf-dump-index>2</span> => <span class=sf-dump-num>1.0</span>
+      <span class=sf-dump-index>3</span> => <span class=sf-dump-num>0.5</span>
+      <span class=sf-dump-index>4</span> => <span class=sf-dump-num>0.75</span>
+      <span class=sf-dump-index>5</span> => <span class=sf-dump-num>0.5</span>
+    </samp>]
+  </samp>]
+  <span class=sf-dump-index>4</span> => <span class=sf-dump-note>array:7</span> [<samp data-depth=2 class=sf-dump-compact>
+    \"<span class=sf-dump-key>wood_id</span>\" => <span class=sf-dump-num>130</span>
+    \"<span class=sf-dump-key>wood_name</span>\" => \"<span class=sf-dump-str title=\"14 characters\">KAYU JATI MUDA</span>\"
+    \"<span class=sf-dump-key>category_name</span>\" => \"<span class=sf-dump-str title=\"8 characters\">MENENGAH</span>\"
+    \"<span class=sf-dump-key>criteria_name</span>\" => <span class=sf-dump-note>array:6</span> [<samp data-depth=3 class=sf-dump-compact>
+      <span class=sf-dump-index>0</span> => \"<span class=sf-dump-str title=\"8 characters\">Kekuatan</span>\"
+      <span class=sf-dump-index>1</span> => \"<span class=sf-dump-str title=\"8 characters\">Keawetan</span>\"
+      <span class=sf-dump-index>2</span> => \"<span class=sf-dump-str title=\"20 characters\">Kandungan Kelembaban</span>\"
+      <span class=sf-dump-index>3</span> => \"<span class=sf-dump-str title=\"8 characters\">Estetika</span>\"
+      <span class=sf-dump-index>4</span> => \"<span class=sf-dump-str title=\"20 characters\">Kemudahan Pengolahan</span>\"
+      <span class=sf-dump-index>5</span> => \"<span class=sf-dump-str title=\"22 characters\">Harga dan Ketersediaan</span>\"
+    </samp>]
+    \"<span class=sf-dump-key>criteria_id</span>\" => <span class=sf-dump-note>array:6</span> [<samp data-depth=3 class=sf-dump-compact>
+      <span class=sf-dump-index>0</span> => <span class=sf-dump-num>34</span>
+      <span class=sf-dump-index>1</span> => <span class=sf-dump-num>35</span>
+      <span class=sf-dump-index>2</span> => <span class=sf-dump-num>36</span>
+      <span class=sf-dump-index>3</span> => <span class=sf-dump-num>37</span>
+      <span class=sf-dump-index>4</span> => <span class=sf-dump-num>38</span>
+      <span class=sf-dump-index>5</span> => <span class=sf-dump-num>39</span>
+    </samp>]
+    \"<span class=sf-dump-key>alternative_val</span>\" => <span class=sf-dump-note>array:6</span> [<samp data-depth=3 class=sf-dump-compact>
+      <span class=sf-dump-index>0</span> => \"<span class=sf-dump-str title=\"3 characters\">3.0</span>\"
+      <span class=sf-dump-index>1</span> => \"<span class=sf-dump-str title=\"3 characters\">3.0</span>\"
+      <span class=sf-dump-index>2</span> => \"<span class=sf-dump-str title=\"3 characters\">3.0</span>\"
+      <span class=sf-dump-index>3</span> => \"<span class=sf-dump-str title=\"3 characters\">3.0</span>\"
+      <span class=sf-dump-index>4</span> => \"<span class=sf-dump-str title=\"3 characters\">3.0</span>\"
+      <span class=sf-dump-index>5</span> => \"<span class=sf-dump-str title=\"3 characters\">3.0</span>\"
+    </samp>]
+    \"<span class=sf-dump-key>results</span>\" => <span class=sf-dump-note>array:6</span> [<samp data-depth=3 class=sf-dump-compact>
+      <span class=sf-dump-index>0</span> => <span class=sf-dump-num>0.75</span>
+      <span class=sf-dump-index>1</span> => <span class=sf-dump-num>0.75</span>
+      <span class=sf-dump-index>2</span> => <span class=sf-dump-num>0.666667</span>
+      <span class=sf-dump-index>3</span> => <span class=sf-dump-num>0.75</span>
+      <span class=sf-dump-index>4</span> => <span class=sf-dump-num>0.75</span>
+      <span class=sf-dump-index>5</span> => <span class=sf-dump-num>0.666667</span>
+    </samp>]
+  </samp>]
+  <span class=sf-dump-index>5</span> => <span class=sf-dump-note>array:7</span> [<samp data-depth=2 class=sf-dump-compact>
+    \"<span class=sf-dump-key>wood_id</span>\" => <span class=sf-dump-num>131</span>
+    \"<span class=sf-dump-key>wood_name</span>\" => \"<span class=sf-dump-str title=\"11 characters\">KAYU MAHONI</span>\"
+    \"<span class=sf-dump-key>category_name</span>\" => \"<span class=sf-dump-str title=\"8 characters\">MENENGAH</span>\"
+    \"<span class=sf-dump-key>criteria_name</span>\" => <span class=sf-dump-note>array:6</span> [<samp data-depth=3 class=sf-dump-compact>
+      <span class=sf-dump-index>0</span> => \"<span class=sf-dump-str title=\"8 characters\">Kekuatan</span>\"
+      <span class=sf-dump-index>1</span> => \"<span class=sf-dump-str title=\"8 characters\">Keawetan</span>\"
+      <span class=sf-dump-index>2</span> => \"<span class=sf-dump-str title=\"20 characters\">Kandungan Kelembaban</span>\"
+      <span class=sf-dump-index>3</span> => \"<span class=sf-dump-str title=\"8 characters\">Estetika</span>\"
+      <span class=sf-dump-index>4</span> => \"<span class=sf-dump-str title=\"20 characters\">Kemudahan Pengolahan</span>\"
+      <span class=sf-dump-index>5</span> => \"<span class=sf-dump-str title=\"22 characters\">Harga dan Ketersediaan</span>\"
+    </samp>]
+    \"<span class=sf-dump-key>criteria_id</span>\" => <span class=sf-dump-note>array:6</span> [<samp data-depth=3 class=sf-dump-compact>
+      <span class=sf-dump-index>0</span> => <span class=sf-dump-num>34</span>
+      <span class=sf-dump-index>1</span> => <span class=sf-dump-num>35</span>
+      <span class=sf-dump-index>2</span> => <span class=sf-dump-num>36</span>
+      <span class=sf-dump-index>3</span> => <span class=sf-dump-num>37</span>
+      <span class=sf-dump-index>4</span> => <span class=sf-dump-num>38</span>
+      <span class=sf-dump-index>5</span> => <span class=sf-dump-num>39</span>
+    </samp>]
+    \"<span class=sf-dump-key>alternative_val</span>\" => <span class=sf-dump-note>array:6</span> [<samp data-depth=3 class=sf-dump-compact>
+      <span class=sf-dump-index>0</span> => \"<span class=sf-dump-str title=\"3 characters\">3.0</span>\"
+      <span class=sf-dump-index>1</span> => \"<span class=sf-dump-str title=\"3 characters\">3.0</span>\"
+      <span class=sf-dump-index>2</span> => \"<span class=sf-dump-str title=\"3 characters\">3.0</span>\"
+      <span class=sf-dump-index>3</span> => \"<span class=sf-dump-str title=\"3 characters\">4.0</span>\"
+      <span class=sf-dump-index>4</span> => \"<span class=sf-dump-str title=\"3 characters\">3.0</span>\"
+      <span class=sf-dump-index>5</span> => \"<span class=sf-dump-str title=\"3 characters\">3.0</span>\"
+    </samp>]
+    \"<span class=sf-dump-key>results</span>\" => <span class=sf-dump-note>array:6</span> [<samp data-depth=3 class=sf-dump-compact>
+      <span class=sf-dump-index>0</span> => <span class=sf-dump-num>0.75</span>
+      <span class=sf-dump-index>1</span> => <span class=sf-dump-num>0.75</span>
+      <span class=sf-dump-index>2</span> => <span class=sf-dump-num>0.666667</span>
+      <span class=sf-dump-index>3</span> => <span class=sf-dump-num>1.0</span>
+      <span class=sf-dump-index>4</span> => <span class=sf-dump-num>0.75</span>
+      <span class=sf-dump-index>5</span> => <span class=sf-dump-num>0.666667</span>
+    </samp>]
+  </samp>]
+  <span class=sf-dump-index>6</span> => <span class=sf-dump-note>array:7</span> [<samp data-depth=2 class=sf-dump-compact>
+    \"<span class=sf-dump-key>wood_id</span>\" => <span class=sf-dump-num>132</span>
+    \"<span class=sf-dump-key>wood_name</span>\" => \"<span class=sf-dump-str title=\"13 characters\">KAYU JATI TUA</span>\"
+    \"<span class=sf-dump-key>category_name</span>\" => \"<span class=sf-dump-str title=\"7 characters\">PREMIUM</span>\"
+    \"<span class=sf-dump-key>criteria_name</span>\" => <span class=sf-dump-note>array:6</span> [<samp data-depth=3 class=sf-dump-compact>
+      <span class=sf-dump-index>0</span> => \"<span class=sf-dump-str title=\"8 characters\">Kekuatan</span>\"
+      <span class=sf-dump-index>1</span> => \"<span class=sf-dump-str title=\"8 characters\">Keawetan</span>\"
+      <span class=sf-dump-index>2</span> => \"<span class=sf-dump-str title=\"20 characters\">Kandungan Kelembaban</span>\"
+      <span class=sf-dump-index>3</span> => \"<span class=sf-dump-str title=\"8 characters\">Estetika</span>\"
+      <span class=sf-dump-index>4</span> => \"<span class=sf-dump-str title=\"20 characters\">Kemudahan Pengolahan</span>\"
+      <span class=sf-dump-index>5</span> => \"<span class=sf-dump-str title=\"22 characters\">Harga dan Ketersediaan</span>\"
+    </samp>]
+    \"<span class=sf-dump-key>criteria_id</span>\" => <span class=sf-dump-note>array:6</span> [<samp data-depth=3 class=sf-dump-compact>
+      <span class=sf-dump-index>0</span> => <span class=sf-dump-num>34</span>
+      <span class=sf-dump-index>1</span> => <span class=sf-dump-num>35</span>
+      <span class=sf-dump-index>2</span> => <span class=sf-dump-num>36</span>
+      <span class=sf-dump-index>3</span> => <span class=sf-dump-num>37</span>
+      <span class=sf-dump-index>4</span> => <span class=sf-dump-num>38</span>
+      <span class=sf-dump-index>5</span> => <span class=sf-dump-num>39</span>
+    </samp>]
+    \"<span class=sf-dump-key>alternative_val</span>\" => <span class=sf-dump-note>array:6</span> [<samp data-depth=3 class=sf-dump-compact>
+      <span class=sf-dump-index>0</span> => \"<span class=sf-dump-str title=\"3 characters\">4.0</span>\"
+      <span class=sf-dump-index>1</span> => \"<span class=sf-dump-str title=\"3 characters\">4.0</span>\"
+      <span class=sf-dump-index>2</span> => \"<span class=sf-dump-str title=\"3 characters\">4.0</span>\"
+      <span class=sf-dump-index>3</span> => \"<span class=sf-dump-str title=\"3 characters\">4.0</span>\"
+      <span class=sf-dump-index>4</span> => \"<span class=sf-dump-str title=\"3 characters\">3.0</span>\"
+      <span class=sf-dump-index>5</span> => \"<span class=sf-dump-str title=\"3 characters\">2.0</span>\"
+    </samp>]
+    \"<span class=sf-dump-key>results</span>\" => <span class=sf-dump-note>array:6</span> [<samp data-depth=3 class=sf-dump-compact>
+      <span class=sf-dump-index>0</span> => <span class=sf-dump-num>1.0</span>
+      <span class=sf-dump-index>1</span> => <span class=sf-dump-num>1.0</span>
+      <span class=sf-dump-index>2</span> => <span class=sf-dump-num>0.5</span>
+      <span class=sf-dump-index>3</span> => <span class=sf-dump-num>1.0</span>
+      <span class=sf-dump-index>4</span> => <span class=sf-dump-num>0.75</span>
+      <span class=sf-dump-index>5</span> => <span class=sf-dump-num>1.0</span>
+    </samp>]
+  </samp>]
+  <span class=sf-dump-index>7</span> => <span class=sf-dump-note>array:7</span> [<samp data-depth=2 class=sf-dump-compact>
+    \"<span class=sf-dump-key>wood_id</span>\" => <span class=sf-dump-num>133</span>
+    \"<span class=sf-dump-key>wood_name</span>\" => \"<span class=sf-dump-str title=\"15 characters\">KAYU SONOKELING</span>\"
+    \"<span class=sf-dump-key>category_name</span>\" => \"<span class=sf-dump-str title=\"7 characters\">PREMIUM</span>\"
+    \"<span class=sf-dump-key>criteria_name</span>\" => <span class=sf-dump-note>array:6</span> [<samp data-depth=3 class=sf-dump-compact>
+      <span class=sf-dump-index>0</span> => \"<span class=sf-dump-str title=\"8 characters\">Kekuatan</span>\"
+      <span class=sf-dump-index>1</span> => \"<span class=sf-dump-str title=\"8 characters\">Keawetan</span>\"
+      <span class=sf-dump-index>2</span> => \"<span class=sf-dump-str title=\"20 characters\">Kandungan Kelembaban</span>\"
+      <span class=sf-dump-index>3</span> => \"<span class=sf-dump-str title=\"8 characters\">Estetika</span>\"
+      <span class=sf-dump-index>4</span> => \"<span class=sf-dump-str title=\"20 characters\">Kemudahan Pengolahan</span>\"
+      <span class=sf-dump-index>5</span> => \"<span class=sf-dump-str title=\"22 characters\">Harga dan Ketersediaan</span>\"
+    </samp>]
+    \"<span class=sf-dump-key>criteria_id</span>\" => <span class=sf-dump-note>array:6</span> [<samp data-depth=3 class=sf-dump-compact>
+      <span class=sf-dump-index>0</span> => <span class=sf-dump-num>34</span>
+      <span class=sf-dump-index>1</span> => <span class=sf-dump-num>35</span>
+      <span class=sf-dump-index>2</span> => <span class=sf-dump-num>36</span>
+      <span class=sf-dump-index>3</span> => <span class=sf-dump-num>37</span>
+      <span class=sf-dump-index>4</span> => <span class=sf-dump-num>38</span>
+      <span class=sf-dump-index>5</span> => <span class=sf-dump-num>39</span>
+    </samp>]
+    \"<span class=sf-dump-key>alternative_val</span>\" => <span class=sf-dump-note>array:6</span> [<samp data-depth=3 class=sf-dump-compact>
+      <span class=sf-dump-index>0</span> => \"<span class=sf-dump-str title=\"3 characters\">4.0</span>\"
+      <span class=sf-dump-index>1</span> => \"<span class=sf-dump-str title=\"3 characters\">4.0</span>\"
+      <span class=sf-dump-index>2</span> => \"<span class=sf-dump-str title=\"3 characters\">3.0</span>\"
+      <span class=sf-dump-index>3</span> => \"<span class=sf-dump-str title=\"3 characters\">4.0</span>\"
+      <span class=sf-dump-index>4</span> => \"<span class=sf-dump-str title=\"3 characters\">3.0</span>\"
+      <span class=sf-dump-index>5</span> => \"<span class=sf-dump-str title=\"3 characters\">2.0</span>\"
+    </samp>]
+    \"<span class=sf-dump-key>results</span>\" => <span class=sf-dump-note>array:6</span> [<samp data-depth=3 class=sf-dump-compact>
+      <span class=sf-dump-index>0</span> => <span class=sf-dump-num>1.0</span>
+      <span class=sf-dump-index>1</span> => <span class=sf-dump-num>1.0</span>
+      <span class=sf-dump-index>2</span> => <span class=sf-dump-num>0.666667</span>
+      <span class=sf-dump-index>3</span> => <span class=sf-dump-num>1.0</span>
+      <span class=sf-dump-index>4</span> => <span class=sf-dump-num>0.75</span>
+      <span class=sf-dump-index>5</span> => <span class=sf-dump-num>1.0</span>
+    </samp>]
+  </samp>]
+</samp>]
+</pre><script>Sfdump(\"sf-dump-1398129936\", {\"maxDepth\":3,\"maxStringLength\":160})</script>
+","ranks":"<pre class=sf-dump id=sf-dump-1974485207 data-indent-pad=\"  \"><span class=sf-dump-note>array:8</span> [<samp data-depth=1 class=sf-dump-expanded>
+  <span class=sf-dump-index>0</span> => <span class=sf-dump-note>array:8</span> [<samp data-depth=2 class=sf-dump-compact>
+    \"<span class=sf-dump-key>wood_id</span>\" => <span class=sf-dump-num>133</span>
+    \"<span class=sf-dump-key>wood_name</span>\" => \"<span class=sf-dump-str title=\"15 characters\">KAYU SONOKELING</span>\"
+    \"<span class=sf-dump-key>category_name</span>\" => \"<span class=sf-dump-str title=\"7 characters\">PREMIUM</span>\"
+    \"<span class=sf-dump-key>criteria_name</span>\" => <span class=sf-dump-note>array:6</span> [<samp data-depth=3 class=sf-dump-compact>
+      <span class=sf-dump-index>0</span> => \"<span class=sf-dump-str title=\"8 characters\">Kekuatan</span>\"
+      <span class=sf-dump-index>1</span> => \"<span class=sf-dump-str title=\"8 characters\">Keawetan</span>\"
+      <span class=sf-dump-index>2</span> => \"<span class=sf-dump-str title=\"20 characters\">Kandungan Kelembaban</span>\"
+      <span class=sf-dump-index>3</span> => \"<span class=sf-dump-str title=\"8 characters\">Estetika</span>\"
+      <span class=sf-dump-index>4</span> => \"<span class=sf-dump-str title=\"20 characters\">Kemudahan Pengolahan</span>\"
+      <span class=sf-dump-index>5</span> => \"<span class=sf-dump-str title=\"22 characters\">Harga dan Ketersediaan</span>\"
+    </samp>]
+    \"<span class=sf-dump-key>criteria_id</span>\" => <span class=sf-dump-note>array:6</span> [<samp data-depth=3 class=sf-dump-compact>
+      <span class=sf-dump-index>0</span> => <span class=sf-dump-num>34</span>
+      <span class=sf-dump-index>1</span> => <span class=sf-dump-num>35</span>
+      <span class=sf-dump-index>2</span> => <span class=sf-dump-num>36</span>
+      <span class=sf-dump-index>3</span> => <span class=sf-dump-num>37</span>
+      <span class=sf-dump-index>4</span> => <span class=sf-dump-num>38</span>
+      <span class=sf-dump-index>5</span> => <span class=sf-dump-num>39</span>
+    </samp>]
+    \"<span class=sf-dump-key>alternative_val</span>\" => <span class=sf-dump-note>array:6</span> [<samp data-depth=3 class=sf-dump-compact>
+      <span class=sf-dump-index>0</span> => \"<span class=sf-dump-str title=\"3 characters\">4.0</span>\"
+      <span class=sf-dump-index>1</span> => \"<span class=sf-dump-str title=\"3 characters\">4.0</span>\"
+      <span class=sf-dump-index>2</span> => \"<span class=sf-dump-str title=\"3 characters\">3.0</span>\"
+      <span class=sf-dump-index>3</span> => \"<span class=sf-dump-str title=\"3 characters\">4.0</span>\"
+      <span class=sf-dump-index>4</span> => \"<span class=sf-dump-str title=\"3 characters\">3.0</span>\"
+      <span class=sf-dump-index>5</span> => \"<span class=sf-dump-str title=\"3 characters\">2.0</span>\"
+    </samp>]
+    \"<span class=sf-dump-key>results</span>\" => <span class=sf-dump-note>array:6</span> [<samp data-depth=3 class=sf-dump-compact>
+      <span class=sf-dump-index>0</span> => <span class=sf-dump-num>1.0</span>
+      <span class=sf-dump-index>1</span> => <span class=sf-dump-num>1.0</span>
+      <span class=sf-dump-index>2</span> => <span class=sf-dump-num>0.666667</span>
+      <span class=sf-dump-index>3</span> => <span class=sf-dump-num>1.0</span>
+      <span class=sf-dump-index>4</span> => <span class=sf-dump-num>0.75</span>
+      <span class=sf-dump-index>5</span> => <span class=sf-dump-num>1.0</span>
+    </samp>]
+    \"<span class=sf-dump-key>rank_result</span>\" => <span class=sf-dump-num>0.93402388559284</span>
+  </samp>]
+  <span class=sf-dump-index>1</span> => <span class=sf-dump-note>array:8</span> [<samp data-depth=2 class=sf-dump-compact>
+    \"<span class=sf-dump-key>wood_id</span>\" => <span class=sf-dump-num>132</span>
+    \"<span class=sf-dump-key>wood_name</span>\" => \"<span class=sf-dump-str title=\"13 characters\">KAYU JATI TUA</span>\"
+    \"<span class=sf-dump-key>category_name</span>\" => \"<span class=sf-dump-str title=\"7 characters\">PREMIUM</span>\"
+    \"<span class=sf-dump-key>criteria_name</span>\" => <span class=sf-dump-note>array:6</span> [<samp data-depth=3 class=sf-dump-compact>
+      <span class=sf-dump-index>0</span> => \"<span class=sf-dump-str title=\"8 characters\">Kekuatan</span>\"
+      <span class=sf-dump-index>1</span> => \"<span class=sf-dump-str title=\"8 characters\">Keawetan</span>\"
+      <span class=sf-dump-index>2</span> => \"<span class=sf-dump-str title=\"20 characters\">Kandungan Kelembaban</span>\"
+      <span class=sf-dump-index>3</span> => \"<span class=sf-dump-str title=\"8 characters\">Estetika</span>\"
+      <span class=sf-dump-index>4</span> => \"<span class=sf-dump-str title=\"20 characters\">Kemudahan Pengolahan</span>\"
+      <span class=sf-dump-index>5</span> => \"<span class=sf-dump-str title=\"22 characters\">Harga dan Ketersediaan</span>\"
+    </samp>]
+    \"<span class=sf-dump-key>criteria_id</span>\" => <span class=sf-dump-note>array:6</span> [<samp data-depth=3 class=sf-dump-compact>
+      <span class=sf-dump-index>0</span> => <span class=sf-dump-num>34</span>
+      <span class=sf-dump-index>1</span> => <span class=sf-dump-num>35</span>
+      <span class=sf-dump-index>2</span> => <span class=sf-dump-num>36</span>
+      <span class=sf-dump-index>3</span> => <span class=sf-dump-num>37</span>
+      <span class=sf-dump-index>4</span> => <span class=sf-dump-num>38</span>
+      <span class=sf-dump-index>5</span> => <span class=sf-dump-num>39</span>
+    </samp>]
+    \"<span class=sf-dump-key>alternative_val</span>\" => <span class=sf-dump-note>array:6</span> [<samp data-depth=3 class=sf-dump-compact>
+      <span class=sf-dump-index>0</span> => \"<span class=sf-dump-str title=\"3 characters\">4.0</span>\"
+      <span class=sf-dump-index>1</span> => \"<span class=sf-dump-str title=\"3 characters\">4.0</span>\"
+      <span class=sf-dump-index>2</span> => \"<span class=sf-dump-str title=\"3 characters\">4.0</span>\"
+      <span class=sf-dump-index>3</span> => \"<span class=sf-dump-str title=\"3 characters\">4.0</span>\"
+      <span class=sf-dump-index>4</span> => \"<span class=sf-dump-str title=\"3 characters\">3.0</span>\"
+      <span class=sf-dump-index>5</span> => \"<span class=sf-dump-str title=\"3 characters\">2.0</span>\"
+    </samp>]
+    \"<span class=sf-dump-key>results</span>\" => <span class=sf-dump-note>array:6</span> [<samp data-depth=3 class=sf-dump-compact>
+      <span class=sf-dump-index>0</span> => <span class=sf-dump-num>1.0</span>
+      <span class=sf-dump-index>1</span> => <span class=sf-dump-num>1.0</span>
+      <span class=sf-dump-index>2</span> => <span class=sf-dump-num>0.5</span>
+      <span class=sf-dump-index>3</span> => <span class=sf-dump-num>1.0</span>
+      <span class=sf-dump-index>4</span> => <span class=sf-dump-num>0.75</span>
+      <span class=sf-dump-index>5</span> => <span class=sf-dump-num>1.0</span>
+    </samp>]
+    \"<span class=sf-dump-key>rank_result</span>\" => <span class=sf-dump-num>0.909060749</span>
+  </samp>]
+  <span class=sf-dump-index>2</span> => <span class=sf-dump-note>array:8</span> [<samp data-depth=2 class=sf-dump-compact>
+    \"<span class=sf-dump-key>wood_id</span>\" => <span class=sf-dump-num>131</span>
+    \"<span class=sf-dump-key>wood_name</span>\" => \"<span class=sf-dump-str title=\"11 characters\">KAYU MAHONI</span>\"
+    \"<span class=sf-dump-key>category_name</span>\" => \"<span class=sf-dump-str title=\"8 characters\">MENENGAH</span>\"
+    \"<span class=sf-dump-key>criteria_name</span>\" => <span class=sf-dump-note>array:6</span> [<samp data-depth=3 class=sf-dump-compact>
+      <span class=sf-dump-index>0</span> => \"<span class=sf-dump-str title=\"8 characters\">Kekuatan</span>\"
+      <span class=sf-dump-index>1</span> => \"<span class=sf-dump-str title=\"8 characters\">Keawetan</span>\"
+      <span class=sf-dump-index>2</span> => \"<span class=sf-dump-str title=\"20 characters\">Kandungan Kelembaban</span>\"
+      <span class=sf-dump-index>3</span> => \"<span class=sf-dump-str title=\"8 characters\">Estetika</span>\"
+      <span class=sf-dump-index>4</span> => \"<span class=sf-dump-str title=\"20 characters\">Kemudahan Pengolahan</span>\"
+      <span class=sf-dump-index>5</span> => \"<span class=sf-dump-str title=\"22 characters\">Harga dan Ketersediaan</span>\"
+    </samp>]
+    \"<span class=sf-dump-key>criteria_id</span>\" => <span class=sf-dump-note>array:6</span> [<samp data-depth=3 class=sf-dump-compact>
+      <span class=sf-dump-index>0</span> => <span class=sf-dump-num>34</span>
+      <span class=sf-dump-index>1</span> => <span class=sf-dump-num>35</span>
+      <span class=sf-dump-index>2</span> => <span class=sf-dump-num>36</span>
+      <span class=sf-dump-index>3</span> => <span class=sf-dump-num>37</span>
+      <span class=sf-dump-index>4</span> => <span class=sf-dump-num>38</span>
+      <span class=sf-dump-index>5</span> => <span class=sf-dump-num>39</span>
+    </samp>]
+    \"<span class=sf-dump-key>alternative_val</span>\" => <span class=sf-dump-note>array:6</span> [<samp data-depth=3 class=sf-dump-compact>
+      <span class=sf-dump-index>0</span> => \"<span class=sf-dump-str title=\"3 characters\">3.0</span>\"
+      <span class=sf-dump-index>1</span> => \"<span class=sf-dump-str title=\"3 characters\">3.0</span>\"
+      <span class=sf-dump-index>2</span> => \"<span class=sf-dump-str title=\"3 characters\">3.0</span>\"
+      <span class=sf-dump-index>3</span> => \"<span class=sf-dump-str title=\"3 characters\">4.0</span>\"
+      <span class=sf-dump-index>4</span> => \"<span class=sf-dump-str title=\"3 characters\">3.0</span>\"
+      <span class=sf-dump-index>5</span> => \"<span class=sf-dump-str title=\"3 characters\">3.0</span>\"
+    </samp>]
+    \"<span class=sf-dump-key>results</span>\" => <span class=sf-dump-note>array:6</span> [<samp data-depth=3 class=sf-dump-compact>
+      <span class=sf-dump-index>0</span> => <span class=sf-dump-num>0.75</span>
+      <span class=sf-dump-index>1</span> => <span class=sf-dump-num>0.75</span>
+      <span class=sf-dump-index>2</span> => <span class=sf-dump-num>0.666667</span>
+      <span class=sf-dump-index>3</span> => <span class=sf-dump-num>1.0</span>
+      <span class=sf-dump-index>4</span> => <span class=sf-dump-num>0.75</span>
+      <span class=sf-dump-index>5</span> => <span class=sf-dump-num>0.666667</span>
+    </samp>]
+    \"<span class=sf-dump-key>rank_result</span>\" => <span class=sf-dump-num>0.76080452615745</span>
+  </samp>]
+  <span class=sf-dump-index>3</span> => <span class=sf-dump-note>array:8</span> [<samp data-depth=2 class=sf-dump-compact>
+    \"<span class=sf-dump-key>wood_id</span>\" => <span class=sf-dump-num>130</span>
+    \"<span class=sf-dump-key>wood_name</span>\" => \"<span class=sf-dump-str title=\"14 characters\">KAYU JATI MUDA</span>\"
+    \"<span class=sf-dump-key>category_name</span>\" => \"<span class=sf-dump-str title=\"8 characters\">MENENGAH</span>\"
+    \"<span class=sf-dump-key>criteria_name</span>\" => <span class=sf-dump-note>array:6</span> [<samp data-depth=3 class=sf-dump-compact>
+      <span class=sf-dump-index>0</span> => \"<span class=sf-dump-str title=\"8 characters\">Kekuatan</span>\"
+      <span class=sf-dump-index>1</span> => \"<span class=sf-dump-str title=\"8 characters\">Keawetan</span>\"
+      <span class=sf-dump-index>2</span> => \"<span class=sf-dump-str title=\"20 characters\">Kandungan Kelembaban</span>\"
+      <span class=sf-dump-index>3</span> => \"<span class=sf-dump-str title=\"8 characters\">Estetika</span>\"
+      <span class=sf-dump-index>4</span> => \"<span class=sf-dump-str title=\"20 characters\">Kemudahan Pengolahan</span>\"
+      <span class=sf-dump-index>5</span> => \"<span class=sf-dump-str title=\"22 characters\">Harga dan Ketersediaan</span>\"
+    </samp>]
+    \"<span class=sf-dump-key>criteria_id</span>\" => <span class=sf-dump-note>array:6</span> [<samp data-depth=3 class=sf-dump-compact>
+      <span class=sf-dump-index>0</span> => <span class=sf-dump-num>34</span>
+      <span class=sf-dump-index>1</span> => <span class=sf-dump-num>35</span>
+      <span class=sf-dump-index>2</span> => <span class=sf-dump-num>36</span>
+      <span class=sf-dump-index>3</span> => <span class=sf-dump-num>37</span>
+      <span class=sf-dump-index>4</span> => <span class=sf-dump-num>38</span>
+      <span class=sf-dump-index>5</span> => <span class=sf-dump-num>39</span>
+    </samp>]
+    \"<span class=sf-dump-key>alternative_val</span>\" => <span class=sf-dump-note>array:6</span> [<samp data-depth=3 class=sf-dump-compact>
+      <span class=sf-dump-index>0</span> => \"<span class=sf-dump-str title=\"3 characters\">3.0</span>\"
+      <span class=sf-dump-index>1</span> => \"<span class=sf-dump-str title=\"3 characters\">3.0</span>\"
+      <span class=sf-dump-index>2</span> => \"<span class=sf-dump-str title=\"3 characters\">3.0</span>\"
+      <span class=sf-dump-index>3</span> => \"<span class=sf-dump-str title=\"3 characters\">3.0</span>\"
+      <span class=sf-dump-index>4</span> => \"<span class=sf-dump-str title=\"3 characters\">3.0</span>\"
+      <span class=sf-dump-index>5</span> => \"<span class=sf-dump-str title=\"3 characters\">3.0</span>\"
+    </samp>]
+    \"<span class=sf-dump-key>results</span>\" => <span class=sf-dump-note>array:6</span> [<samp data-depth=3 class=sf-dump-compact>
+      <span class=sf-dump-index>0</span> => <span class=sf-dump-num>0.75</span>
+      <span class=sf-dump-index>1</span> => <span class=sf-dump-num>0.75</span>
+      <span class=sf-dump-index>2</span> => <span class=sf-dump-num>0.666667</span>
+      <span class=sf-dump-index>3</span> => <span class=sf-dump-num>0.75</span>
+      <span class=sf-dump-index>4</span> => <span class=sf-dump-num>0.75</span>
+      <span class=sf-dump-index>5</span> => <span class=sf-dump-num>0.666667</span>
+    </samp>]
+    \"<span class=sf-dump-key>rank_result</span>\" => <span class=sf-dump-num>0.73275237115745</span>
+  </samp>]
+  <span class=sf-dump-index>4</span> => <span class=sf-dump-note>array:8</span> [<samp data-depth=2 class=sf-dump-compact>
+    \"<span class=sf-dump-key>wood_id</span>\" => <span class=sf-dump-num>126</span>
+    \"<span class=sf-dump-key>wood_name</span>\" => \"<span class=sf-dump-str title=\"10 characters\">KAYU PINUS</span>\"
+    \"<span class=sf-dump-key>category_name</span>\" => \"<span class=sf-dump-str title=\"8 characters\">EKONOMIS</span>\"
+    \"<span class=sf-dump-key>criteria_name</span>\" => <span class=sf-dump-note>array:6</span> [<samp data-depth=3 class=sf-dump-compact>
+      <span class=sf-dump-index>0</span> => \"<span class=sf-dump-str title=\"8 characters\">Kekuatan</span>\"
+      <span class=sf-dump-index>1</span> => \"<span class=sf-dump-str title=\"8 characters\">Keawetan</span>\"
+      <span class=sf-dump-index>2</span> => \"<span class=sf-dump-str title=\"20 characters\">Kandungan Kelembaban</span>\"
+      <span class=sf-dump-index>3</span> => \"<span class=sf-dump-str title=\"8 characters\">Estetika</span>\"
+      <span class=sf-dump-index>4</span> => \"<span class=sf-dump-str title=\"20 characters\">Kemudahan Pengolahan</span>\"
+      <span class=sf-dump-index>5</span> => \"<span class=sf-dump-str title=\"22 characters\">Harga dan Ketersediaan</span>\"
+    </samp>]
+    \"<span class=sf-dump-key>criteria_id</span>\" => <span class=sf-dump-note>array:6</span> [<samp data-depth=3 class=sf-dump-compact>
+      <span class=sf-dump-index>0</span> => <span class=sf-dump-num>34</span>
+      <span class=sf-dump-index>1</span> => <span class=sf-dump-num>35</span>
+      <span class=sf-dump-index>2</span> => <span class=sf-dump-num>36</span>
+      <span class=sf-dump-index>3</span> => <span class=sf-dump-num>37</span>
+      <span class=sf-dump-index>4</span> => <span class=sf-dump-num>38</span>
+      <span class=sf-dump-index>5</span> => <span class=sf-dump-num>39</span>
+    </samp>]
+    \"<span class=sf-dump-key>alternative_val</span>\" => <span class=sf-dump-note>array:6</span> [<samp data-depth=3 class=sf-dump-compact>
+      <span class=sf-dump-index>0</span> => \"<span class=sf-dump-str title=\"3 characters\">2.0</span>\"
+      <span class=sf-dump-index>1</span> => \"<span class=sf-dump-str title=\"3 characters\">2.0</span>\"
+      <span class=sf-dump-index>2</span> => \"<span class=sf-dump-str title=\"3 characters\">2.0</span>\"
+      <span class=sf-dump-index>3</span> => \"<span class=sf-dump-str title=\"3 characters\">3.0</span>\"
+      <span class=sf-dump-index>4</span> => \"<span class=sf-dump-str title=\"3 characters\">3.0</span>\"
+      <span class=sf-dump-index>5</span> => \"<span class=sf-dump-str title=\"3 characters\">3.0</span>\"
+    </samp>]
+    \"<span class=sf-dump-key>results</span>\" => <span class=sf-dump-note>array:6</span> [<samp data-depth=3 class=sf-dump-compact>
+      <span class=sf-dump-index>0</span> => <span class=sf-dump-num>0.5</span>
+      <span class=sf-dump-index>1</span> => <span class=sf-dump-num>0.5</span>
+      <span class=sf-dump-index>2</span> => <span class=sf-dump-num>1.0</span>
+      <span class=sf-dump-index>3</span> => <span class=sf-dump-num>0.75</span>
+      <span class=sf-dump-index>4</span> => <span class=sf-dump-num>0.75</span>
+      <span class=sf-dump-index>5</span> => <span class=sf-dump-num>0.666667</span>
+    </samp>]
+    \"<span class=sf-dump-key>rank_result</span>\" => <span class=sf-dump-num>0.62852372806461</span>
+  </samp>]
+  <span class=sf-dump-index>5</span> => <span class=sf-dump-note>array:8</span> [<samp data-depth=2 class=sf-dump-compact>
+    \"<span class=sf-dump-key>wood_id</span>\" => <span class=sf-dump-num>129</span>
+    \"<span class=sf-dump-key>wood_name</span>\" => \"<span class=sf-dump-str title=\"10 characters\">KAYU GLUGU</span>\"
+    \"<span class=sf-dump-key>category_name</span>\" => \"<span class=sf-dump-str title=\"8 characters\">MENENGAH</span>\"
+    \"<span class=sf-dump-key>criteria_name</span>\" => <span class=sf-dump-note>array:6</span> [<samp data-depth=3 class=sf-dump-compact>
+      <span class=sf-dump-index>0</span> => \"<span class=sf-dump-str title=\"8 characters\">Kekuatan</span>\"
+      <span class=sf-dump-index>1</span> => \"<span class=sf-dump-str title=\"8 characters\">Keawetan</span>\"
+      <span class=sf-dump-index>2</span> => \"<span class=sf-dump-str title=\"20 characters\">Kandungan Kelembaban</span>\"
+      <span class=sf-dump-index>3</span> => \"<span class=sf-dump-str title=\"8 characters\">Estetika</span>\"
+      <span class=sf-dump-index>4</span> => \"<span class=sf-dump-str title=\"20 characters\">Kemudahan Pengolahan</span>\"
+      <span class=sf-dump-index>5</span> => \"<span class=sf-dump-str title=\"22 characters\">Harga dan Ketersediaan</span>\"
+    </samp>]
+    \"<span class=sf-dump-key>criteria_id</span>\" => <span class=sf-dump-note>array:6</span> [<samp data-depth=3 class=sf-dump-compact>
+      <span class=sf-dump-index>0</span> => <span class=sf-dump-num>34</span>
+      <span class=sf-dump-index>1</span> => <span class=sf-dump-num>35</span>
+      <span class=sf-dump-index>2</span> => <span class=sf-dump-num>36</span>
+      <span class=sf-dump-index>3</span> => <span class=sf-dump-num>37</span>
+      <span class=sf-dump-index>4</span> => <span class=sf-dump-num>38</span>
+      <span class=sf-dump-index>5</span> => <span class=sf-dump-num>39</span>
+    </samp>]
+    \"<span class=sf-dump-key>alternative_val</span>\" => <span class=sf-dump-note>array:6</span> [<samp data-depth=3 class=sf-dump-compact>
+      <span class=sf-dump-index>0</span> => \"<span class=sf-dump-str title=\"3 characters\">2.0</span>\"
+      <span class=sf-dump-index>1</span> => \"<span class=sf-dump-str title=\"3 characters\">2.0</span>\"
+      <span class=sf-dump-index>2</span> => \"<span class=sf-dump-str title=\"3 characters\">2.0</span>\"
+      <span class=sf-dump-index>3</span> => \"<span class=sf-dump-str title=\"3 characters\">2.0</span>\"
+      <span class=sf-dump-index>4</span> => \"<span class=sf-dump-str title=\"3 characters\">3.0</span>\"
+      <span class=sf-dump-index>5</span> => \"<span class=sf-dump-str title=\"3 characters\">4.0</span>\"
+    </samp>]
+    \"<span class=sf-dump-key>results</span>\" => <span class=sf-dump-note>array:6</span> [<samp data-depth=3 class=sf-dump-compact>
+      <span class=sf-dump-index>0</span> => <span class=sf-dump-num>0.5</span>
+      <span class=sf-dump-index>1</span> => <span class=sf-dump-num>0.5</span>
+      <span class=sf-dump-index>2</span> => <span class=sf-dump-num>1.0</span>
+      <span class=sf-dump-index>3</span> => <span class=sf-dump-num>0.5</span>
+      <span class=sf-dump-index>4</span> => <span class=sf-dump-num>0.75</span>
+      <span class=sf-dump-index>5</span> => <span class=sf-dump-num>0.5</span>
+    </samp>]
+    \"<span class=sf-dump-key>rank_result</span>\" => <span class=sf-dump-num>0.590939248</span>
+  </samp>]
+  <span class=sf-dump-index>6</span> => <span class=sf-dump-note>array:8</span> [<samp data-depth=2 class=sf-dump-compact>
+    \"<span class=sf-dump-key>wood_id</span>\" => <span class=sf-dump-num>128</span>
+    \"<span class=sf-dump-key>wood_name</span>\" => \"<span class=sf-dump-str title=\"11 characters\">KAYU SENGON</span>\"
+    \"<span class=sf-dump-key>category_name</span>\" => \"<span class=sf-dump-str title=\"8 characters\">EKONOMIS</span>\"
+    \"<span class=sf-dump-key>criteria_name</span>\" => <span class=sf-dump-note>array:6</span> [<samp data-depth=3 class=sf-dump-compact>
+      <span class=sf-dump-index>0</span> => \"<span class=sf-dump-str title=\"8 characters\">Kekuatan</span>\"
+      <span class=sf-dump-index>1</span> => \"<span class=sf-dump-str title=\"8 characters\">Keawetan</span>\"
+      <span class=sf-dump-index>2</span> => \"<span class=sf-dump-str title=\"20 characters\">Kandungan Kelembaban</span>\"
+      <span class=sf-dump-index>3</span> => \"<span class=sf-dump-str title=\"8 characters\">Estetika</span>\"
+      <span class=sf-dump-index>4</span> => \"<span class=sf-dump-str title=\"20 characters\">Kemudahan Pengolahan</span>\"
+      <span class=sf-dump-index>5</span> => \"<span class=sf-dump-str title=\"22 characters\">Harga dan Ketersediaan</span>\"
+    </samp>]
+    \"<span class=sf-dump-key>criteria_id</span>\" => <span class=sf-dump-note>array:6</span> [<samp data-depth=3 class=sf-dump-compact>
+      <span class=sf-dump-index>0</span> => <span class=sf-dump-num>34</span>
+      <span class=sf-dump-index>1</span> => <span class=sf-dump-num>35</span>
+      <span class=sf-dump-index>2</span> => <span class=sf-dump-num>36</span>
+      <span class=sf-dump-index>3</span> => <span class=sf-dump-num>37</span>
+      <span class=sf-dump-index>4</span> => <span class=sf-dump-num>38</span>
+      <span class=sf-dump-index>5</span> => <span class=sf-dump-num>39</span>
+    </samp>]
+    \"<span class=sf-dump-key>alternative_val</span>\" => <span class=sf-dump-note>array:6</span> [<samp data-depth=3 class=sf-dump-compact>
+      <span class=sf-dump-index>0</span> => \"<span class=sf-dump-str title=\"3 characters\">1.0</span>\"
+      <span class=sf-dump-index>1</span> => \"<span class=sf-dump-str title=\"3 characters\">1.0</span>\"
+      <span class=sf-dump-index>2</span> => \"<span class=sf-dump-str title=\"3 characters\">2.0</span>\"
+      <span class=sf-dump-index>3</span> => \"<span class=sf-dump-str title=\"3 characters\">2.0</span>\"
+      <span class=sf-dump-index>4</span> => \"<span class=sf-dump-str title=\"3 characters\">4.0</span>\"
+      <span class=sf-dump-index>5</span> => \"<span class=sf-dump-str title=\"3 characters\">4.0</span>\"
+    </samp>]
+    \"<span class=sf-dump-key>results</span>\" => <span class=sf-dump-note>array:6</span> [<samp data-depth=3 class=sf-dump-compact>
+      <span class=sf-dump-index>0</span> => <span class=sf-dump-num>0.25</span>
+      <span class=sf-dump-index>1</span> => <span class=sf-dump-num>0.25</span>
+      <span class=sf-dump-index>2</span> => <span class=sf-dump-num>1.0</span>
+      <span class=sf-dump-index>3</span> => <span class=sf-dump-num>0.5</span>
+      <span class=sf-dump-index>4</span> => <span class=sf-dump-num>1.0</span>
+      <span class=sf-dump-index>5</span> => <span class=sf-dump-num>0.5</span>
+    </samp>]
+    \"<span class=sf-dump-key>rank_result</span>\" => <span class=sf-dump-num>0.4528344705</span>
+  </samp>]
+  <span class=sf-dump-index>7</span> => <span class=sf-dump-note>array:8</span> [<samp data-depth=2 class=sf-dump-compact>
+    \"<span class=sf-dump-key>wood_id</span>\" => <span class=sf-dump-num>127</span>
+    \"<span class=sf-dump-key>wood_name</span>\" => \"<span class=sf-dump-str title=\"10 characters\">KAYU RANDU</span>\"
+    \"<span class=sf-dump-key>category_name</span>\" => \"<span class=sf-dump-str title=\"8 characters\">EKONOMIS</span>\"
+    \"<span class=sf-dump-key>criteria_name</span>\" => <span class=sf-dump-note>array:6</span> [<samp data-depth=3 class=sf-dump-compact>
+      <span class=sf-dump-index>0</span> => \"<span class=sf-dump-str title=\"8 characters\">Kekuatan</span>\"
+      <span class=sf-dump-index>1</span> => \"<span class=sf-dump-str title=\"8 characters\">Keawetan</span>\"
+      <span class=sf-dump-index>2</span> => \"<span class=sf-dump-str title=\"20 characters\">Kandungan Kelembaban</span>\"
+      <span class=sf-dump-index>3</span> => \"<span class=sf-dump-str title=\"8 characters\">Estetika</span>\"
+      <span class=sf-dump-index>4</span> => \"<span class=sf-dump-str title=\"20 characters\">Kemudahan Pengolahan</span>\"
+      <span class=sf-dump-index>5</span> => \"<span class=sf-dump-str title=\"22 characters\">Harga dan Ketersediaan</span>\"
+    </samp>]
+    \"<span class=sf-dump-key>criteria_id</span>\" => <span class=sf-dump-note>array:6</span> [<samp data-depth=3 class=sf-dump-compact>
+      <span class=sf-dump-index>0</span> => <span class=sf-dump-num>34</span>
+      <span class=sf-dump-index>1</span> => <span class=sf-dump-num>35</span>
+      <span class=sf-dump-index>2</span> => <span class=sf-dump-num>36</span>
+      <span class=sf-dump-index>3</span> => <span class=sf-dump-num>37</span>
+      <span class=sf-dump-index>4</span> => <span class=sf-dump-num>38</span>
+      <span class=sf-dump-index>5</span> => <span class=sf-dump-num>39</span>
+    </samp>]
+    \"<span class=sf-dump-key>alternative_val</span>\" => <span class=sf-dump-note>array:6</span> [<samp data-depth=3 class=sf-dump-compact>
+      <span class=sf-dump-index>0</span> => \"<span class=sf-dump-str title=\"3 characters\">1.0</span>\"
+      <span class=sf-dump-index>1</span> => \"<span class=sf-dump-str title=\"3 characters\">1.0</span>\"
+      <span class=sf-dump-index>2</span> => \"<span class=sf-dump-str title=\"3 characters\">2.0</span>\"
+      <span class=sf-dump-index>3</span> => \"<span class=sf-dump-str title=\"3 characters\">1.0</span>\"
+      <span class=sf-dump-index>4</span> => \"<span class=sf-dump-str title=\"3 characters\">3.0</span>\"
+      <span class=sf-dump-index>5</span> => \"<span class=sf-dump-str title=\"3 characters\">4.0</span>\"
+    </samp>]
+    \"<span class=sf-dump-key>results</span>\" => <span class=sf-dump-note>array:6</span> [<samp data-depth=3 class=sf-dump-compact>
+      <span class=sf-dump-index>0</span> => <span class=sf-dump-num>0.25</span>
+      <span class=sf-dump-index>1</span> => <span class=sf-dump-num>0.25</span>
+      <span class=sf-dump-index>2</span> => <span class=sf-dump-num>1.0</span>
+      <span class=sf-dump-index>3</span> => <span class=sf-dump-num>0.25</span>
+      <span class=sf-dump-index>4</span> => <span class=sf-dump-num>0.75</span>
+      <span class=sf-dump-index>5</span> => <span class=sf-dump-num>0.5</span>
+    </samp>]
+    \"<span class=sf-dump-key>rank_result</span>\" => <span class=sf-dump-num>0.4087323265</span>
+  </samp>]
+</samp>]
+</pre><script>Sfdump(\"sf-dump-1974485207\", {\"maxDepth\":3,\"maxStringLength\":160})</script>
+","rankResult":"<pre class=sf-dump id=sf-dump-1174715428 data-indent-pad=\"  \">[]
+</pre><script>Sfdump(\"sf-dump-1174715428\", {\"maxDepth\":3,\"maxStringLength\":160})</script>
+","__currentLoopData":"<pre class=sf-dump id=sf-dump-394691146 data-indent-pad=\"  \"><span class=sf-dump-note>array:8</span> [<samp data-depth=1 class=sf-dump-expanded>
+  <span class=sf-dump-index>0</span> => <span class=sf-dump-note>array:8</span> [<samp data-depth=2 class=sf-dump-compact>
+    \"<span class=sf-dump-key>wood_id</span>\" => <span class=sf-dump-num>133</span>
+    \"<span class=sf-dump-key>wood_name</span>\" => \"<span class=sf-dump-str title=\"15 characters\">KAYU SONOKELING</span>\"
+    \"<span class=sf-dump-key>category_name</span>\" => \"<span class=sf-dump-str title=\"7 characters\">PREMIUM</span>\"
+    \"<span class=sf-dump-key>criteria_name</span>\" => <span class=sf-dump-note>array:6</span> [<samp data-depth=3 class=sf-dump-compact>
+      <span class=sf-dump-index>0</span> => \"<span class=sf-dump-str title=\"8 characters\">Kekuatan</span>\"
+      <span class=sf-dump-index>1</span> => \"<span class=sf-dump-str title=\"8 characters\">Keawetan</span>\"
+      <span class=sf-dump-index>2</span> => \"<span class=sf-dump-str title=\"20 characters\">Kandungan Kelembaban</span>\"
+      <span class=sf-dump-index>3</span> => \"<span class=sf-dump-str title=\"8 characters\">Estetika</span>\"
+      <span class=sf-dump-index>4</span> => \"<span class=sf-dump-str title=\"20 characters\">Kemudahan Pengolahan</span>\"
+      <span class=sf-dump-index>5</span> => \"<span class=sf-dump-str title=\"22 characters\">Harga dan Ketersediaan</span>\"
+    </samp>]
+    \"<span class=sf-dump-key>criteria_id</span>\" => <span class=sf-dump-note>array:6</span> [<samp data-depth=3 class=sf-dump-compact>
+      <span class=sf-dump-index>0</span> => <span class=sf-dump-num>34</span>
+      <span class=sf-dump-index>1</span> => <span class=sf-dump-num>35</span>
+      <span class=sf-dump-index>2</span> => <span class=sf-dump-num>36</span>
+      <span class=sf-dump-index>3</span> => <span class=sf-dump-num>37</span>
+      <span class=sf-dump-index>4</span> => <span class=sf-dump-num>38</span>
+      <span class=sf-dump-index>5</span> => <span class=sf-dump-num>39</span>
+    </samp>]
+    \"<span class=sf-dump-key>alternative_val</span>\" => <span class=sf-dump-note>array:6</span> [<samp data-depth=3 class=sf-dump-compact>
+      <span class=sf-dump-index>0</span> => \"<span class=sf-dump-str title=\"3 characters\">4.0</span>\"
+      <span class=sf-dump-index>1</span> => \"<span class=sf-dump-str title=\"3 characters\">4.0</span>\"
+      <span class=sf-dump-index>2</span> => \"<span class=sf-dump-str title=\"3 characters\">3.0</span>\"
+      <span class=sf-dump-index>3</span> => \"<span class=sf-dump-str title=\"3 characters\">4.0</span>\"
+      <span class=sf-dump-index>4</span> => \"<span class=sf-dump-str title=\"3 characters\">3.0</span>\"
+      <span class=sf-dump-index>5</span> => \"<span class=sf-dump-str title=\"3 characters\">2.0</span>\"
+    </samp>]
+    \"<span class=sf-dump-key>results</span>\" => <span class=sf-dump-note>array:6</span> [<samp data-depth=3 class=sf-dump-compact>
+      <span class=sf-dump-index>0</span> => <span class=sf-dump-num>1.0</span>
+      <span class=sf-dump-index>1</span> => <span class=sf-dump-num>1.0</span>
+      <span class=sf-dump-index>2</span> => <span class=sf-dump-num>0.666667</span>
+      <span class=sf-dump-index>3</span> => <span class=sf-dump-num>1.0</span>
+      <span class=sf-dump-index>4</span> => <span class=sf-dump-num>0.75</span>
+      <span class=sf-dump-index>5</span> => <span class=sf-dump-num>1.0</span>
+    </samp>]
+    \"<span class=sf-dump-key>rank_result</span>\" => <span class=sf-dump-num>0.93402388559284</span>
+  </samp>]
+  <span class=sf-dump-index>1</span> => <span class=sf-dump-note>array:8</span> [<samp data-depth=2 class=sf-dump-compact>
+    \"<span class=sf-dump-key>wood_id</span>\" => <span class=sf-dump-num>132</span>
+    \"<span class=sf-dump-key>wood_name</span>\" => \"<span class=sf-dump-str title=\"13 characters\">KAYU JATI TUA</span>\"
+    \"<span class=sf-dump-key>category_name</span>\" => \"<span class=sf-dump-str title=\"7 characters\">PREMIUM</span>\"
+    \"<span class=sf-dump-key>criteria_name</span>\" => <span class=sf-dump-note>array:6</span> [<samp data-depth=3 class=sf-dump-compact>
+      <span class=sf-dump-index>0</span> => \"<span class=sf-dump-str title=\"8 characters\">Kekuatan</span>\"
+      <span class=sf-dump-index>1</span> => \"<span class=sf-dump-str title=\"8 characters\">Keawetan</span>\"
+      <span class=sf-dump-index>2</span> => \"<span class=sf-dump-str title=\"20 characters\">Kandungan Kelembaban</span>\"
+      <span class=sf-dump-index>3</span> => \"<span class=sf-dump-str title=\"8 characters\">Estetika</span>\"
+      <span class=sf-dump-index>4</span> => \"<span class=sf-dump-str title=\"20 characters\">Kemudahan Pengolahan</span>\"
+      <span class=sf-dump-index>5</span> => \"<span class=sf-dump-str title=\"22 characters\">Harga dan Ketersediaan</span>\"
+    </samp>]
+    \"<span class=sf-dump-key>criteria_id</span>\" => <span class=sf-dump-note>array:6</span> [<samp data-depth=3 class=sf-dump-compact>
+      <span class=sf-dump-index>0</span> => <span class=sf-dump-num>34</span>
+      <span class=sf-dump-index>1</span> => <span class=sf-dump-num>35</span>
+      <span class=sf-dump-index>2</span> => <span class=sf-dump-num>36</span>
+      <span class=sf-dump-index>3</span> => <span class=sf-dump-num>37</span>
+      <span class=sf-dump-index>4</span> => <span class=sf-dump-num>38</span>
+      <span class=sf-dump-index>5</span> => <span class=sf-dump-num>39</span>
+    </samp>]
+    \"<span class=sf-dump-key>alternative_val</span>\" => <span class=sf-dump-note>array:6</span> [<samp data-depth=3 class=sf-dump-compact>
+      <span class=sf-dump-index>0</span> => \"<span class=sf-dump-str title=\"3 characters\">4.0</span>\"
+      <span class=sf-dump-index>1</span> => \"<span class=sf-dump-str title=\"3 characters\">4.0</span>\"
+      <span class=sf-dump-index>2</span> => \"<span class=sf-dump-str title=\"3 characters\">4.0</span>\"
+      <span class=sf-dump-index>3</span> => \"<span class=sf-dump-str title=\"3 characters\">4.0</span>\"
+      <span class=sf-dump-index>4</span> => \"<span class=sf-dump-str title=\"3 characters\">3.0</span>\"
+      <span class=sf-dump-index>5</span> => \"<span class=sf-dump-str title=\"3 characters\">2.0</span>\"
+    </samp>]
+    \"<span class=sf-dump-key>results</span>\" => <span class=sf-dump-note>array:6</span> [<samp data-depth=3 class=sf-dump-compact>
+      <span class=sf-dump-index>0</span> => <span class=sf-dump-num>1.0</span>
+      <span class=sf-dump-index>1</span> => <span class=sf-dump-num>1.0</span>
+      <span class=sf-dump-index>2</span> => <span class=sf-dump-num>0.5</span>
+      <span class=sf-dump-index>3</span> => <span class=sf-dump-num>1.0</span>
+      <span class=sf-dump-index>4</span> => <span class=sf-dump-num>0.75</span>
+      <span class=sf-dump-index>5</span> => <span class=sf-dump-num>1.0</span>
+    </samp>]
+    \"<span class=sf-dump-key>rank_result</span>\" => <span class=sf-dump-num>0.909060749</span>
+  </samp>]
+  <span class=sf-dump-index>2</span> => <span class=sf-dump-note>array:8</span> [<samp data-depth=2 class=sf-dump-compact>
+    \"<span class=sf-dump-key>wood_id</span>\" => <span class=sf-dump-num>131</span>
+    \"<span class=sf-dump-key>wood_name</span>\" => \"<span class=sf-dump-str title=\"11 characters\">KAYU MAHONI</span>\"
+    \"<span class=sf-dump-key>category_name</span>\" => \"<span class=sf-dump-str title=\"8 characters\">MENENGAH</span>\"
+    \"<span class=sf-dump-key>criteria_name</span>\" => <span class=sf-dump-note>array:6</span> [<samp data-depth=3 class=sf-dump-compact>
+      <span class=sf-dump-index>0</span> => \"<span class=sf-dump-str title=\"8 characters\">Kekuatan</span>\"
+      <span class=sf-dump-index>1</span> => \"<span class=sf-dump-str title=\"8 characters\">Keawetan</span>\"
+      <span class=sf-dump-index>2</span> => \"<span class=sf-dump-str title=\"20 characters\">Kandungan Kelembaban</span>\"
+      <span class=sf-dump-index>3</span> => \"<span class=sf-dump-str title=\"8 characters\">Estetika</span>\"
+      <span class=sf-dump-index>4</span> => \"<span class=sf-dump-str title=\"20 characters\">Kemudahan Pengolahan</span>\"
+      <span class=sf-dump-index>5</span> => \"<span class=sf-dump-str title=\"22 characters\">Harga dan Ketersediaan</span>\"
+    </samp>]
+    \"<span class=sf-dump-key>criteria_id</span>\" => <span class=sf-dump-note>array:6</span> [<samp data-depth=3 class=sf-dump-compact>
+      <span class=sf-dump-index>0</span> => <span class=sf-dump-num>34</span>
+      <span class=sf-dump-index>1</span> => <span class=sf-dump-num>35</span>
+      <span class=sf-dump-index>2</span> => <span class=sf-dump-num>36</span>
+      <span class=sf-dump-index>3</span> => <span class=sf-dump-num>37</span>
+      <span class=sf-dump-index>4</span> => <span class=sf-dump-num>38</span>
+      <span class=sf-dump-index>5</span> => <span class=sf-dump-num>39</span>
+    </samp>]
+    \"<span class=sf-dump-key>alternative_val</span>\" => <span class=sf-dump-note>array:6</span> [<samp data-depth=3 class=sf-dump-compact>
+      <span class=sf-dump-index>0</span> => \"<span class=sf-dump-str title=\"3 characters\">3.0</span>\"
+      <span class=sf-dump-index>1</span> => \"<span class=sf-dump-str title=\"3 characters\">3.0</span>\"
+      <span class=sf-dump-index>2</span> => \"<span class=sf-dump-str title=\"3 characters\">3.0</span>\"
+      <span class=sf-dump-index>3</span> => \"<span class=sf-dump-str title=\"3 characters\">4.0</span>\"
+      <span class=sf-dump-index>4</span> => \"<span class=sf-dump-str title=\"3 characters\">3.0</span>\"
+      <span class=sf-dump-index>5</span> => \"<span class=sf-dump-str title=\"3 characters\">3.0</span>\"
+    </samp>]
+    \"<span class=sf-dump-key>results</span>\" => <span class=sf-dump-note>array:6</span> [<samp data-depth=3 class=sf-dump-compact>
+      <span class=sf-dump-index>0</span> => <span class=sf-dump-num>0.75</span>
+      <span class=sf-dump-index>1</span> => <span class=sf-dump-num>0.75</span>
+      <span class=sf-dump-index>2</span> => <span class=sf-dump-num>0.666667</span>
+      <span class=sf-dump-index>3</span> => <span class=sf-dump-num>1.0</span>
+      <span class=sf-dump-index>4</span> => <span class=sf-dump-num>0.75</span>
+      <span class=sf-dump-index>5</span> => <span class=sf-dump-num>0.666667</span>
+    </samp>]
+    \"<span class=sf-dump-key>rank_result</span>\" => <span class=sf-dump-num>0.76080452615745</span>
+  </samp>]
+  <span class=sf-dump-index>3</span> => <span class=sf-dump-note>array:8</span> [<samp data-depth=2 class=sf-dump-compact>
+    \"<span class=sf-dump-key>wood_id</span>\" => <span class=sf-dump-num>130</span>
+    \"<span class=sf-dump-key>wood_name</span>\" => \"<span class=sf-dump-str title=\"14 characters\">KAYU JATI MUDA</span>\"
+    \"<span class=sf-dump-key>category_name</span>\" => \"<span class=sf-dump-str title=\"8 characters\">MENENGAH</span>\"
+    \"<span class=sf-dump-key>criteria_name</span>\" => <span class=sf-dump-note>array:6</span> [<samp data-depth=3 class=sf-dump-compact>
+      <span class=sf-dump-index>0</span> => \"<span class=sf-dump-str title=\"8 characters\">Kekuatan</span>\"
+      <span class=sf-dump-index>1</span> => \"<span class=sf-dump-str title=\"8 characters\">Keawetan</span>\"
+      <span class=sf-dump-index>2</span> => \"<span class=sf-dump-str title=\"20 characters\">Kandungan Kelembaban</span>\"
+      <span class=sf-dump-index>3</span> => \"<span class=sf-dump-str title=\"8 characters\">Estetika</span>\"
+      <span class=sf-dump-index>4</span> => \"<span class=sf-dump-str title=\"20 characters\">Kemudahan Pengolahan</span>\"
+      <span class=sf-dump-index>5</span> => \"<span class=sf-dump-str title=\"22 characters\">Harga dan Ketersediaan</span>\"
+    </samp>]
+    \"<span class=sf-dump-key>criteria_id</span>\" => <span class=sf-dump-note>array:6</span> [<samp data-depth=3 class=sf-dump-compact>
+      <span class=sf-dump-index>0</span> => <span class=sf-dump-num>34</span>
+      <span class=sf-dump-index>1</span> => <span class=sf-dump-num>35</span>
+      <span class=sf-dump-index>2</span> => <span class=sf-dump-num>36</span>
+      <span class=sf-dump-index>3</span> => <span class=sf-dump-num>37</span>
+      <span class=sf-dump-index>4</span> => <span class=sf-dump-num>38</span>
+      <span class=sf-dump-index>5</span> => <span class=sf-dump-num>39</span>
+    </samp>]
+    \"<span class=sf-dump-key>alternative_val</span>\" => <span class=sf-dump-note>array:6</span> [<samp data-depth=3 class=sf-dump-compact>
+      <span class=sf-dump-index>0</span> => \"<span class=sf-dump-str title=\"3 characters\">3.0</span>\"
+      <span class=sf-dump-index>1</span> => \"<span class=sf-dump-str title=\"3 characters\">3.0</span>\"
+      <span class=sf-dump-index>2</span> => \"<span class=sf-dump-str title=\"3 characters\">3.0</span>\"
+      <span class=sf-dump-index>3</span> => \"<span class=sf-dump-str title=\"3 characters\">3.0</span>\"
+      <span class=sf-dump-index>4</span> => \"<span class=sf-dump-str title=\"3 characters\">3.0</span>\"
+      <span class=sf-dump-index>5</span> => \"<span class=sf-dump-str title=\"3 characters\">3.0</span>\"
+    </samp>]
+    \"<span class=sf-dump-key>results</span>\" => <span class=sf-dump-note>array:6</span> [<samp data-depth=3 class=sf-dump-compact>
+      <span class=sf-dump-index>0</span> => <span class=sf-dump-num>0.75</span>
+      <span class=sf-dump-index>1</span> => <span class=sf-dump-num>0.75</span>
+      <span class=sf-dump-index>2</span> => <span class=sf-dump-num>0.666667</span>
+      <span class=sf-dump-index>3</span> => <span class=sf-dump-num>0.75</span>
+      <span class=sf-dump-index>4</span> => <span class=sf-dump-num>0.75</span>
+      <span class=sf-dump-index>5</span> => <span class=sf-dump-num>0.666667</span>
+    </samp>]
+    \"<span class=sf-dump-key>rank_result</span>\" => <span class=sf-dump-num>0.73275237115745</span>
+  </samp>]
+  <span class=sf-dump-index>4</span> => <span class=sf-dump-note>array:8</span> [<samp data-depth=2 class=sf-dump-compact>
+    \"<span class=sf-dump-key>wood_id</span>\" => <span class=sf-dump-num>126</span>
+    \"<span class=sf-dump-key>wood_name</span>\" => \"<span class=sf-dump-str title=\"10 characters\">KAYU PINUS</span>\"
+    \"<span class=sf-dump-key>category_name</span>\" => \"<span class=sf-dump-str title=\"8 characters\">EKONOMIS</span>\"
+    \"<span class=sf-dump-key>criteria_name</span>\" => <span class=sf-dump-note>array:6</span> [<samp data-depth=3 class=sf-dump-compact>
+      <span class=sf-dump-index>0</span> => \"<span class=sf-dump-str title=\"8 characters\">Kekuatan</span>\"
+      <span class=sf-dump-index>1</span> => \"<span class=sf-dump-str title=\"8 characters\">Keawetan</span>\"
+      <span class=sf-dump-index>2</span> => \"<span class=sf-dump-str title=\"20 characters\">Kandungan Kelembaban</span>\"
+      <span class=sf-dump-index>3</span> => \"<span class=sf-dump-str title=\"8 characters\">Estetika</span>\"
+      <span class=sf-dump-index>4</span> => \"<span class=sf-dump-str title=\"20 characters\">Kemudahan Pengolahan</span>\"
+      <span class=sf-dump-index>5</span> => \"<span class=sf-dump-str title=\"22 characters\">Harga dan Ketersediaan</span>\"
+    </samp>]
+    \"<span class=sf-dump-key>criteria_id</span>\" => <span class=sf-dump-note>array:6</span> [<samp data-depth=3 class=sf-dump-compact>
+      <span class=sf-dump-index>0</span> => <span class=sf-dump-num>34</span>
+      <span class=sf-dump-index>1</span> => <span class=sf-dump-num>35</span>
+      <span class=sf-dump-index>2</span> => <span class=sf-dump-num>36</span>
+      <span class=sf-dump-index>3</span> => <span class=sf-dump-num>37</span>
+      <span class=sf-dump-index>4</span> => <span class=sf-dump-num>38</span>
+      <span class=sf-dump-index>5</span> => <span class=sf-dump-num>39</span>
+    </samp>]
+    \"<span class=sf-dump-key>alternative_val</span>\" => <span class=sf-dump-note>array:6</span> [<samp data-depth=3 class=sf-dump-compact>
+      <span class=sf-dump-index>0</span> => \"<span class=sf-dump-str title=\"3 characters\">2.0</span>\"
+      <span class=sf-dump-index>1</span> => \"<span class=sf-dump-str title=\"3 characters\">2.0</span>\"
+      <span class=sf-dump-index>2</span> => \"<span class=sf-dump-str title=\"3 characters\">2.0</span>\"
+      <span class=sf-dump-index>3</span> => \"<span class=sf-dump-str title=\"3 characters\">3.0</span>\"
+      <span class=sf-dump-index>4</span> => \"<span class=sf-dump-str title=\"3 characters\">3.0</span>\"
+      <span class=sf-dump-index>5</span> => \"<span class=sf-dump-str title=\"3 characters\">3.0</span>\"
+    </samp>]
+    \"<span class=sf-dump-key>results</span>\" => <span class=sf-dump-note>array:6</span> [<samp data-depth=3 class=sf-dump-compact>
+      <span class=sf-dump-index>0</span> => <span class=sf-dump-num>0.5</span>
+      <span class=sf-dump-index>1</span> => <span class=sf-dump-num>0.5</span>
+      <span class=sf-dump-index>2</span> => <span class=sf-dump-num>1.0</span>
+      <span class=sf-dump-index>3</span> => <span class=sf-dump-num>0.75</span>
+      <span class=sf-dump-index>4</span> => <span class=sf-dump-num>0.75</span>
+      <span class=sf-dump-index>5</span> => <span class=sf-dump-num>0.666667</span>
+    </samp>]
+    \"<span class=sf-dump-key>rank_result</span>\" => <span class=sf-dump-num>0.62852372806461</span>
+  </samp>]
+  <span class=sf-dump-index>5</span> => <span class=sf-dump-note>array:8</span> [<samp data-depth=2 class=sf-dump-compact>
+    \"<span class=sf-dump-key>wood_id</span>\" => <span class=sf-dump-num>129</span>
+    \"<span class=sf-dump-key>wood_name</span>\" => \"<span class=sf-dump-str title=\"10 characters\">KAYU GLUGU</span>\"
+    \"<span class=sf-dump-key>category_name</span>\" => \"<span class=sf-dump-str title=\"8 characters\">MENENGAH</span>\"
+    \"<span class=sf-dump-key>criteria_name</span>\" => <span class=sf-dump-note>array:6</span> [<samp data-depth=3 class=sf-dump-compact>
+      <span class=sf-dump-index>0</span> => \"<span class=sf-dump-str title=\"8 characters\">Kekuatan</span>\"
+      <span class=sf-dump-index>1</span> => \"<span class=sf-dump-str title=\"8 characters\">Keawetan</span>\"
+      <span class=sf-dump-index>2</span> => \"<span class=sf-dump-str title=\"20 characters\">Kandungan Kelembaban</span>\"
+      <span class=sf-dump-index>3</span> => \"<span class=sf-dump-str title=\"8 characters\">Estetika</span>\"
+      <span class=sf-dump-index>4</span> => \"<span class=sf-dump-str title=\"20 characters\">Kemudahan Pengolahan</span>\"
+      <span class=sf-dump-index>5</span> => \"<span class=sf-dump-str title=\"22 characters\">Harga dan Ketersediaan</span>\"
+    </samp>]
+    \"<span class=sf-dump-key>criteria_id</span>\" => <span class=sf-dump-note>array:6</span> [<samp data-depth=3 class=sf-dump-compact>
+      <span class=sf-dump-index>0</span> => <span class=sf-dump-num>34</span>
+      <span class=sf-dump-index>1</span> => <span class=sf-dump-num>35</span>
+      <span class=sf-dump-index>2</span> => <span class=sf-dump-num>36</span>
+      <span class=sf-dump-index>3</span> => <span class=sf-dump-num>37</span>
+      <span class=sf-dump-index>4</span> => <span class=sf-dump-num>38</span>
+      <span class=sf-dump-index>5</span> => <span class=sf-dump-num>39</span>
+    </samp>]
+    \"<span class=sf-dump-key>alternative_val</span>\" => <span class=sf-dump-note>array:6</span> [<samp data-depth=3 class=sf-dump-compact>
+      <span class=sf-dump-index>0</span> => \"<span class=sf-dump-str title=\"3 characters\">2.0</span>\"
+      <span class=sf-dump-index>1</span> => \"<span class=sf-dump-str title=\"3 characters\">2.0</span>\"
+      <span class=sf-dump-index>2</span> => \"<span class=sf-dump-str title=\"3 characters\">2.0</span>\"
+      <span class=sf-dump-index>3</span> => \"<span class=sf-dump-str title=\"3 characters\">2.0</span>\"
+      <span class=sf-dump-index>4</span> => \"<span class=sf-dump-str title=\"3 characters\">3.0</span>\"
+      <span class=sf-dump-index>5</span> => \"<span class=sf-dump-str title=\"3 characters\">4.0</span>\"
+    </samp>]
+    \"<span class=sf-dump-key>results</span>\" => <span class=sf-dump-note>array:6</span> [<samp data-depth=3 class=sf-dump-compact>
+      <span class=sf-dump-index>0</span> => <span class=sf-dump-num>0.5</span>
+      <span class=sf-dump-index>1</span> => <span class=sf-dump-num>0.5</span>
+      <span class=sf-dump-index>2</span> => <span class=sf-dump-num>1.0</span>
+      <span class=sf-dump-index>3</span> => <span class=sf-dump-num>0.5</span>
+      <span class=sf-dump-index>4</span> => <span class=sf-dump-num>0.75</span>
+      <span class=sf-dump-index>5</span> => <span class=sf-dump-num>0.5</span>
+    </samp>]
+    \"<span class=sf-dump-key>rank_result</span>\" => <span class=sf-dump-num>0.590939248</span>
+  </samp>]
+  <span class=sf-dump-index>6</span> => <span class=sf-dump-note>array:8</span> [<samp data-depth=2 class=sf-dump-compact>
+    \"<span class=sf-dump-key>wood_id</span>\" => <span class=sf-dump-num>128</span>
+    \"<span class=sf-dump-key>wood_name</span>\" => \"<span class=sf-dump-str title=\"11 characters\">KAYU SENGON</span>\"
+    \"<span class=sf-dump-key>category_name</span>\" => \"<span class=sf-dump-str title=\"8 characters\">EKONOMIS</span>\"
+    \"<span class=sf-dump-key>criteria_name</span>\" => <span class=sf-dump-note>array:6</span> [<samp data-depth=3 class=sf-dump-compact>
+      <span class=sf-dump-index>0</span> => \"<span class=sf-dump-str title=\"8 characters\">Kekuatan</span>\"
+      <span class=sf-dump-index>1</span> => \"<span class=sf-dump-str title=\"8 characters\">Keawetan</span>\"
+      <span class=sf-dump-index>2</span> => \"<span class=sf-dump-str title=\"20 characters\">Kandungan Kelembaban</span>\"
+      <span class=sf-dump-index>3</span> => \"<span class=sf-dump-str title=\"8 characters\">Estetika</span>\"
+      <span class=sf-dump-index>4</span> => \"<span class=sf-dump-str title=\"20 characters\">Kemudahan Pengolahan</span>\"
+      <span class=sf-dump-index>5</span> => \"<span class=sf-dump-str title=\"22 characters\">Harga dan Ketersediaan</span>\"
+    </samp>]
+    \"<span class=sf-dump-key>criteria_id</span>\" => <span class=sf-dump-note>array:6</span> [<samp data-depth=3 class=sf-dump-compact>
+      <span class=sf-dump-index>0</span> => <span class=sf-dump-num>34</span>
+      <span class=sf-dump-index>1</span> => <span class=sf-dump-num>35</span>
+      <span class=sf-dump-index>2</span> => <span class=sf-dump-num>36</span>
+      <span class=sf-dump-index>3</span> => <span class=sf-dump-num>37</span>
+      <span class=sf-dump-index>4</span> => <span class=sf-dump-num>38</span>
+      <span class=sf-dump-index>5</span> => <span class=sf-dump-num>39</span>
+    </samp>]
+    \"<span class=sf-dump-key>alternative_val</span>\" => <span class=sf-dump-note>array:6</span> [<samp data-depth=3 class=sf-dump-compact>
+      <span class=sf-dump-index>0</span> => \"<span class=sf-dump-str title=\"3 characters\">1.0</span>\"
+      <span class=sf-dump-index>1</span> => \"<span class=sf-dump-str title=\"3 characters\">1.0</span>\"
+      <span class=sf-dump-index>2</span> => \"<span class=sf-dump-str title=\"3 characters\">2.0</span>\"
+      <span class=sf-dump-index>3</span> => \"<span class=sf-dump-str title=\"3 characters\">2.0</span>\"
+      <span class=sf-dump-index>4</span> => \"<span class=sf-dump-str title=\"3 characters\">4.0</span>\"
+      <span class=sf-dump-index>5</span> => \"<span class=sf-dump-str title=\"3 characters\">4.0</span>\"
+    </samp>]
+    \"<span class=sf-dump-key>results</span>\" => <span class=sf-dump-note>array:6</span> [<samp data-depth=3 class=sf-dump-compact>
+      <span class=sf-dump-index>0</span> => <span class=sf-dump-num>0.25</span>
+      <span class=sf-dump-index>1</span> => <span class=sf-dump-num>0.25</span>
+      <span class=sf-dump-index>2</span> => <span class=sf-dump-num>1.0</span>
+      <span class=sf-dump-index>3</span> => <span class=sf-dump-num>0.5</span>
+      <span class=sf-dump-index>4</span> => <span class=sf-dump-num>1.0</span>
+      <span class=sf-dump-index>5</span> => <span class=sf-dump-num>0.5</span>
+    </samp>]
+    \"<span class=sf-dump-key>rank_result</span>\" => <span class=sf-dump-num>0.4528344705</span>
+  </samp>]
+  <span class=sf-dump-index>7</span> => <span class=sf-dump-note>array:8</span> [<samp data-depth=2 class=sf-dump-compact>
+    \"<span class=sf-dump-key>wood_id</span>\" => <span class=sf-dump-num>127</span>
+    \"<span class=sf-dump-key>wood_name</span>\" => \"<span class=sf-dump-str title=\"10 characters\">KAYU RANDU</span>\"
+    \"<span class=sf-dump-key>category_name</span>\" => \"<span class=sf-dump-str title=\"8 characters\">EKONOMIS</span>\"
+    \"<span class=sf-dump-key>criteria_name</span>\" => <span class=sf-dump-note>array:6</span> [<samp data-depth=3 class=sf-dump-compact>
+      <span class=sf-dump-index>0</span> => \"<span class=sf-dump-str title=\"8 characters\">Kekuatan</span>\"
+      <span class=sf-dump-index>1</span> => \"<span class=sf-dump-str title=\"8 characters\">Keawetan</span>\"
+      <span class=sf-dump-index>2</span> => \"<span class=sf-dump-str title=\"20 characters\">Kandungan Kelembaban</span>\"
+      <span class=sf-dump-index>3</span> => \"<span class=sf-dump-str title=\"8 characters\">Estetika</span>\"
+      <span class=sf-dump-index>4</span> => \"<span class=sf-dump-str title=\"20 characters\">Kemudahan Pengolahan</span>\"
+      <span class=sf-dump-index>5</span> => \"<span class=sf-dump-str title=\"22 characters\">Harga dan Ketersediaan</span>\"
+    </samp>]
+    \"<span class=sf-dump-key>criteria_id</span>\" => <span class=sf-dump-note>array:6</span> [<samp data-depth=3 class=sf-dump-compact>
+      <span class=sf-dump-index>0</span> => <span class=sf-dump-num>34</span>
+      <span class=sf-dump-index>1</span> => <span class=sf-dump-num>35</span>
+      <span class=sf-dump-index>2</span> => <span class=sf-dump-num>36</span>
+      <span class=sf-dump-index>3</span> => <span class=sf-dump-num>37</span>
+      <span class=sf-dump-index>4</span> => <span class=sf-dump-num>38</span>
+      <span class=sf-dump-index>5</span> => <span class=sf-dump-num>39</span>
+    </samp>]
+    \"<span class=sf-dump-key>alternative_val</span>\" => <span class=sf-dump-note>array:6</span> [<samp data-depth=3 class=sf-dump-compact>
+      <span class=sf-dump-index>0</span> => \"<span class=sf-dump-str title=\"3 characters\">1.0</span>\"
+      <span class=sf-dump-index>1</span> => \"<span class=sf-dump-str title=\"3 characters\">1.0</span>\"
+      <span class=sf-dump-index>2</span> => \"<span class=sf-dump-str title=\"3 characters\">2.0</span>\"
+      <span class=sf-dump-index>3</span> => \"<span class=sf-dump-str title=\"3 characters\">1.0</span>\"
+      <span class=sf-dump-index>4</span> => \"<span class=sf-dump-str title=\"3 characters\">3.0</span>\"
+      <span class=sf-dump-index>5</span> => \"<span class=sf-dump-str title=\"3 characters\">4.0</span>\"
+    </samp>]
+    \"<span class=sf-dump-key>results</span>\" => <span class=sf-dump-note>array:6</span> [<samp data-depth=3 class=sf-dump-compact>
+      <span class=sf-dump-index>0</span> => <span class=sf-dump-num>0.25</span>
+      <span class=sf-dump-index>1</span> => <span class=sf-dump-num>0.25</span>
+      <span class=sf-dump-index>2</span> => <span class=sf-dump-num>1.0</span>
+      <span class=sf-dump-index>3</span> => <span class=sf-dump-num>0.25</span>
+      <span class=sf-dump-index>4</span> => <span class=sf-dump-num>0.75</span>
+      <span class=sf-dump-index>5</span> => <span class=sf-dump-num>0.5</span>
+    </samp>]
+    \"<span class=sf-dump-key>rank_result</span>\" => <span class=sf-dump-num>0.4087323265</span>
+  </samp>]
+</samp>]
+</pre><script>Sfdump(\"sf-dump-394691146\", {\"maxDepth\":3,\"maxStringLength\":160})</script>
+","rank":"<pre class=sf-dump id=sf-dump-109286764 data-indent-pad=\"  \"><span class=sf-dump-note>array:8</span> [<samp data-depth=1 class=sf-dump-expanded>
+  \"<span class=sf-dump-key>wood_id</span>\" => <span class=sf-dump-num>127</span>
+  \"<span class=sf-dump-key>wood_name</span>\" => \"<span class=sf-dump-str title=\"10 characters\">KAYU RANDU</span>\"
+  \"<span class=sf-dump-key>category_name</span>\" => \"<span class=sf-dump-str title=\"8 characters\">EKONOMIS</span>\"
+  \"<span class=sf-dump-key>criteria_name</span>\" => <span class=sf-dump-note>array:6</span> [<samp data-depth=2 class=sf-dump-compact>
+    <span class=sf-dump-index>0</span> => \"<span class=sf-dump-str title=\"8 characters\">Kekuatan</span>\"
+    <span class=sf-dump-index>1</span> => \"<span class=sf-dump-str title=\"8 characters\">Keawetan</span>\"
+    <span class=sf-dump-index>2</span> => \"<span class=sf-dump-str title=\"20 characters\">Kandungan Kelembaban</span>\"
+    <span class=sf-dump-index>3</span> => \"<span class=sf-dump-str title=\"8 characters\">Estetika</span>\"
+    <span class=sf-dump-index>4</span> => \"<span class=sf-dump-str title=\"20 characters\">Kemudahan Pengolahan</span>\"
+    <span class=sf-dump-index>5</span> => \"<span class=sf-dump-str title=\"22 characters\">Harga dan Ketersediaan</span>\"
+  </samp>]
+  \"<span class=sf-dump-key>criteria_id</span>\" => <span class=sf-dump-note>array:6</span> [<samp data-depth=2 class=sf-dump-compact>
+    <span class=sf-dump-index>0</span> => <span class=sf-dump-num>34</span>
+    <span class=sf-dump-index>1</span> => <span class=sf-dump-num>35</span>
+    <span class=sf-dump-index>2</span> => <span class=sf-dump-num>36</span>
+    <span class=sf-dump-index>3</span> => <span class=sf-dump-num>37</span>
+    <span class=sf-dump-index>4</span> => <span class=sf-dump-num>38</span>
+    <span class=sf-dump-index>5</span> => <span class=sf-dump-num>39</span>
+  </samp>]
+  \"<span class=sf-dump-key>alternative_val</span>\" => <span class=sf-dump-note>array:6</span> [<samp data-depth=2 class=sf-dump-compact>
+    <span class=sf-dump-index>0</span> => \"<span class=sf-dump-str title=\"3 characters\">1.0</span>\"
+    <span class=sf-dump-index>1</span> => \"<span class=sf-dump-str title=\"3 characters\">1.0</span>\"
+    <span class=sf-dump-index>2</span> => \"<span class=sf-dump-str title=\"3 characters\">2.0</span>\"
+    <span class=sf-dump-index>3</span> => \"<span class=sf-dump-str title=\"3 characters\">1.0</span>\"
+    <span class=sf-dump-index>4</span> => \"<span class=sf-dump-str title=\"3 characters\">3.0</span>\"
+    <span class=sf-dump-index>5</span> => \"<span class=sf-dump-str title=\"3 characters\">4.0</span>\"
+  </samp>]
+  \"<span class=sf-dump-key>results</span>\" => <span class=sf-dump-note>array:6</span> [<samp data-depth=2 class=sf-dump-compact>
+    <span class=sf-dump-index>0</span> => <span class=sf-dump-num>0.25</span>
+    <span class=sf-dump-index>1</span> => <span class=sf-dump-num>0.25</span>
+    <span class=sf-dump-index>2</span> => <span class=sf-dump-num>1.0</span>
+    <span class=sf-dump-index>3</span> => <span class=sf-dump-num>0.25</span>
+    <span class=sf-dump-index>4</span> => <span class=sf-dump-num>0.75</span>
+    <span class=sf-dump-index>5</span> => <span class=sf-dump-num>0.5</span>
+  </samp>]
+  \"<span class=sf-dump-key>rank_result</span>\" => <span class=sf-dump-num>0.4087323265</span>
+</samp>]
+</pre><script>Sfdump(\"sf-dump-109286764\", {\"maxDepth\":3,\"maxStringLength\":160})</script>
+","loop":"<pre class=sf-dump id=sf-dump-1588880800 data-indent-pad=\"  \"><span class=sf-dump-const>null</span>
+</pre><script>Sfdump(\"sf-dump-1588880800\", {\"maxDepth\":3,\"maxStringLength\":160})</script>
+"}},"userId":1,"exception":"[object] (Spatie\\LaravelIgnition\\Exceptions\\ViewException(code: 0): Route [kriteria.index] not defined. at D:\\PROJECT AKHHIR\\SPK\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\UrlGenerator.php:467)
+[stacktrace]
+#0 D:\\PROJECT AKHHIR\\SPK\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\helpers.php(826): Illuminate\\Routing\\UrlGenerator->route('kriteria.index', Array, true)
+#1 D:\\PROJECT AKHHIR\\SPK\\resources\\views\\includes\\admin\\sidenav.blade.php(15): route('kriteria.index')
+#2 D:\\PROJECT AKHHIR\\SPK\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(109): require('D:\\\\PROJECT AKHH...')
+#3 D:\\PROJECT AKHHIR\\SPK\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(110): Illuminate\\Filesystem\\Filesystem::Illuminate\\Filesystem\\{closure}()
+#4 D:\\PROJECT AKHHIR\\SPK\\vendor\\laravel\\framework\\src\\Illuminate\\View\\Engines\\PhpEngine.php(58): Illuminate\\Filesystem\\Filesystem->getRequire('D:\\\\PROJECT AKHH...', Array)
+#5 D:\\PROJECT AKHHIR\\SPK\\vendor\\laravel\\framework\\src\\Illuminate\\View\\Engines\\CompilerEngine.php(70): Illuminate\\View\\Engines\\PhpEngine->evaluatePath('D:\\\\PROJECT AKHH...', Array)
+#6 D:\\PROJECT AKHHIR\\SPK\\vendor\\laravel\\framework\\src\\Illuminate\\View\\View.php(195): Illuminate\\View\\Engines\\CompilerEngine->get('D:\\\\PROJECT AKHH...', Array)
+#7 D:\\PROJECT AKHHIR\\SPK\\vendor\\laravel\\framework\\src\\Illuminate\\View\\View.php(178): Illuminate\\View\\View->getContents()
+#8 D:\\PROJECT AKHHIR\\SPK\\vendor\\laravel\\framework\\src\\Illuminate\\View\\View.php(147): Illuminate\\View\\View->renderContents()
+#9 D:\\PROJECT AKHHIR\\SPK\\resources\\views\\layouts\\admin.blade.php(28): Illuminate\\View\\View->render()
+#10 D:\\PROJECT AKHHIR\\SPK\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(109): require('D:\\\\PROJECT AKHH...')
+#11 D:\\PROJECT AKHHIR\\SPK\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(110): Illuminate\\Filesystem\\Filesystem::Illuminate\\Filesystem\\{closure}()
+#12 D:\\PROJECT AKHHIR\\SPK\\vendor\\laravel\\framework\\src\\Illuminate\\View\\Engines\\PhpEngine.php(58): Illuminate\\Filesystem\\Filesystem->getRequire('D:\\\\PROJECT AKHH...', Array)
+#13 D:\\PROJECT AKHHIR\\SPK\\vendor\\laravel\\framework\\src\\Illuminate\\View\\Engines\\CompilerEngine.php(70): Illuminate\\View\\Engines\\PhpEngine->evaluatePath('D:\\\\PROJECT AKHH...', Array)
+#14 D:\\PROJECT AKHHIR\\SPK\\vendor\\laravel\\framework\\src\\Illuminate\\View\\View.php(195): Illuminate\\View\\Engines\\CompilerEngine->get('D:\\\\PROJECT AKHH...', Array)
+#15 D:\\PROJECT AKHHIR\\SPK\\vendor\\laravel\\framework\\src\\Illuminate\\View\\View.php(178): Illuminate\\View\\View->getContents()
+#16 D:\\PROJECT AKHHIR\\SPK\\vendor\\laravel\\framework\\src\\Illuminate\\View\\View.php(147): Illuminate\\View\\View->renderContents()
+#17 D:\\PROJECT AKHHIR\\SPK\\resources\\views\\pages\\admin\\rank\\final.blade.php(61): Illuminate\\View\\View->render()
+#18 D:\\PROJECT AKHHIR\\SPK\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(109): require('D:\\\\PROJECT AKHH...')
+#19 D:\\PROJECT AKHHIR\\SPK\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(110): Illuminate\\Filesystem\\Filesystem::Illuminate\\Filesystem\\{closure}()
+#20 D:\\PROJECT AKHHIR\\SPK\\vendor\\laravel\\framework\\src\\Illuminate\\View\\Engines\\PhpEngine.php(58): Illuminate\\Filesystem\\Filesystem->getRequire('D:\\\\PROJECT AKHH...', Array)
+#21 D:\\PROJECT AKHHIR\\SPK\\vendor\\laravel\\framework\\src\\Illuminate\\View\\Engines\\CompilerEngine.php(70): Illuminate\\View\\Engines\\PhpEngine->evaluatePath('D:\\\\PROJECT AKHH...', Array)
+#22 D:\\PROJECT AKHHIR\\SPK\\vendor\\laravel\\framework\\src\\Illuminate\\View\\View.php(195): Illuminate\\View\\Engines\\CompilerEngine->get('D:\\\\PROJECT AKHH...', Array)
+#23 D:\\PROJECT AKHHIR\\SPK\\vendor\\laravel\\framework\\src\\Illuminate\\View\\View.php(178): Illuminate\\View\\View->getContents()
+#24 D:\\PROJECT AKHHIR\\SPK\\vendor\\laravel\\framework\\src\\Illuminate\\View\\View.php(147): Illuminate\\View\\View->renderContents()
+#25 D:\\PROJECT AKHHIR\\SPK\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Response.php(69): Illuminate\\View\\View->render()
+#26 D:\\PROJECT AKHHIR\\SPK\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Response.php(35): Illuminate\\Http\\Response->setContent(Object(Illuminate\\View\\View))
+#27 D:\\PROJECT AKHHIR\\SPK\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(906): Illuminate\\Http\\Response->__construct(Object(Illuminate\\View\\View), 200, Array)
+#28 D:\\PROJECT AKHHIR\\SPK\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(875): Illuminate\\Routing\\Router::toResponse(Object(Illuminate\\Http\\Request), Object(Illuminate\\View\\View))
+#29 D:\\PROJECT AKHHIR\\SPK\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(797): Illuminate\\Routing\\Router->prepareResponse(Object(Illuminate\\Http\\Request), Object(Illuminate\\View\\View))
+#30 D:\\PROJECT AKHHIR\\SPK\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(141): Illuminate\\Routing\\Router->Illuminate\\Routing\\{closure}(Object(Illuminate\\Http\\Request))
+#31 D:\\PROJECT AKHHIR\\SPK\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Middleware\\SubstituteBindings.php(50): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#32 D:\\PROJECT AKHHIR\\SPK\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Routing\\Middleware\\SubstituteBindings->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#33 D:\\PROJECT AKHHIR\\SPK\\vendor\\laravel\\framework\\src\\Illuminate\\Auth\\Middleware\\Authenticate.php(44): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#34 D:\\PROJECT AKHHIR\\SPK\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Auth\\Middleware\\Authenticate->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#35 D:\\PROJECT AKHHIR\\SPK\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\VerifyCsrfToken.php(78): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#36 D:\\PROJECT AKHHIR\\SPK\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\VerifyCsrfToken->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#37 D:\\PROJECT AKHHIR\\SPK\\vendor\\laravel\\framework\\src\\Illuminate\\View\\Middleware\\ShareErrorsFromSession.php(49): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#38 D:\\PROJECT AKHHIR\\SPK\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\View\\Middleware\\ShareErrorsFromSession->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#39 D:\\PROJECT AKHHIR\\SPK\\vendor\\laravel\\framework\\src\\Illuminate\\Session\\Middleware\\StartSession.php(121): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#40 D:\\PROJECT AKHHIR\\SPK\\vendor\\laravel\\framework\\src\\Illuminate\\Session\\Middleware\\StartSession.php(64): Illuminate\\Session\\Middleware\\StartSession->handleStatefulRequest(Object(Illuminate\\Http\\Request), Object(Illuminate\\Session\\Store), Object(Closure))
+#41 D:\\PROJECT AKHHIR\\SPK\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Session\\Middleware\\StartSession->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#42 D:\\PROJECT AKHHIR\\SPK\\vendor\\laravel\\framework\\src\\Illuminate\\Cookie\\Middleware\\AddQueuedCookiesToResponse.php(37): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#43 D:\\PROJECT AKHHIR\\SPK\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Cookie\\Middleware\\AddQueuedCookiesToResponse->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#44 D:\\PROJECT AKHHIR\\SPK\\vendor\\laravel\\framework\\src\\Illuminate\\Cookie\\Middleware\\EncryptCookies.php(67): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#45 D:\\PROJECT AKHHIR\\SPK\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Cookie\\Middleware\\EncryptCookies->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#46 D:\\PROJECT AKHHIR\\SPK\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(116): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#47 D:\\PROJECT AKHHIR\\SPK\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(797): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#48 D:\\PROJECT AKHHIR\\SPK\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(776): Illuminate\\Routing\\Router->runRouteWithinStack(Object(Illuminate\\Routing\\Route), Object(Illuminate\\Http\\Request))
+#49 D:\\PROJECT AKHHIR\\SPK\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(740): Illuminate\\Routing\\Router->runRoute(Object(Illuminate\\Http\\Request), Object(Illuminate\\Routing\\Route))
+#50 D:\\PROJECT AKHHIR\\SPK\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(729): Illuminate\\Routing\\Router->dispatchToRoute(Object(Illuminate\\Http\\Request))
+#51 D:\\PROJECT AKHHIR\\SPK\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(190): Illuminate\\Routing\\Router->dispatch(Object(Illuminate\\Http\\Request))
+#52 D:\\PROJECT AKHHIR\\SPK\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(141): Illuminate\\Foundation\\Http\\Kernel->Illuminate\\Foundation\\Http\\{closure}(Object(Illuminate\\Http\\Request))
+#53 D:\\PROJECT AKHHIR\\SPK\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#54 D:\\PROJECT AKHHIR\\SPK\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull.php(31): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#55 D:\\PROJECT AKHHIR\\SPK\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#56 D:\\PROJECT AKHHIR\\SPK\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#57 D:\\PROJECT AKHHIR\\SPK\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TrimStrings.php(40): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#58 D:\\PROJECT AKHHIR\\SPK\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\TrimStrings->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#59 D:\\PROJECT AKHHIR\\SPK\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize.php(27): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#60 D:\\PROJECT AKHHIR\\SPK\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#61 D:\\PROJECT AKHHIR\\SPK\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance.php(86): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#62 D:\\PROJECT AKHHIR\\SPK\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#63 D:\\PROJECT AKHHIR\\SPK\\vendor\\fruitcake\\laravel-cors\\src\\HandleCors.php(38): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#64 D:\\PROJECT AKHHIR\\SPK\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Fruitcake\\Cors\\HandleCors->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#65 D:\\PROJECT AKHHIR\\SPK\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\TrustProxies.php(39): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#66 D:\\PROJECT AKHHIR\\SPK\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Http\\Middleware\\TrustProxies->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#67 D:\\PROJECT AKHHIR\\SPK\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(116): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#68 D:\\PROJECT AKHHIR\\SPK\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(165): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#69 D:\\PROJECT AKHHIR\\SPK\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(134): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#70 D:\\PROJECT AKHHIR\\SPK\\public\\index.php(51): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#71 D:\\PROJECT AKHHIR\\SPK\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\resources\\server.php(16): require_once('D:\\\\PROJECT AKHH...')
+#72 {main}
+
+[previous exception] [object] (Symfony\\Component\\Routing\\Exception\\RouteNotFoundException(code: 0): Route [kriteria.index] not defined. at D:\\PROJECT AKHHIR\\SPK\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\UrlGenerator.php:467)
+[stacktrace]
+#0 D:\\PROJECT AKHHIR\\SPK\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\helpers.php(826): Illuminate\\Routing\\UrlGenerator->route('kriteria.index', Array, true)
+#1 D:\\PROJECT AKHHIR\\SPK\\storage\\framework\\views\\777923ffafe2915e08bccfd00e46b93e0593a7d6.php(15): route('kriteria.index')
+#2 D:\\PROJECT AKHHIR\\SPK\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(109): require('D:\\\\PROJECT AKHH...')
+#3 D:\\PROJECT AKHHIR\\SPK\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(110): Illuminate\\Filesystem\\Filesystem::Illuminate\\Filesystem\\{closure}()
+#4 D:\\PROJECT AKHHIR\\SPK\\vendor\\laravel\\framework\\src\\Illuminate\\View\\Engines\\PhpEngine.php(58): Illuminate\\Filesystem\\Filesystem->getRequire('D:\\\\PROJECT AKHH...', Array)
+#5 D:\\PROJECT AKHHIR\\SPK\\vendor\\laravel\\framework\\src\\Illuminate\\View\\Engines\\CompilerEngine.php(70): Illuminate\\View\\Engines\\PhpEngine->evaluatePath('D:\\\\PROJECT AKHH...', Array)
+#6 D:\\PROJECT AKHHIR\\SPK\\vendor\\laravel\\framework\\src\\Illuminate\\View\\View.php(195): Illuminate\\View\\Engines\\CompilerEngine->get('D:\\\\PROJECT AKHH...', Array)
+#7 D:\\PROJECT AKHHIR\\SPK\\vendor\\laravel\\framework\\src\\Illuminate\\View\\View.php(178): Illuminate\\View\\View->getContents()
+#8 D:\\PROJECT AKHHIR\\SPK\\vendor\\laravel\\framework\\src\\Illuminate\\View\\View.php(147): Illuminate\\View\\View->renderContents()
+#9 D:\\PROJECT AKHHIR\\SPK\\storage\\framework\\views\\a7b2eb26f4a1b61088bfb640b06df3cec9b7212c.php(28): Illuminate\\View\\View->render()
+#10 D:\\PROJECT AKHHIR\\SPK\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(109): require('D:\\\\PROJECT AKHH...')
+#11 D:\\PROJECT AKHHIR\\SPK\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(110): Illuminate\\Filesystem\\Filesystem::Illuminate\\Filesystem\\{closure}()
+#12 D:\\PROJECT AKHHIR\\SPK\\vendor\\laravel\\framework\\src\\Illuminate\\View\\Engines\\PhpEngine.php(58): Illuminate\\Filesystem\\Filesystem->getRequire('D:\\\\PROJECT AKHH...', Array)
+#13 D:\\PROJECT AKHHIR\\SPK\\vendor\\laravel\\framework\\src\\Illuminate\\View\\Engines\\CompilerEngine.php(70): Illuminate\\View\\Engines\\PhpEngine->evaluatePath('D:\\\\PROJECT AKHH...', Array)
+#14 D:\\PROJECT AKHHIR\\SPK\\vendor\\laravel\\framework\\src\\Illuminate\\View\\View.php(195): Illuminate\\View\\Engines\\CompilerEngine->get('D:\\\\PROJECT AKHH...', Array)
+#15 D:\\PROJECT AKHHIR\\SPK\\vendor\\laravel\\framework\\src\\Illuminate\\View\\View.php(178): Illuminate\\View\\View->getContents()
+#16 D:\\PROJECT AKHHIR\\SPK\\vendor\\laravel\\framework\\src\\Illuminate\\View\\View.php(147): Illuminate\\View\\View->renderContents()
+#17 D:\\PROJECT AKHHIR\\SPK\\storage\\framework\\views\\c4226188c46704247cc956c55f48908c821a3c84.php(67): Illuminate\\View\\View->render()
+#18 D:\\PROJECT AKHHIR\\SPK\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(109): require('D:\\\\PROJECT AKHH...')
+#19 D:\\PROJECT AKHHIR\\SPK\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(110): Illuminate\\Filesystem\\Filesystem::Illuminate\\Filesystem\\{closure}()
+#20 D:\\PROJECT AKHHIR\\SPK\\vendor\\laravel\\framework\\src\\Illuminate\\View\\Engines\\PhpEngine.php(58): Illuminate\\Filesystem\\Filesystem->getRequire('D:\\\\PROJECT AKHH...', Array)
+#21 D:\\PROJECT AKHHIR\\SPK\\vendor\\laravel\\framework\\src\\Illuminate\\View\\Engines\\CompilerEngine.php(70): Illuminate\\View\\Engines\\PhpEngine->evaluatePath('D:\\\\PROJECT AKHH...', Array)
+#22 D:\\PROJECT AKHHIR\\SPK\\vendor\\laravel\\framework\\src\\Illuminate\\View\\View.php(195): Illuminate\\View\\Engines\\CompilerEngine->get('D:\\\\PROJECT AKHH...', Array)
+#23 D:\\PROJECT AKHHIR\\SPK\\vendor\\laravel\\framework\\src\\Illuminate\\View\\View.php(178): Illuminate\\View\\View->getContents()
+#24 D:\\PROJECT AKHHIR\\SPK\\vendor\\laravel\\framework\\src\\Illuminate\\View\\View.php(147): Illuminate\\View\\View->renderContents()
+#25 D:\\PROJECT AKHHIR\\SPK\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Response.php(69): Illuminate\\View\\View->render()
+#26 D:\\PROJECT AKHHIR\\SPK\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Response.php(35): Illuminate\\Http\\Response->setContent(Object(Illuminate\\View\\View))
+#27 D:\\PROJECT AKHHIR\\SPK\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(906): Illuminate\\Http\\Response->__construct(Object(Illuminate\\View\\View), 200, Array)
+#28 D:\\PROJECT AKHHIR\\SPK\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(875): Illuminate\\Routing\\Router::toResponse(Object(Illuminate\\Http\\Request), Object(Illuminate\\View\\View))
+#29 D:\\PROJECT AKHHIR\\SPK\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(797): Illuminate\\Routing\\Router->prepareResponse(Object(Illuminate\\Http\\Request), Object(Illuminate\\View\\View))
+#30 D:\\PROJECT AKHHIR\\SPK\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(141): Illuminate\\Routing\\Router->Illuminate\\Routing\\{closure}(Object(Illuminate\\Http\\Request))
+#31 D:\\PROJECT AKHHIR\\SPK\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Middleware\\SubstituteBindings.php(50): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#32 D:\\PROJECT AKHHIR\\SPK\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Routing\\Middleware\\SubstituteBindings->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#33 D:\\PROJECT AKHHIR\\SPK\\vendor\\laravel\\framework\\src\\Illuminate\\Auth\\Middleware\\Authenticate.php(44): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#34 D:\\PROJECT AKHHIR\\SPK\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Auth\\Middleware\\Authenticate->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#35 D:\\PROJECT AKHHIR\\SPK\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\VerifyCsrfToken.php(78): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#36 D:\\PROJECT AKHHIR\\SPK\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\VerifyCsrfToken->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#37 D:\\PROJECT AKHHIR\\SPK\\vendor\\laravel\\framework\\src\\Illuminate\\View\\Middleware\\ShareErrorsFromSession.php(49): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#38 D:\\PROJECT AKHHIR\\SPK\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\View\\Middleware\\ShareErrorsFromSession->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#39 D:\\PROJECT AKHHIR\\SPK\\vendor\\laravel\\framework\\src\\Illuminate\\Session\\Middleware\\StartSession.php(121): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#40 D:\\PROJECT AKHHIR\\SPK\\vendor\\laravel\\framework\\src\\Illuminate\\Session\\Middleware\\StartSession.php(64): Illuminate\\Session\\Middleware\\StartSession->handleStatefulRequest(Object(Illuminate\\Http\\Request), Object(Illuminate\\Session\\Store), Object(Closure))
+#41 D:\\PROJECT AKHHIR\\SPK\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Session\\Middleware\\StartSession->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#42 D:\\PROJECT AKHHIR\\SPK\\vendor\\laravel\\framework\\src\\Illuminate\\Cookie\\Middleware\\AddQueuedCookiesToResponse.php(37): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#43 D:\\PROJECT AKHHIR\\SPK\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Cookie\\Middleware\\AddQueuedCookiesToResponse->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#44 D:\\PROJECT AKHHIR\\SPK\\vendor\\laravel\\framework\\src\\Illuminate\\Cookie\\Middleware\\EncryptCookies.php(67): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#45 D:\\PROJECT AKHHIR\\SPK\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Cookie\\Middleware\\EncryptCookies->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#46 D:\\PROJECT AKHHIR\\SPK\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(116): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#47 D:\\PROJECT AKHHIR\\SPK\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(797): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#48 D:\\PROJECT AKHHIR\\SPK\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(776): Illuminate\\Routing\\Router->runRouteWithinStack(Object(Illuminate\\Routing\\Route), Object(Illuminate\\Http\\Request))
+#49 D:\\PROJECT AKHHIR\\SPK\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(740): Illuminate\\Routing\\Router->runRoute(Object(Illuminate\\Http\\Request), Object(Illuminate\\Routing\\Route))
+#50 D:\\PROJECT AKHHIR\\SPK\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(729): Illuminate\\Routing\\Router->dispatchToRoute(Object(Illuminate\\Http\\Request))
+#51 D:\\PROJECT AKHHIR\\SPK\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(190): Illuminate\\Routing\\Router->dispatch(Object(Illuminate\\Http\\Request))
+#52 D:\\PROJECT AKHHIR\\SPK\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(141): Illuminate\\Foundation\\Http\\Kernel->Illuminate\\Foundation\\Http\\{closure}(Object(Illuminate\\Http\\Request))
+#53 D:\\PROJECT AKHHIR\\SPK\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#54 D:\\PROJECT AKHHIR\\SPK\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull.php(31): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#55 D:\\PROJECT AKHHIR\\SPK\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#56 D:\\PROJECT AKHHIR\\SPK\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#57 D:\\PROJECT AKHHIR\\SPK\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TrimStrings.php(40): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#58 D:\\PROJECT AKHHIR\\SPK\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\TrimStrings->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#59 D:\\PROJECT AKHHIR\\SPK\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize.php(27): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#60 D:\\PROJECT AKHHIR\\SPK\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#61 D:\\PROJECT AKHHIR\\SPK\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance.php(86): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#62 D:\\PROJECT AKHHIR\\SPK\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#63 D:\\PROJECT AKHHIR\\SPK\\vendor\\fruitcake\\laravel-cors\\src\\HandleCors.php(38): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#64 D:\\PROJECT AKHHIR\\SPK\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Fruitcake\\Cors\\HandleCors->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#65 D:\\PROJECT AKHHIR\\SPK\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\TrustProxies.php(39): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#66 D:\\PROJECT AKHHIR\\SPK\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Http\\Middleware\\TrustProxies->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#67 D:\\PROJECT AKHHIR\\SPK\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(116): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#68 D:\\PROJECT AKHHIR\\SPK\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(165): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#69 D:\\PROJECT AKHHIR\\SPK\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(134): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#70 D:\\PROJECT AKHHIR\\SPK\\public\\index.php(51): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#71 D:\\PROJECT AKHHIR\\SPK\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\resources\\server.php(16): require_once('D:\\\\PROJECT AKHH...')
+#72 {main}
+"} 
+[2025-07-20 21:45:35] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-20 21:45:35] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-20 21:45:35] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-20 21:45:35] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-20 21:45:35] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-20 21:45:35] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-20 21:45:35] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-20 21:45:35] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-20 21:45:35] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-20 21:45:35] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-20 21:45:35] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-20 21:45:35] local.DEBUG: Model Criteria pakai tabel: criterias  

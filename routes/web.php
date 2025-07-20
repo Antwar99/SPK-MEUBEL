@@ -36,7 +36,7 @@ Route::prefix('dashboard')->middleware('auth')->group(function () {
     Route::delete('/dashboard/wood/destroy-all', [WoodController::class, 'destroyAll'])->name('wood.destroyAll');
     Route::post('kriteria/import', [CriteriaController::class, 'import'])->name('kriteria.import');
     Route::get('kriteria/export', [CriteriaController::class, 'export'])->name('kriteria.export');
-    Route::put('dashboard/kriteria/{kriterium}', [CriteriaController::class, 'update'])->name('kriteria.update');
+
 
 
 
@@ -111,10 +111,9 @@ Route::post('/dashboard/kayu/import', [WoodController::class, 'import'])->name('
     Route::delete('/dashboard/users/destroy-all', [UserController::class, 'destroyAll'])->name('users.destroyAll');
 
     // Import & Export
-   Route::post('/dashboard/users/import', [UserController::class, 'import'])->name('users.import');
-Route::get('/dashboard/users/export', [UserController::class, 'export'])->name('users.export');
+    Route::post('/dashboard/users/import', [UserController::class, 'import'])->name('users.import');
+    Route::get('/dashboard/users/export', [UserController::class, 'export'])->name('users.export');
 
     Route::post('alternatives/import', [AlternativeController::class, 'import'])->name('alternatives.import');
-   
     Route::get('alternatives/export', [AlternativeController::class, 'export'])->name('alternatives.export');
 });
