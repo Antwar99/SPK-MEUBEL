@@ -52,11 +52,8 @@ Route::prefix('dashboard')->middleware('auth')->group(function () {
     // Category & Wood (additional)
     Route::get('wood/category/{category:slug}', [CategoryController::class, 'woods'])->name('category.woods');
 
-    // Alternative
+    // Alternative (no duplicates)
     Route::resource('alternatif', AlternativeController::class)->except(['show']);
-    Route::get('alternatif/{wood_id}/edit', [AlternativeController::class, 'edit'])->name('alternatif.edit');
-    Route::put('alternatif/{wood_id}', [AlternativeController::class, 'update'])->name('alternatif.update');
-    Route::delete('alternatif/{wood_id}', [AlternativeController::class, 'destroy'])->name('alternatif.destroy');
     Route::post('alternatif/import', [AlternativeController::class, 'import'])->name('alternatif.import');
     Route::get('alternatif/export', [AlternativeController::class, 'export'])->name('alternatif.export');
     Route::delete('alternatif/destroy-all', [AlternativeController::class, 'destroyAll'])->name('alternatif.destroyAll');
