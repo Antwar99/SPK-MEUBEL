@@ -16,6 +16,9 @@ WORKDIR /var/www
 # Salin semua file ke container
 COPY . .
 
+# 🔧 Salin file .env.example ke .env agar Laravel bisa booting
+COPY .env.example .env
+
 # Set permission untuk storage dan bootstrap/cache
 RUN chmod -R 775 storage bootstrap/cache
 
