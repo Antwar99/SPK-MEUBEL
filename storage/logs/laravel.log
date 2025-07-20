@@ -716,3 +716,23 @@ Did you mean one of these?
 [2025-07-15 21:52:02] local.DEBUG: Model Criteria pakai tabel: criterias  
 [2025-07-15 21:52:02] local.DEBUG: Model Criteria pakai tabel: criterias  
 [2025-07-15 21:52:02] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-18 19:26:41] local.DEBUG: QUERY: select * from `criterias` where `criterias`.`created_by` = ?  
+[2025-07-18 19:26:41] local.DEBUG: BINDINGS: [1]  
+[2025-07-18 19:26:41] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-18 19:26:41] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-18 19:26:41] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-18 19:26:41] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-18 19:26:41] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-18 19:26:41] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-18 19:26:41] local.DEBUG: QUERY: select * from `priority_values` where `criteria_id` = ? limit 1  
+[2025-07-18 19:26:41] local.DEBUG: BINDINGS: [34]  
+[2025-07-18 19:26:41] local.DEBUG: QUERY: select * from `priority_values` where `criteria_id` = ? limit 1  
+[2025-07-18 19:26:41] local.DEBUG: BINDINGS: [35]  
+[2025-07-18 19:26:41] local.DEBUG: QUERY: select * from `priority_values` where `criteria_id` = ? limit 1  
+[2025-07-18 19:26:41] local.DEBUG: BINDINGS: [36]  
+[2025-07-18 19:26:41] local.DEBUG: QUERY: select * from `priority_values` where `criteria_id` = ? limit 1  
+[2025-07-18 19:26:41] local.DEBUG: BINDINGS: [37]  
+[2025-07-18 19:26:41] local.DEBUG: QUERY: select * from `priority_values` where `criteria_id` = ? limit 1  
+[2025-07-18 19:26:41] local.DEBUG: BINDINGS: [38]  
+[2025-07-18 19:26:41] local.DEBUG: QUERY: select * from `priority_values` where `criteria_id` = ? limit 1  
+[2025-07-18 19:26:41] local.DEBUG: BINDINGS: [39]  
