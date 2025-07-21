@@ -62,7 +62,7 @@ Route::prefix('dashboard')->middleware('auth')->group(function () {
 });
     // Alternative (Alternatif) Routes
     Route::resource('alternatif', AlternativeController::class)->except(['show']);
-    Route::get('alternatif/{wood_id}/edit', [AlternativeController::class, 'edit'])->name('alternatif.edit');
+
     Route::delete('alternatif/{wood_id}', [AlternativeController::class, 'destroy'])->name('alternatif.destroy');
     Route::put('/alternatif/{wood_id}', [AlternativeController::class, 'update'])->name('alternatif.update');
     Route::post('/alternatif/import', [AlternativeController::class, 'import'])->name('import');
