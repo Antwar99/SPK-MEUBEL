@@ -223,14 +223,14 @@
     <!-- End Footer -->
 
     <!-- Bootstrap Script -->
-    <script src="{{ asset('libraries/bootstrap-5.2.3-dist/js/bootstrap.min.js') }}"></script>
-    <script src="{{ asset('libraries/aos/aos.js') }}"></script>
-    <script src="{{ asset('libraries/glightbox/js/glightbox.min.js') }}"></script>
-    <script src="{{ asset('libraries/isotope-layout/isotope.pkgd.min.js') }}"></script>
-    <script src="{{ asset('libraries/swiper/swiper-bundle.min.js') }}"></script>
+    <script src="{{ asset('frontend/libraries/bootstrap-5.2.3-dist/js/bootstrap.min.js') }}"></script>
+    <script src="{{ asset('frontend/libraries/aos/aos.js') }}"></script>
+    <script src="{{ asset('frontend/libraries/glightbox/js/glightbox.min.js') }}"></script>
+    <script src="{{ asset('frontend/libraries/isotope-layout/isotope.pkgd.min.js') }}"></script>
+    <script src="{{ asset('frontend/libraries/swiper/swiper-bundle.min.js') }}"></script>
 
     <!-- js Script -->
-    <script src="{{ asset('scripts/portal.js') }}"></script>
+    <script src="{{ asset('frontend/scripts/portal.js') }}"></script>
 </body>
 
 </html>
