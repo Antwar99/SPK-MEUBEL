@@ -16,6 +16,7 @@ use Illuminate\Support\Facades\Route;
 
 Route::get('/', [PortalController::class, 'index'])->name('portal.index');
 
+// Auth
 Route::get('/login', [LoginController::class, 'index'])->middleware('guest')->name('login.index');
 Route::post('/login', [LoginController::class, 'authenticate']);
 Route::post('/logout', [LoginController::class, 'logout'])->name('logout');
@@ -23,63 +24,57 @@ Route::post('/logout', [LoginController::class, 'logout'])->name('logout');
 Route::prefix('dashboard')->middleware('auth')->group(function () {
     Route::get('/', [DashboardController::class, 'index'])->name('dashboard.index');
 
-    // Resource Routes (Admin only)
+    // Admin-only Resource Routes
     Route::middleware('admin')->group(function () {
         Route::resources([
             'kriteria' => CriteriaController::class,
             'wood' => WoodController::class,
-              'users' => UserController::class,
+            'users' => UserController::class,
         ], ['except' => 'show']);
+
+        // Category
+        Route::prefix('wood')->group(function () {
+            Route::resource('category', CategoryController::class);
+            Route::get('category/{category:slug}/woods', [CategoryController::class, 'woods'])->name('category.woods');
+        });
     });
-    Route::delete('/dashboard/kriteria/destroy-all', [CriteriaController::class, 'destroyAll'])->name('kriteria.destroyAll');
-    Route::delete('/dashboard/wood/destroy-all', [WoodController::class, 'destroyAll'])->name('wood.destroyAll');
+
+    // Criteria
+    Route::delete('kriteria/destroy-all', [CriteriaController::class, 'destroyAll'])->name('kriteria.destroyAll');
     Route::post('kriteria/import', [CriteriaController::class, 'import'])->name('kriteria.import');
     Route::get('kriteria/export', [CriteriaController::class, 'export'])->name('kriteria.export');
 
+    // Sub Criteria
+    Route::get('sub-criteria', [SubCriteriaController::class, 'index'])->name('sub-criteria.index');
+    Route::get('sub-criteria/create', [SubCriteriaController::class, 'create'])->name('sub-criteria.create');
+    Route::post('sub-criteria', [SubCriteriaController::class, 'store'])->name('sub-criteria.store');
+    Route::get('sub-criteria/{id}/edit', [SubCriteriaController::class, 'edit'])->name('sub-criteria.edit');
+    Route::put('sub-criteria/{id}', [SubCriteriaController::class, 'update'])->name('sub-criteria.update');
+    Route::delete('sub-criteria/{id}', [SubCriteriaController::class, 'destroy'])->name('sub-criteria.destroy');
+    Route::delete('sub-criteria/destroy-all', [SubCriteriaController::class, 'destroyAll'])->name('sub-criteria.destroyAll');
+    Route::post('sub-criteria/import', [SubCriteriaController::class, 'import'])->name('sub-criteria.import');
+    Route::get('sub-criteria/export', [SubCriteriaController::class, 'export'])->name('sub-criteria.export');
 
-
-
-
-    Route::get('/dashboard/sub-criteria', [SubCriteriaController::class, 'index'])->name('sub-criteria.index');
-    Route::get('/dashboard/sub-criteria/create', [SubCriteriaController::class, 'create'])->name('sub-criteria.create');
-    Route::post('/dashboard/sub-criteria', [SubCriteriaController::class, 'store'])->name('sub-criteria.store');
-    Route::delete('/sub-criteria/{id}', [SubCriteriaController::class, 'destroy'])->name('sub-criteria.destroy');
-    Route::get('/dashboard/sub-criteria/{id}/edit', [SubCriteriaController::class, 'edit'])->name('sub-criteria.edit');
-    Route::put('/sub-criteria/{id}', [SubCriteriaController::class, 'update'])->name('sub-criteria.update');
-    Route::delete('/dashboard/sub-criteria/destroy-all', [UserController::class, 'destroyAll'])->name('sub-criteria.destroyAll');
-    Route::get('/dashboard/sub-criteria/export', [SubCriteriaController::class, 'export'])->name('sub-criteria.export');
-    Route::post('/dashboard/sub-criteria/import', [SubCriteriaController::class, 'import'])->name('sub-criteria.import');
-
-
-    Route::prefix('dashboard/wood')->middleware(['auth', 'admin'])->group(function () {
-    // Route untuk resource category
-    Route::resource('category', CategoryController::class);
-
-    // Tambahan: route untuk menampilkan data kayu berdasarkan kategori
-    Route::get('category/{category:slug}/woods', [CategoryController::class, 'woods'])->name('category.woods');
-
-
-});
-    // Alternative (Alternatif) Routes
+    // Alternative
     Route::resource('alternatif', AlternativeController::class)->except(['show']);
-    Route::post('/alternatif/import', [AlternativeController::class, 'import'])->name('import');
-    Route::get('/alternatif/export', [AlternativeController::class, 'export'])->name('export');
+    Route::post('alternatif/import', [AlternativeController::class, 'import'])->name('alternatives.import');
+    Route::get('alternatif/export', [AlternativeController::class, 'export'])->name('alternatives.export');
+    Route::delete('alternatif/destroy-all', [AlternativeController::class, 'destroyAll'])->name('alternatif.destroyAll');
+    Route::get('alternatif/wood-by-category/{id}', [AlternativeController::class, 'getWoodByCategory'])->name('alternatif.wood-by-category');
 
-    Route::get('/alternatif/wood-by-category/{id}', [AlternativeController::class, 'getWoodByCategory']);
-    Route::delete('/dashboard/alternatif/destroy-all', [AlternativeController::class, 'destroyAll'])->name('alternatif.destroyAll');
+    // Wood Import/Export
+    Route::post('wood/import', [WoodController::class, 'import'])->name('wood.import');
+    Route::get('wood/export', [WoodController::class, 'export'])->name('wood.export');
+    Route::delete('/dashboard/wood/destroy-all', [WoodController::class, 'destroyAll'])->name('wood.destroyAll');
 
-
-
-    // Wood update override
-    Route::put('wood/{wood}', [WoodController::class, 'update'])->name('wood.update');
+    // User Import/Export
+    Route::delete('users/destroy-all', [UserController::class, 'destroyAll'])->name('users.destroyAll');
+    Route::post('users/import', [UserController::class, 'import'])->name('users.import');
+    Route::get('users/export', [UserController::class, 'export'])->name('users.export');
 
     // Profile
     Route::get('profile', [ProfileController::class, 'index'])->name('profile.index');
     Route::put('profile/{users}', [ProfileController::class, 'update'])->name('profile.update');
-
-    // Category and Woods
-    Route::get('wood/category/{category:slug}', [CategoryController::class, 'woods'])->name('category.woods');
-
 
     // Criteria Comparison
     Route::prefix('perbandingan')->group(function () {
@@ -100,16 +95,4 @@ Route::prefix('dashboard')->middleware('auth')->group(function () {
         Route::get('wood/detailr/{criteria_analysis}', [RankingController::class, 'detailr'])->name('rank.detailr');
         Route::get('export/{criteria_analysis}', [RankingController::class, 'export'])->name('rank.export');
     });
-Route::get('/dashboard/kayu/export', [WoodController::class, 'export'])->name('wood.export');
-Route::post('/dashboard/kayu/import', [WoodController::class, 'import'])->name('wood.import');
-
-
-    Route::delete('/dashboard/users/destroy-all', [UserController::class, 'destroyAll'])->name('users.destroyAll');
-
-    // Import & Export
-    Route::post('/dashboard/users/import', [UserController::class, 'import'])->name('users.import');
-    Route::get('/dashboard/users/export', [UserController::class, 'export'])->name('users.export');
-
-    Route::post('alternatives/import', [AlternativeController::class, 'import'])->name('alternatives.import');
-    Route::get('alternatives/export', [AlternativeController::class, 'export'])->name('alternatives.export');
 });
