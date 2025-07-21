@@ -230,7 +230,7 @@
     <script src="{{ asset('libraries/swiper/swiper-bundle.min.js') }}"></script>
 
     <!-- js Script -->
-    <script src="{{ asset('frontend/scripts/portal.js') }}"></script>
+    <script src="{{ asset('scripts/portal.js') }}"></script>
 </body>
 
 </html>
