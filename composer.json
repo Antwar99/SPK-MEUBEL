@@ -10,8 +10,7 @@
     "require": {
         "php": "^8.0",
         "ext-mbstring": "*",
-        "ext-pdo": "*",
-        "ext-fileinfo": "*",
+
         "cviebrock/eloquent-sluggable": "^9.0",
         "doctrine/dbal": "3.1",
         "fruitcake/laravel-cors": "^2.0.5",
