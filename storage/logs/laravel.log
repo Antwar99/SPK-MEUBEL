@@ -3342,3 +3342,59 @@ Did you mean one of these?
 [2025-07-21 10:41:42] local.DEBUG: Model Criteria pakai tabel: criterias  
 [2025-07-21 10:41:42] local.DEBUG: Model Criteria pakai tabel: criterias  
 [2025-07-21 10:41:42] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-21 10:43:06] local.DEBUG: QUERY: select * from `criterias` where `criterias`.`created_by` = ?  
+[2025-07-21 10:43:06] local.DEBUG: BINDINGS: [1]  
+[2025-07-21 10:43:06] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-21 10:43:06] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-21 10:43:06] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-21 10:43:06] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-21 10:43:06] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-21 10:43:06] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-21 10:43:06] local.DEBUG: QUERY: select * from `priority_values` where `criteria_id` = ? limit 1  
+[2025-07-21 10:43:06] local.DEBUG: BINDINGS: [34]  
+[2025-07-21 10:43:06] local.DEBUG: QUERY: select * from `priority_values` where `criteria_id` = ? limit 1  
+[2025-07-21 10:43:06] local.DEBUG: BINDINGS: [35]  
+[2025-07-21 10:43:06] local.DEBUG: QUERY: select * from `priority_values` where `criteria_id` = ? limit 1  
+[2025-07-21 10:43:06] local.DEBUG: BINDINGS: [36]  
+[2025-07-21 10:43:06] local.DEBUG: QUERY: select * from `priority_values` where `criteria_id` = ? limit 1  
+[2025-07-21 10:43:06] local.DEBUG: BINDINGS: [37]  
+[2025-07-21 10:43:06] local.DEBUG: QUERY: select * from `priority_values` where `criteria_id` = ? limit 1  
+[2025-07-21 10:43:06] local.DEBUG: BINDINGS: [38]  
+[2025-07-21 10:43:06] local.DEBUG: QUERY: select * from `priority_values` where `criteria_id` = ? limit 1  
+[2025-07-21 10:43:06] local.DEBUG: BINDINGS: [39]  
+[2025-07-21 10:47:47] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-21 10:47:47] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-21 10:47:47] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-21 10:47:47] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-21 10:47:47] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-21 10:47:47] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-21 10:47:54] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-21 10:47:54] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-21 10:47:54] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-21 10:47:54] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-21 10:47:54] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-21 10:47:54] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-21 10:47:58] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-21 10:47:58] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-21 10:47:58] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-21 10:47:58] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-21 10:47:58] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-21 10:47:58] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-21 10:48:17] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-21 10:48:17] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-21 10:48:17] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-21 10:48:17] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-21 10:48:17] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-21 10:48:17] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-21 10:48:20] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-21 10:48:20] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-21 10:48:20] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-21 10:48:20] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-21 10:48:20] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-21 10:48:20] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-21 10:48:25] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-21 10:48:25] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-21 10:48:25] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-21 10:48:25] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-21 10:48:25] local.DEBUG: Model Criteria pakai tabel: criterias  
+[2025-07-21 10:48:25] local.DEBUG: Model Criteria pakai tabel: criterias  
