@@ -6,6 +6,8 @@ use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
 use Cviebrock\EloquentSluggable\Sluggable;
 use App\Traits\OwnedByUser;
+use App\Models\Subcriteria;
+
 
 class Criteria extends Model
 {
@@ -35,7 +37,7 @@ class Criteria extends Model
     }
     public function subcriterias()
 {
-    return $this->hasMany(Subcriteria::class, 'criteria_kode', 'kode');
+    return $this->hasMany(SubCriteria::class, 'criteria_kode', 'kode');
 }
 
 public function priority()
