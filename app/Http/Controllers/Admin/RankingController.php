@@ -88,9 +88,9 @@ class RankingController extends Controller
 
     if ($val == 0 || $divider == 0) {
         $result = 0;
-    } elseif ($kategori === 'BENEFIT') {
+    } elseif ($kategori === 'benefit') {
         $result = round($val / $divider, 6);
-    } elseif ($kategori === 'COST') {
+    } elseif ($kategori === 'cost') {
         $result = round($divider / $val, 6);
     } else {
         $result = 0;
