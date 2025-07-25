@@ -16,7 +16,7 @@ class CriteriaImport implements ToModel, WithHeadingRow, WithValidation
             ['kode' => $row['kode']],
             [
                 'name'       => $row['nama'], // disesuaikan ke field DB
-                'kategori'   => strtolower($row['kategori']),
+                'kategori'   => strtoupper($row['kategori']),
                 'keterangan' => $row['keterangan'],
                 'bobot'      => $row['bobot'] ?? null, // jika ingin ikut diimpor
             ]

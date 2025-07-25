@@ -13,16 +13,16 @@ class CriteriaExport implements FromCollection, WithHeadings
         // Ambil data kriteria dengan relasi bobot (priority)
         $criterias = Criteria::with('priority')->get();
 
-        return $criterias->map(function ($criteria) {
+      return $criterias->map(function ($criteria) {
             return [
-                
-                'Kode' => $criteria->kode,
-                'Nama' => $criteria->name,
-                'Bobot' => optional($criteria->priority)->value ?? 0,
-                'Kategori' => $criteria->kategori,
+                'Kode'       => $criteria->kode,
+                'Nama'       => $criteria->name,
+                'Bobot'      => optional($criteria->priority)->value ?? 0,
+                'Kategori'   => strtoupper($criteria->kategori),
                 'Keterangan' => $criteria->keterangan,
             ];
         });
+
     }
 
     public function headings(): array

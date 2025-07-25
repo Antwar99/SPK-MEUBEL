@@ -96,13 +96,13 @@ public function update(Request $request, $id)
 
         return redirect()->route('sub-criteria.index')->with('success', 'Sub kriteria berhasil dihapus.');
     }
-      public function destroyAll()
+     public function destroyAll()
 {
-    Alternative::query()->delete();
-    Criteria::query()->delete();
+    SubCriteria::query()->delete();
 
     return redirect()->route('sub-criteria.index')->with('success', 'Semua data subkriteria berhasil dihapus.');
 }
+
 public function export()
 {
     return Excel::download(new SubCriteriaExport, 'data_subkriteria.xlsx');

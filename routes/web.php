@@ -40,7 +40,7 @@ Route::prefix('dashboard')->middleware('auth')->group(function () {
     });
 
     // Criteria
-    Route::delete('kriteria/destroy-all', [CriteriaController::class, 'destroyAll'])->name('kriteria.destroyAll');
+    Route::delete('/dashboard/kriteria/destroy-all', [CriteriaController::class, 'destroyAll'])->name('kriteria.destroyAll');
     Route::post('kriteria/import', [CriteriaController::class, 'import'])->name('kriteria.import');
     Route::get('kriteria/export', [CriteriaController::class, 'export'])->name('kriteria.export');
 
@@ -51,7 +51,7 @@ Route::prefix('dashboard')->middleware('auth')->group(function () {
     Route::get('sub-criteria/{id}/edit', [SubCriteriaController::class, 'edit'])->name('sub-criteria.edit');
     Route::put('sub-criteria/{id}', [SubCriteriaController::class, 'update'])->name('sub-criteria.update');
     Route::delete('sub-criteria/{id}', [SubCriteriaController::class, 'destroy'])->name('sub-criteria.destroy');
-    Route::delete('sub-criteria/destroy-all', [SubCriteriaController::class, 'destroyAll'])->name('sub-criteria.destroyAll');
+    Route::delete('/dashboard/sub-criteria/destroy-all', [SubCriteriaController::class, 'destroyAll'])->name('sub-criteria.destroyAll');
     Route::post('sub-criteria/import', [SubCriteriaController::class, 'import'])->name('sub-criteria.import');
     Route::get('sub-criteria/export', [SubCriteriaController::class, 'export'])->name('sub-criteria.export');
 
@@ -59,7 +59,7 @@ Route::prefix('dashboard')->middleware('auth')->group(function () {
     Route::resource('alternatif', AlternativeController::class)->except(['show']);
     Route::post('alternatif/import', [AlternativeController::class, 'import'])->name('alternatives.import');
     Route::get('alternatif/export', [AlternativeController::class, 'export'])->name('alternatives.export');
-    Route::delete('alternatif/destroy-all', [AlternativeController::class, 'destroyAll'])->name('alternatif.destroyAll');
+    Route::delete('/dashboard/alternatif/destroy-all', [AlternativeController::class, 'destroyAll'])->name('alternatif.destroyAll');
     Route::get('alternatif/wood-by-category/{id}', [AlternativeController::class, 'getWoodByCategory'])->name('alternatif.wood-by-category');
 
     // Wood Import/Export

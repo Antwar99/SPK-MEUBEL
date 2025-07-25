@@ -138,9 +138,11 @@ class AlternativeController extends Controller
 
 public function destroyAll()
 {
-    Alternative::truncate(); // hapus semua record
+   Alternative::query()->delete();
+
     return redirect()->route('alternatif.index')->with('success', 'Semua data alternatif berhasil dihapus.');
 }
+
 
 
     public function import(Request $request)

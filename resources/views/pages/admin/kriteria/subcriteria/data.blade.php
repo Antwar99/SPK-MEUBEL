@@ -20,10 +20,10 @@
                             </a>
 
                             {{-- Hapus Semua --}}
-                            <form id="deleteAllsubcriteriaForm" action="{{ route('sub-criteria.destroyAll') }}" method="POST" class="d-inline">
+                            <form id="deleteAllsub-criteriaForm" action="{{ route('sub-criteria.destroyAll') }}" method="POST" class="d-inline">
                                 @csrf
                                 @method('DELETE')
-                                <button type="button" class="btn btn-danger" id="deleteAllsubcriteriaBtn">
+                                <button type="button" class="btn btn-danger" id="deleteAllsub-criteriaBtn">
                                     <i class="fas fa-trash-alt me-1"></i> Hapus Semua
                                 </button>
                             </form>
@@ -61,7 +61,7 @@
                             @forelse($subCriterias as $sub)
                                 <tr>
                                     <td>{{ $loop->iteration }}</td>
-                                    <td>{{ $sub->criteria->name }}</td>
+                                    <td>{{ $sub->criteria_kode }}</td>
                                     <td>{{ $sub->name }}</td> 
                                     <td>{{ $sub->level }}</td> 
                                     <td>{{ $sub->value }}</td>
