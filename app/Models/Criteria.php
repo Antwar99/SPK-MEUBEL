@@ -6,7 +6,7 @@ use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
 use Cviebrock\EloquentSluggable\Sluggable;
 use App\Traits\OwnedByUser;
-use App\Models\Subcriteria;
+use App\Models\SubCriteria;
 
 
 class Criteria extends Model
