@@ -59,7 +59,7 @@ Route::prefix('dashboard')->middleware('auth')->group(function () {
     Route::resource('alternatif', AlternativeController::class)->except(['show']);
     Route::post('alternatif/import', [AlternativeController::class, 'import'])->name('alternatives.import');
     Route::get('alternatif/export', [AlternativeController::class, 'export'])->name('alternatives.export');
-    Route::delete('alternatif/destroy-all', [AlternativeController::class, 'destroyAll'])->name('alternatif.destroyAll');
+    Route::delete('/dashboard/alternatif/destroy-all', [AlternativeController::class, 'destroyAll'])->name('alternatif.destroyAll');
     Route::get('alternatif/wood-by-category/{id}', [AlternativeController::class, 'getWoodByCategory'])->name('alternatif.wood-by-category');
 
     // Wood Import/Export
